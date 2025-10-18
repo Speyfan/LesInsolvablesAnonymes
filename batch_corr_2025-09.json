@@ -1,0 +1,1963 @@
+{
+  "ACA.PA": {
+    "ticker": "ACA.PA",
+    "period": {
+      "start": "2025-09-18",
+      "end": "2025-10-17"
+    },
+    "last_date": "2025-10-15",
+    "mean_corr_return": 0.0009168553103324854,
+    "lead_corrs": [
+      {
+        "lead_days": 0,
+        "corr_return": -0.16950140334396704
+      },
+      {
+        "lead_days": 1,
+        "corr_return": -0.1420630853942565
+      },
+      {
+        "lead_days": 2,
+        "corr_return": -0.05453012124950788
+      },
+      {
+        "lead_days": 3,
+        "corr_return": 0.06589909544924719
+      },
+      {
+        "lead_days": 4,
+        "corr_return": -0.04664489613714036
+      },
+      {
+        "lead_days": 5,
+        "corr_return": 0.3523415425376195
+      }
+    ],
+    "last_sentiment_delta": 0.016699999999999993,
+    "forecast": [
+      {
+        "horizon": 1,
+        "predicted_return": 0.002064094209419648,
+        "predicted_price": 16.959970109151413
+      },
+      {
+        "horizon": 2,
+        "predicted_return": 0.0018171862889496937,
+        "predicted_price": 16.99081755358268
+      },
+      {
+        "horizon": 3,
+        "predicted_return": 0.0018450263321195346,
+        "predicted_price": 17.022194996576506
+      },
+      {
+        "horizon": 4,
+        "predicted_return": 0.002798164993062284,
+        "predicted_price": 17.06989260849336
+      },
+      {
+        "horizon": 5,
+        "predicted_return": 0.002241522555113781,
+        "predicted_price": 17.10819807303147
+      }
+    ]
+  },
+  "AIR.PA": {
+    "ticker": "AIR.PA",
+    "period": {
+      "start": "2025-09-18",
+      "end": "2025-10-17"
+    },
+    "last_date": "2025-10-15",
+    "mean_corr_return": 0.07981075814912364,
+    "lead_corrs": [
+      {
+        "lead_days": 0,
+        "corr_return": 0.533191663279781
+      },
+      {
+        "lead_days": 1,
+        "corr_return": 0.10724760681967378
+      },
+      {
+        "lead_days": 2,
+        "corr_return": -0.011482730401395351
+      },
+      {
+        "lead_days": 3,
+        "corr_return": -0.25470388727881177
+      },
+      {
+        "lead_days": 4,
+        "corr_return": -0.27471659249542857
+      },
+      {
+        "lead_days": 5,
+        "corr_return": 0.37932848897092275
+      }
+    ],
+    "last_sentiment_delta": -0.1264,
+    "forecast": [
+      {
+        "horizon": 1,
+        "predicted_return": 0.003000761152289052,
+        "predicted_price": 205.46563525994952
+      },
+      {
+        "horizon": 2,
+        "predicted_return": 0.0033113845106356654,
+        "predicted_price": 206.147138719278
+      },
+      {
+        "horizon": 3,
+        "predicted_return": 0.0028364340853163023,
+        "predicted_price": 206.73269153853758
+      },
+      {
+        "horizon": 4,
+        "predicted_return": 0.0036323603263350213,
+        "predicted_price": 207.48498463809423
+      },
+      {
+        "horizon": 5,
+        "predicted_return": 0.0036721284340061563,
+        "predicted_price": 208.24829678218555
+      }
+    ]
+  },
+  "BN.PA": {
+    "ticker": "BN.PA",
+    "period": {
+      "start": "2025-09-18",
+      "end": "2025-10-17"
+    },
+    "last_date": "2025-10-15",
+    "mean_corr_return": 0.08309792309362633,
+    "lead_corrs": [
+      {
+        "lead_days": 0,
+        "corr_return": -0.018888741335941418
+      },
+      {
+        "lead_days": 1,
+        "corr_return": 0.23449894679929648
+      },
+      {
+        "lead_days": 2,
+        "corr_return": -0.3023877302913284
+      },
+      {
+        "lead_days": 3,
+        "corr_return": 0.2273776186387441
+      },
+      {
+        "lead_days": 4,
+        "corr_return": 0.1012899227057683
+      },
+      {
+        "lead_days": 5,
+        "corr_return": 0.256697522045219
+      }
+    ],
+    "last_sentiment_delta": -0.38660000000000005,
+    "forecast": [
+      {
+        "horizon": 1,
+        "predicted_return": -0.0014464618773489999,
+        "predicted_price": 74.57205661876803
+      },
+      {
+        "horizon": 2,
+        "predicted_return": 0.0029276087964148537,
+        "predicted_price": 74.79069431435228
+      },
+      {
+        "horizon": 3,
+        "predicted_return": -0.0007528565569933361,
+        "predicted_price": 74.73440883983844
+      },
+      {
+        "horizon": 4,
+        "predicted_return": 0.000125531349917694,
+        "predicted_price": 74.74379093992692
+      },
+      {
+        "horizon": 5,
+        "predicted_return": -0.0002693061556883244,
+        "predicted_price": 74.72366468711084
+      }
+    ]
+  },
+  "BNP.PA": {
+    "ticker": "BNP.PA",
+    "period": {
+      "start": "2025-09-18",
+      "end": "2025-10-17"
+    },
+    "last_date": "2025-10-15",
+    "mean_corr_return": -0.003953061974474943,
+    "lead_corrs": [
+      {
+        "lead_days": 0,
+        "corr_return": -0.2422629411306609
+      },
+      {
+        "lead_days": 1,
+        "corr_return": -0.18140424141883654
+      },
+      {
+        "lead_days": 2,
+        "corr_return": 0.18078690044739648
+      },
+      {
+        "lead_days": 3,
+        "corr_return": -0.1655012483216445
+      },
+      {
+        "lead_days": 4,
+        "corr_return": -0.20189704407012596
+      },
+      {
+        "lead_days": 5,
+        "corr_return": 0.5865602026470218
+      }
+    ],
+    "last_sentiment_delta": -0.3794,
+    "forecast": [
+      {
+        "horizon": 1,
+        "predicted_return": 0.001782143692265142,
+        "predicted_price": 77.4779502148276
+      },
+      {
+        "horizon": 2,
+        "predicted_return": -0.0012479210830279234,
+        "predicted_price": 77.38132415067574
+      },
+      {
+        "horizon": 3,
+        "predicted_return": 0.0019646890286772224,
+        "predicted_price": 77.53350383318424
+      },
+      {
+        "horizon": 4,
+        "predicted_return": 0.0024378004591626857,
+        "predicted_price": 77.72274561756373
+      },
+      {
+        "horizon": 5,
+        "predicted_return": -0.003525143206717596,
+        "predicted_price": 77.44924415797387
+      }
+    ]
+  },
+  "CA.PA": {
+    "ticker": "CA.PA",
+    "period": {
+      "start": "2025-09-18",
+      "end": "2025-10-17"
+    },
+    "last_date": "2025-10-15",
+    "mean_corr_return": -0.16650372591766524,
+    "lead_corrs": [
+      {
+        "lead_days": 0,
+        "corr_return": -0.14210753927140352
+      },
+      {
+        "lead_days": 1,
+        "corr_return": -0.39513593233276817
+      },
+      {
+        "lead_days": 2,
+        "corr_return": 0.2515890283455139
+      },
+      {
+        "lead_days": 3,
+        "corr_return": 0.028441477765067065
+      },
+      {
+        "lead_days": 4,
+        "corr_return": -0.3284858316723619
+      },
+      {
+        "lead_days": 5,
+        "corr_return": -0.4133235583400388
+      }
+    ],
+    "last_sentiment_delta": -1.4802,
+    "forecast": [
+      {
+        "horizon": 1,
+        "predicted_return": 0.01942321282955345,
+        "predicted_price": 13.407911490122006
+      },
+      {
+        "horizon": 2,
+        "predicted_return": 0.0007127873505814505,
+        "predicted_price": 13.417471886689974
+      },
+      {
+        "horizon": 3,
+        "predicted_return": 0.006819673135642916,
+        "predicted_price": 13.509287379242355
+      },
+      {
+        "horizon": 4,
+        "predicted_return": 0.023053980204045556,
+        "predicted_price": 13.82434796928964
+      },
+      {
+        "horizon": 5,
+        "predicted_return": 0.043179637875348106,
+        "predicted_price": 14.43435344044397
+      }
+    ]
+  },
+  "CAP.PA": {
+    "ticker": "CAP.PA",
+    "period": {
+      "start": "2025-09-18",
+      "end": "2025-10-17"
+    },
+    "last_date": "2025-10-15",
+    "mean_corr_return": 0.018211482819814623,
+    "lead_corrs": [
+      {
+        "lead_days": 0,
+        "corr_return": -0.333656785471625
+      },
+      {
+        "lead_days": 1,
+        "corr_return": -0.030167860645122526
+      },
+      {
+        "lead_days": 2,
+        "corr_return": -0.027669043011391618
+      },
+      {
+        "lead_days": 3,
+        "corr_return": 0.1757126963523635
+      },
+      {
+        "lead_days": 4,
+        "corr_return": -0.07559409492840641
+      },
+      {
+        "lead_days": 5,
+        "corr_return": 0.4006439846230697
+      }
+    ],
+    "last_sentiment_delta": -1.0148,
+    "forecast": [
+      {
+        "horizon": 1,
+        "predicted_return": -0.0009001818609922288,
+        "predicted_price": 120.09184377736267
+      },
+      {
+        "horizon": 2,
+        "predicted_return": 0.0004750252292551793,
+        "predicted_price": 120.14890398443069
+      },
+      {
+        "horizon": 3,
+        "predicted_return": -0.0037214178920574287,
+        "predicted_price": 119.7026106405073
+      },
+      {
+        "horizon": 4,
+        "predicted_return": 0.0024056635953252606,
+        "predicted_price": 119.99092150362121
+      },
+      {
+        "horizon": 5,
+        "predicted_return": -0.00886952544045579,
+        "predicted_price": 118.93136480141797
+      }
+    ]
+  },
+  "CS.PA": {
+    "ticker": "CS.PA",
+    "period": {
+      "start": "2025-09-18",
+      "end": "2025-10-17"
+    },
+    "last_date": "2025-10-15",
+    "mean_corr_return": 0.05452268872810464,
+    "lead_corrs": [
+      {
+        "lead_days": 0,
+        "corr_return": 0.30361921759507565
+      },
+      {
+        "lead_days": 1,
+        "corr_return": 0.18224369659108924
+      },
+      {
+        "lead_days": 2,
+        "corr_return": -0.21541566752302183
+      },
+      {
+        "lead_days": 3,
+        "corr_return": -0.34548115012492164
+      },
+      {
+        "lead_days": 4,
+        "corr_return": 0.12976764146507727
+      },
+      {
+        "lead_days": 5,
+        "corr_return": 0.2724023943653291
+      }
+    ],
+    "last_sentiment_delta": 0.0627,
+    "forecast": [
+      {
+        "horizon": 1,
+        "predicted_return": 0.0032617404499464893,
+        "predicted_price": 40.672447762548984
+      },
+      {
+        "horizon": 2,
+        "predicted_return": 0.0015596077614898273,
+        "predicted_price": 40.73593031883421
+      },
+      {
+        "horizon": 3,
+        "predicted_return": 0.0006535953832393706,
+        "predicted_price": 40.762563837646894
+      },
+      {
+        "horizon": 4,
+        "predicted_return": 0.0027925168045780852,
+        "predicted_price": 40.876553066504364
+      },
+      {
+        "horizon": 5,
+        "predicted_return": 0.0037718938675579987,
+        "predicted_price": 41.03102623139136
+      }
+    ]
+  },
+  "DG.PA": {
+    "ticker": "DG.PA",
+    "period": {
+      "start": "2025-09-18",
+      "end": "2025-10-17"
+    },
+    "last_date": "2025-10-15",
+    "mean_corr_return": -0.109634761594818,
+    "lead_corrs": [
+      {
+        "lead_days": 0,
+        "corr_return": -0.6528944188053273
+      },
+      {
+        "lead_days": 1,
+        "corr_return": -0.01831980161845444
+      },
+      {
+        "lead_days": 2,
+        "corr_return": -0.17917446818957686
+      },
+      {
+        "lead_days": 3,
+        "corr_return": 0.1525057529758507
+      },
+      {
+        "lead_days": 4,
+        "corr_return": -0.0541033222736657
+      },
+      {
+        "lead_days": 5,
+        "corr_return": 0.09417768834226564
+      }
+    ],
+    "last_sentiment_delta": -0.5598000000000001,
+    "forecast": [
+      {
+        "horizon": 1,
+        "predicted_return": 0.0024937613304198297,
+        "predicted_price": 121.70312195310875
+      },
+      {
+        "horizon": 2,
+        "predicted_return": 0.006784593985539303,
+        "predicted_price": 122.53163560862801
+      },
+      {
+        "horizon": 3,
+        "predicted_return": -0.0009650889151108281,
+        "predicted_price": 122.4134387297745
+      },
+      {
+        "horizon": 4,
+        "predicted_return": 0.004134515661102283,
+        "predicted_price": 122.92060673389015
+      },
+      {
+        "horizon": 5,
+        "predicted_return": 0.0022748933872746126,
+        "predicted_price": 123.20055631630427
+      }
+    ]
+  },
+  "DSY.PA": {
+    "ticker": "DSY.PA",
+    "period": {
+      "start": "2025-09-18",
+      "end": "2025-10-17"
+    },
+    "last_date": "2025-10-15",
+    "mean_corr_return": 0.09115535748580887,
+    "lead_corrs": [
+      {
+        "lead_days": 0,
+        "corr_return": 0.2327450214952521
+      },
+      {
+        "lead_days": 1,
+        "corr_return": -0.29006888385396523
+      },
+      {
+        "lead_days": 2,
+        "corr_return": 0.430637471033397
+      },
+      {
+        "lead_days": 3,
+        "corr_return": -0.25254291869043
+      },
+      {
+        "lead_days": 4,
+        "corr_return": 0.22335152935710767
+      },
+      {
+        "lead_days": 5,
+        "corr_return": 0.2028099255734917
+      }
+    ],
+    "last_sentiment_delta": -0.8519,
+    "forecast": [
+      {
+        "horizon": 1,
+        "predicted_return": 0.0065005129404593276,
+        "predicted_price": 28.776455188654644
+      },
+      {
+        "horizon": 2,
+        "predicted_return": -0.0069541217940714845,
+        "predicted_price": 28.57703441630261
+      },
+      {
+        "horizon": 3,
+        "predicted_return": 0.006387422206906816,
+        "predicted_price": 28.760152203263022
+      },
+      {
+        "horizon": 4,
+        "predicted_return": -0.002993752838158179,
+        "predicted_price": 28.674180169699145
+      },
+      {
+        "horizon": 5,
+        "predicted_return": -0.0025484361082846476,
+        "predicted_price": 28.6011988871453
+      }
+    ]
+  },
+  "EL.PA": {
+    "ticker": "EL.PA",
+    "period": {
+      "start": "2025-09-18",
+      "end": "2025-10-17"
+    },
+    "last_date": "2025-10-15",
+    "mean_corr_return": -0.07542963548835417,
+    "lead_corrs": [
+      {
+        "lead_days": 0,
+        "corr_return": -0.2898059268684257
+      },
+      {
+        "lead_days": 1,
+        "corr_return": 0.23776862738061832
+      },
+      {
+        "lead_days": 2,
+        "corr_return": -0.2298086737873669
+      },
+      {
+        "lead_days": 3,
+        "corr_return": 0.31396272420463145
+      },
+      {
+        "lead_days": 4,
+        "corr_return": -0.6731301333296287
+      },
+      {
+        "lead_days": 5,
+        "corr_return": 0.18843556947004658
+      }
+    ],
+    "last_sentiment_delta": -0.10260000000000002,
+    "forecast": [
+      {
+        "horizon": 1,
+        "predicted_return": 0.0024427626558656303,
+        "predicted_price": 277.5772216775942
+      },
+      {
+        "horizon": 2,
+        "predicted_return": 0.003394907604613402,
+        "predicted_price": 278.5211721039585
+      },
+      {
+        "horizon": 3,
+        "predicted_return": 0.005941973352043636,
+        "predicted_price": 280.181064119822
+      },
+      {
+        "horizon": 4,
+        "predicted_return": 0.0052730907893725806,
+        "predicted_price": 281.6623864495496
+      },
+      {
+        "horizon": 5,
+        "predicted_return": 0.004058597186863742,
+        "predicted_price": 282.8078635615533
+      }
+    ]
+  },
+  "EN.PA": {
+    "ticker": "EN.PA",
+    "period": {
+      "start": "2025-09-18",
+      "end": "2025-10-17"
+    },
+    "last_date": "2025-10-15",
+    "mean_corr_return": 0.0187994367506569,
+    "lead_corrs": [
+      {
+        "lead_days": 0,
+        "corr_return": -0.21448270639894798
+      },
+      {
+        "lead_days": 1,
+        "corr_return": 0.6466943833521103
+      },
+      {
+        "lead_days": 2,
+        "corr_return": -0.877908930496525
+      },
+      {
+        "lead_days": 3,
+        "corr_return": 0.2872818665571185
+      },
+      {
+        "lead_days": 4,
+        "corr_return": -0.09729417622207048
+      },
+      {
+        "lead_days": 5,
+        "corr_return": 0.368506183712256
+      }
+    ],
+    "last_sentiment_delta": -0.05720000000000003,
+    "forecast": [
+      {
+        "horizon": 1,
+        "predicted_return": 0.006748759172089435,
+        "predicted_price": 40.6836395300927
+      },
+      {
+        "horizon": 2,
+        "predicted_return": 0.004418360817430486,
+        "predicted_price": 40.863792225631485
+      },
+      {
+        "horizon": 3,
+        "predicted_return": 0.007064897093651837,
+        "predicted_price": 41.15351293098396
+      },
+      {
+        "horizon": 4,
+        "predicted_return": 0.010476000278103862,
+        "predicted_price": 41.58690327901194
+      },
+      {
+        "horizon": 5,
+        "predicted_return": 0.00915380587224962,
+        "predicted_price": 41.96932937522325
+      }
+    ]
+  },
+  "ENGI.PA": {
+    "ticker": "ENGI.PA",
+    "period": {
+      "start": "2025-09-18",
+      "end": "2025-10-17"
+    },
+    "last_date": "2025-10-15",
+    "mean_corr_return": -0.05746701754568608,
+    "lead_corrs": [
+      {
+        "lead_days": 0,
+        "corr_return": -0.33556843783844664
+      },
+      {
+        "lead_days": 1,
+        "corr_return": 0.10959899285110852
+      },
+      {
+        "lead_days": 2,
+        "corr_return": -0.18468258795880785
+      },
+      {
+        "lead_days": 3,
+        "corr_return": -0.42355540065053543
+      },
+      {
+        "lead_days": 4,
+        "corr_return": -0.24415803048365284
+      },
+      {
+        "lead_days": 5,
+        "corr_return": 0.7335633588062177
+      }
+    ],
+    "last_sentiment_delta": 0.09660000000000002,
+    "forecast": [
+      {
+        "horizon": 1,
+        "predicted_return": 0.003958570885349729,
+        "predicted_price": 19.306273727330574
+      },
+      {
+        "horizon": 2,
+        "predicted_return": 0.003977169170852878,
+        "predicted_price": 19.38321093874038
+      },
+      {
+        "horizon": 3,
+        "predicted_return": 0.0030843475827194745,
+        "predicted_price": 19.44308779158943
+      },
+      {
+        "horizon": 4,
+        "predicted_return": 0.003660432125621056,
+        "predicted_price": 19.514388310506497
+      },
+      {
+        "horizon": 5,
+        "predicted_return": 0.0024916698241152363,
+        "predicted_price": 19.563072350084447
+      }
+    ]
+  },
+  "ERF.PA": {
+    "error": "Exception: zero-size array to reduction operation maximum which has no identity",
+    "ticker": "ERF.PA",
+    "period": {
+      "start": "2025-09-18",
+      "end": "2025-10-17"
+    }
+  },
+  "GLE.PA": {
+    "ticker": "GLE.PA",
+    "period": {
+      "start": "2025-09-18",
+      "end": "2025-10-17"
+    },
+    "last_date": "2025-10-15",
+    "mean_corr_return": -0.069467147515327,
+    "lead_corrs": [
+      {
+        "lead_days": 0,
+        "corr_return": 0.26307437585312227
+      },
+      {
+        "lead_days": 1,
+        "corr_return": -0.4273528006815557
+      },
+      {
+        "lead_days": 2,
+        "corr_return": -0.22551154886725105
+      },
+      {
+        "lead_days": 3,
+        "corr_return": 0.14636447659632704
+      },
+      {
+        "lead_days": 4,
+        "corr_return": 0.2929838928814691
+      },
+      {
+        "lead_days": 5,
+        "corr_return": -0.46636128087407364
+      }
+    ],
+    "last_sentiment_delta": 0.7735,
+    "forecast": [
+      {
+        "horizon": 1,
+        "predicted_return": -0.015279913752756173,
+        "predicted_price": 55.26900827738011
+      },
+      {
+        "horizon": 2,
+        "predicted_return": -0.008426352641299912,
+        "predicted_price": 54.80524876812217
+      },
+      {
+        "horizon": 3,
+        "predicted_return": 0.004586355296035257,
+        "predicted_price": 55.05718239801798
+      },
+      {
+        "horizon": 4,
+        "predicted_return": 0.009719844365151718,
+        "predicted_price": 55.594938862961335
+      },
+      {
+        "horizon": 5,
+        "predicted_return": -0.015089033734945,
+        "predicted_price": 54.762362140712504
+      }
+    ]
+  },
+  "HO.PA": {
+    "ticker": "HO.PA",
+    "period": {
+      "start": "2025-09-18",
+      "end": "2025-10-17"
+    },
+    "last_date": "2025-10-15",
+    "mean_corr_return": -0.09067936197551381,
+    "lead_corrs": [
+      {
+        "lead_days": 0,
+        "corr_return": -0.2118624348945868
+      },
+      {
+        "lead_days": 1,
+        "corr_return": -0.5294550044032542
+      },
+      {
+        "lead_days": 2,
+        "corr_return": 0.0856153610077835
+      },
+      {
+        "lead_days": 3,
+        "corr_return": 0.23034812550902703
+      },
+      {
+        "lead_days": 4,
+        "corr_return": -0.32032039092834647
+      },
+      {
+        "lead_days": 5,
+        "corr_return": 0.20159817185629408
+      }
+    ],
+    "last_sentiment_delta": -1.4889000000000001,
+    "forecast": [
+      {
+        "horizon": 1,
+        "predicted_return": 0.021140245381892245,
+        "predicted_price": 263.41010034403604
+      },
+      {
+        "horizon": 2,
+        "predicted_return": -0.0008264007429593639,
+        "predicted_price": 263.1925079630449
+      },
+      {
+        "horizon": 3,
+        "predicted_return": -0.007414164184405488,
+        "predicted_price": 261.24837147618626
+      },
+      {
+        "horizon": 4,
+        "predicted_return": 0.013341635542829617,
+        "predicted_price": 264.75720678818874
+      },
+      {
+        "horizon": 5,
+        "predicted_return": -0.006619709970785545,
+        "predicted_price": 263.0103789921746
+      }
+    ]
+  },
+  "KER.PA": {
+    "ticker": "KER.PA",
+    "period": {
+      "start": "2025-09-18",
+      "end": "2025-10-17"
+    },
+    "last_date": "2025-10-15",
+    "mean_corr_return": -0.030689889236085233,
+    "lead_corrs": [
+      {
+        "lead_days": 0,
+        "corr_return": -0.06580414124746573
+      },
+      {
+        "lead_days": 1,
+        "corr_return": 0.22489164196864564
+      },
+      {
+        "lead_days": 2,
+        "corr_return": 0.32143553316969203
+      },
+      {
+        "lead_days": 3,
+        "corr_return": -0.30363452000324204
+      },
+      {
+        "lead_days": 4,
+        "corr_return": -0.10069350339112325
+      },
+      {
+        "lead_days": 5,
+        "corr_return": -0.260334345913018
+      }
+    ],
+    "last_sentiment_delta": -0.6277,
+    "forecast": [
+      {
+        "horizon": 1,
+        "predicted_return": 0.0026057480634710936,
+        "predicted_price": 325.246400835071
+      },
+      {
+        "horizon": 2,
+        "predicted_return": 0.002147436028360969,
+        "predicted_price": 325.94559714529845
+      },
+      {
+        "horizon": 3,
+        "predicted_return": 0.01408379696024006,
+        "predicted_price": 330.56862724836543
+      },
+      {
+        "horizon": 4,
+        "predicted_return": 0.012079455751136529,
+        "predicted_price": 334.5859309269032
+      },
+      {
+        "horizon": 5,
+        "predicted_return": 0.017622189448679916,
+        "predicted_price": 340.53432552228253
+      }
+    ]
+  },
+  "LR.PA": {
+    "ticker": "LR.PA",
+    "period": {
+      "start": "2025-09-18",
+      "end": "2025-10-17"
+    },
+    "last_date": "2025-10-15",
+    "mean_corr_return": -0.008659700264125816,
+    "lead_corrs": [
+      {
+        "lead_days": 0,
+        "corr_return": -0.4079246202906104
+      },
+      {
+        "lead_days": 1,
+        "corr_return": 0.10732880170843609
+      },
+      {
+        "lead_days": 2,
+        "corr_return": 0.09977977792165159
+      },
+      {
+        "lead_days": 3,
+        "corr_return": -0.11271238122971197
+      },
+      {
+        "lead_days": 4,
+        "corr_return": 0.011246179221091751
+      },
+      {
+        "lead_days": 5,
+        "corr_return": 0.25032404108438805
+      }
+    ],
+    "last_sentiment_delta": -0.014200000000000101,
+    "forecast": [
+      {
+        "horizon": 1,
+        "predicted_return": 0.00418106920910592,
+        "predicted_price": 146.6619265783784
+      },
+      {
+        "horizon": 2,
+        "predicted_return": 0.0029322011114878694,
+        "predicted_price": 147.0925999443954
+      },
+      {
+        "horizon": 3,
+        "predicted_return": 0.003734968359584119,
+        "predicted_price": 147.6430133996818
+      },
+      {
+        "horizon": 4,
+        "predicted_return": 0.003970105981416449,
+        "predicted_price": 148.23033690714266
+      },
+      {
+        "horizon": 5,
+        "predicted_return": 0.0030772147287154265,
+        "predicted_price": 148.6871760186434
+      }
+    ]
+  },
+  "MC.PA": {
+    "ticker": "MC.PA",
+    "period": {
+      "start": "2025-09-18",
+      "end": "2025-10-17"
+    },
+    "last_date": "2025-10-15",
+    "mean_corr_return": 0.017790517748952333,
+    "lead_corrs": [
+      {
+        "lead_days": 0,
+        "corr_return": 0.2617734355212823
+      },
+      {
+        "lead_days": 1,
+        "corr_return": -0.383047730165394
+      },
+      {
+        "lead_days": 2,
+        "corr_return": 0.19184862824111115
+      },
+      {
+        "lead_days": 3,
+        "corr_return": -0.06665801473403338
+      },
+      {
+        "lead_days": 4,
+        "corr_return": -0.16768870105121297
+      },
+      {
+        "lead_days": 5,
+        "corr_return": 0.2705154886819609
+      }
+    ],
+    "last_sentiment_delta": 0.053599999999999995,
+    "forecast": [
+      {
+        "horizon": 1,
+        "predicted_return": 0.008924011750750482,
+        "predicted_price": 607.3962975729527
+      },
+      {
+        "horizon": 2,
+        "predicted_return": 0.009019435688182267,
+        "predicted_price": 612.8994497729908
+      },
+      {
+        "horizon": 3,
+        "predicted_return": 0.008916278550431967,
+        "predicted_price": 618.3886673208851
+      },
+      {
+        "horizon": 4,
+        "predicted_return": 0.012204764114057447,
+        "predicted_price": 625.9821995124883
+      },
+      {
+        "horizon": 5,
+        "predicted_return": 0.010698241380174717,
+        "predicted_price": 632.7150588438661
+      }
+    ]
+  },
+  "ML.PA": {
+    "ticker": "ML.PA",
+    "period": {
+      "start": "2025-09-18",
+      "end": "2025-10-17"
+    },
+    "last_date": "2025-10-15",
+    "mean_corr_return": 0.02114957018167861,
+    "lead_corrs": [
+      {
+        "lead_days": 0,
+        "corr_return": 0.1857415833455339
+      },
+      {
+        "lead_days": 1,
+        "corr_return": -0.27487718798507316
+      },
+      {
+        "lead_days": 2,
+        "corr_return": -0.21659989711443992
+      },
+      {
+        "lead_days": 3,
+        "corr_return": 0.23432182243080144
+      },
+      {
+        "lead_days": 4,
+        "corr_return": 0.19789854055995293
+      },
+      {
+        "lead_days": 5,
+        "corr_return": 0.00041255985329647125
+      }
+    ],
+    "last_sentiment_delta": -0.2885,
+    "forecast": [
+      {
+        "horizon": 1,
+        "predicted_return": -0.0006222357107058089,
+        "predicted_price": 26.483515882701376
+      },
+      {
+        "horizon": 2,
+        "predicted_return": -0.002518246062673082,
+        "predicted_price": 26.416907776105067
+      },
+      {
+        "horizon": 3,
+        "predicted_return": -0.016105884631588904,
+        "predicted_price": 25.9948480532101
+      },
+      {
+        "horizon": 4,
+        "predicted_return": -0.015543483898267714,
+        "predicted_price": 25.593921520560823
+      },
+      {
+        "horizon": 5,
+        "predicted_return": -0.010055886456717398,
+        "predicted_price": 25.337841664659464
+      }
+    ]
+  },
+  "MT.AS": {
+    "ticker": "MT.AS",
+    "period": {
+      "start": "2025-09-18",
+      "end": "2025-10-17"
+    },
+    "last_date": "2025-10-15",
+    "mean_corr_return": 0.020158565018176478,
+    "lead_corrs": [
+      {
+        "lead_days": 0,
+        "corr_return": 0.26883577661368735
+      },
+      {
+        "lead_days": 1,
+        "corr_return": 0.41551969180707793
+      },
+      {
+        "lead_days": 2,
+        "corr_return": -0.13038552507907392
+      },
+      {
+        "lead_days": 3,
+        "corr_return": -0.4144067045158181
+      },
+      {
+        "lead_days": 4,
+        "corr_return": 0.03999006746950381
+      },
+      {
+        "lead_days": 5,
+        "corr_return": -0.05860191618631819
+      }
+    ],
+    "last_sentiment_delta": 0.6805,
+    "forecast": [
+      {
+        "horizon": 1,
+        "predicted_return": 0.03323966002066769,
+        "predicted_price": 34.35311602787406
+      },
+      {
+        "horizon": 2,
+        "predicted_return": -0.0029232461199277786,
+        "predicted_price": 34.25284005182501
+      },
+      {
+        "horizon": 3,
+        "predicted_return": -0.024385848195967834,
+        "predicted_price": 33.42765777111834
+      },
+      {
+        "horizon": 4,
+        "predicted_return": 0.009031856005404912,
+        "predicted_price": 33.73093909767655
+      },
+      {
+        "horizon": 5,
+        "predicted_return": 0.0011229560274767462,
+        "predicted_price": 33.76883873487903
+      }
+    ]
+  },
+  "OR.PA": {
+    "ticker": "OR.PA",
+    "period": {
+      "start": "2025-09-18",
+      "end": "2025-10-17"
+    },
+    "last_date": "2025-10-15",
+    "mean_corr_return": -0.03351066623510051,
+    "lead_corrs": [
+      {
+        "lead_days": 0,
+        "corr_return": -0.3795655473396583
+      },
+      {
+        "lead_days": 1,
+        "corr_return": -0.14648469249107246
+      },
+      {
+        "lead_days": 2,
+        "corr_return": 0.43843099059259133
+      },
+      {
+        "lead_days": 3,
+        "corr_return": -0.46196058425054026
+      },
+      {
+        "lead_days": 4,
+        "corr_return": 0.2291302395866528
+      },
+      {
+        "lead_days": 5,
+        "corr_return": 0.1193855964914238
+      }
+    ],
+    "last_sentiment_delta": 0.17279999999999995,
+    "forecast": [
+      {
+        "horizon": 1,
+        "predicted_return": 0.0021631740250439716,
+        "predicted_price": 375.56152688637627
+      },
+      {
+        "horizon": 2,
+        "predicted_return": 0.003138105752370078,
+        "predicted_price": 376.74192982019724
+      },
+      {
+        "horizon": 3,
+        "predicted_return": 0.0017398086633051034,
+        "predicted_price": 377.3979592108575
+      },
+      {
+        "horizon": 4,
+        "predicted_return": 0.0031543650165626524,
+        "predicted_price": 378.59028966480804
+      },
+      {
+        "horizon": 5,
+        "predicted_return": 0.003093370391651159,
+        "predicted_price": 379.76322288055377
+      }
+    ]
+  },
+  "ORA.PA": {
+    "ticker": "ORA.PA",
+    "period": {
+      "start": "2025-09-18",
+      "end": "2025-10-17"
+    },
+    "last_date": "2025-10-15",
+    "mean_corr_return": 0.0021505609595845743,
+    "lead_corrs": [
+      {
+        "lead_days": 0,
+        "corr_return": -0.07661236855187727
+      },
+      {
+        "lead_days": 1,
+        "corr_return": 0.22520814471608547
+      },
+      {
+        "lead_days": 2,
+        "corr_return": 0.1077550152567032
+      },
+      {
+        "lead_days": 3,
+        "corr_return": 0.20644065151971222
+      },
+      {
+        "lead_days": 4,
+        "corr_return": 0.00885248819625095
+      },
+      {
+        "lead_days": 5,
+        "corr_return": -0.4587405653793672
+      }
+    ],
+    "last_sentiment_delta": 0.005400000000000071,
+    "forecast": [
+      {
+        "horizon": 1,
+        "predicted_return": 0.0019107758286985145,
+        "predicted_price": 14.076872256563485
+      },
+      {
+        "horizon": 2,
+        "predicted_return": 0.0020579705115633578,
+        "predicted_price": 14.10587187450679
+      },
+      {
+        "horizon": 3,
+        "predicted_return": 0.00220474664345641,
+        "predicted_price": 14.137006057055672
+      },
+      {
+        "horizon": 4,
+        "predicted_return": 0.001698794350042465,
+        "predicted_price": 14.16104233363681
+      },
+      {
+        "horizon": 5,
+        "predicted_return": 9.620861187496156e-05,
+        "predicted_price": 14.162404813402528
+      }
+    ]
+  },
+  "RI.PA": {
+    "ticker": "RI.PA",
+    "period": {
+      "start": "2025-09-18",
+      "end": "2025-10-17"
+    },
+    "last_date": "2025-10-14",
+    "mean_corr_return": -0.06360104882901398,
+    "lead_corrs": [
+      {
+        "lead_days": 0,
+        "corr_return": -0.36230903040567697
+      },
+      {
+        "lead_days": 1,
+        "corr_return": 0.05990746699122265
+      },
+      {
+        "lead_days": 2,
+        "corr_return": -0.5917143869222119
+      },
+      {
+        "lead_days": 3,
+        "corr_return": 0.31269663201683895
+      },
+      {
+        "lead_days": 4,
+        "corr_return": 0.1594354145349827
+      },
+      {
+        "lead_days": 5,
+        "corr_return": 0.0403776108107608
+      }
+    ],
+    "last_sentiment_delta": -0.4507999999999999,
+    "forecast": [
+      {
+        "horizon": 1,
+        "predicted_return": -0.0068697904927616914,
+        "predicted_price": 82.51121558245937
+      },
+      {
+        "horizon": 2,
+        "predicted_return": 0.0012969560996977016,
+        "predicted_price": 82.61829843267009
+      },
+      {
+        "horizon": 3,
+        "predicted_return": -0.009219001568323339,
+        "predicted_price": 81.86014030995494
+      },
+      {
+        "horizon": 4,
+        "predicted_return": -0.007701452429972248,
+        "predicted_price": 81.23211977270574
+      },
+      {
+        "horizon": 5,
+        "predicted_return": -0.005693373111410006,
+        "predicted_price": 80.77094906039301
+      }
+    ]
+  },
+  "RMS.PA": {
+    "ticker": "RMS.PA",
+    "period": {
+      "start": "2025-09-18",
+      "end": "2025-10-17"
+    },
+    "last_date": "2025-10-15",
+    "mean_corr_return": -0.06069231229622071,
+    "lead_corrs": [
+      {
+        "lead_days": 0,
+        "corr_return": -0.649031460124905
+      },
+      {
+        "lead_days": 1,
+        "corr_return": 0.2707463196240715
+      },
+      {
+        "lead_days": 2,
+        "corr_return": 0.5340429162124216
+      },
+      {
+        "lead_days": 3,
+        "corr_return": -0.14824024616939807
+      },
+      {
+        "lead_days": 4,
+        "corr_return": -0.38005302689782583
+      },
+      {
+        "lead_days": 5,
+        "corr_return": 0.008381623578311532
+      }
+    ],
+    "last_sentiment_delta": -0.9114000000000001,
+    "forecast": [
+      {
+        "horizon": 1,
+        "predicted_return": -0.014419930311687246,
+        "predicted_price": 2115.2768745792323
+      },
+      {
+        "horizon": 2,
+        "predicted_return": -0.028699313105110133,
+        "predicted_price": 2055.432731648257
+      },
+      {
+        "horizon": 3,
+        "predicted_return": 0.009666215962242423,
+        "predicted_price": 2075.397323908141
+      },
+      {
+        "horizon": 4,
+        "predicted_return": 0.025157439366480405,
+        "predicted_price": 2128.2713046093386
+      },
+      {
+        "horizon": 5,
+        "predicted_return": 0.002115122681826829,
+        "predicted_price": 2132.7776235474885
+      }
+    ]
+  },
+  "RNO.PA": {
+    "ticker": "RNO.PA",
+    "period": {
+      "start": "2025-09-18",
+      "end": "2025-10-17"
+    },
+    "last_date": "2025-10-15",
+    "mean_corr_return": -0.09468414798498907,
+    "lead_corrs": [
+      {
+        "lead_days": 0,
+        "corr_return": 0.2004347938051485
+      },
+      {
+        "lead_days": 1,
+        "corr_return": -0.1335714362784205
+      },
+      {
+        "lead_days": 2,
+        "corr_return": -0.2888066593596049
+      },
+      {
+        "lead_days": 3,
+        "corr_return": -0.6208059090361717
+      },
+      {
+        "lead_days": 4,
+        "corr_return": 0.25353443631558154
+      },
+      {
+        "lead_days": 5,
+        "corr_return": 0.021109886643532666
+      }
+    ],
+    "last_sentiment_delta": 0.6659999999999999,
+    "forecast": [
+      {
+        "horizon": 1,
+        "predicted_return": -0.0029514063532432343,
+        "predicted_price": 34.32853319252834
+      },
+      {
+        "horizon": 2,
+        "predicted_return": -0.005360620614607958,
+        "predicted_price": 34.145003306369354
+      },
+      {
+        "horizon": 3,
+        "predicted_return": -0.009139032355361093,
+        "predicted_price": 33.83437261040516
+      },
+      {
+        "horizon": 4,
+        "predicted_return": 0.0034886698348208746,
+        "predicted_price": 33.95261570113685
+      },
+      {
+        "horizon": 5,
+        "predicted_return": 0.0007336882984357079,
+        "predicted_price": 33.97753547853474
+      }
+    ]
+  },
+  "SAF.PA": {
+    "ticker": "SAF.PA",
+    "period": {
+      "start": "2025-09-18",
+      "end": "2025-10-17"
+    },
+    "last_date": "2025-10-15",
+    "mean_corr_return": -0.04604197662327253,
+    "lead_corrs": [
+      {
+        "lead_days": 0,
+        "corr_return": -0.17087282324632988
+      },
+      {
+        "lead_days": 1,
+        "corr_return": -0.07439866545167971
+      },
+      {
+        "lead_days": 2,
+        "corr_return": -0.14139867072748674
+      },
+      {
+        "lead_days": 3,
+        "corr_return": 0.20282677961403678
+      },
+      {
+        "lead_days": 4,
+        "corr_return": 0.035769427252148954
+      },
+      {
+        "lead_days": 5,
+        "corr_return": -0.12817790718032457
+      }
+    ],
+    "last_sentiment_delta": -1.3089,
+    "forecast": [
+      {
+        "horizon": 1,
+        "predicted_return": 0.00533994828589834,
+        "predicted_price": 301.6062693665426
+      },
+      {
+        "horizon": 2,
+        "predicted_return": 0.007266426713081616,
+        "predicted_price": 303.80585109047223
+      },
+      {
+        "horizon": 3,
+        "predicted_return": -0.00729172068203703,
+        "predicted_price": 301.5986406434093
+      },
+      {
+        "horizon": 4,
+        "predicted_return": 0.00015527901461020316,
+        "predicted_price": 301.6454762193331
+      },
+      {
+        "horizon": 5,
+        "predicted_return": 0.006728974111861488,
+        "predicted_price": 303.6820852799505
+      }
+    ]
+  },
+  "SAN.PA": {
+    "ticker": "SAN.PA",
+    "period": {
+      "start": "2025-09-18",
+      "end": "2025-10-17"
+    },
+    "last_date": "2025-10-15",
+    "mean_corr_return": -0.13583989848648687,
+    "lead_corrs": [
+      {
+        "lead_days": 0,
+        "corr_return": -0.1631743660148904
+      },
+      {
+        "lead_days": 1,
+        "corr_return": -0.15518934631769893
+      },
+      {
+        "lead_days": 2,
+        "corr_return": 0.11163620714694303
+      },
+      {
+        "lead_days": 3,
+        "corr_return": -0.5620792358444642
+      },
+      {
+        "lead_days": 4,
+        "corr_return": 0.21926702496011896
+      },
+      {
+        "lead_days": 5,
+        "corr_return": -0.26549967484892967
+      }
+    ],
+    "last_sentiment_delta": -0.27949999999999997,
+    "forecast": [
+      {
+        "horizon": 1,
+        "predicted_return": 0.0031772066842830067,
+        "predicted_price": 83.96635204655674
+      },
+      {
+        "horizon": 2,
+        "predicted_return": 0.0013499512846710797,
+        "predicted_price": 84.07977907462679
+      },
+      {
+        "horizon": 3,
+        "predicted_return": 0.007933860894027506,
+        "predicted_price": 84.74950960717015
+      },
+      {
+        "horizon": 4,
+        "predicted_return": 0.0016120231225323742,
+        "predicted_price": 84.88623795129757
+      },
+      {
+        "horizon": 5,
+        "predicted_return": 0.006597160073819791,
+        "predicted_price": 85.44809735153449
+      }
+    ]
+  },
+  "SGO.PA": {
+    "ticker": "SGO.PA",
+    "period": {
+      "start": "2025-09-18",
+      "end": "2025-10-17"
+    },
+    "last_date": "2025-10-15",
+    "mean_corr_return": -0.09133690554712053,
+    "lead_corrs": [
+      {
+        "lead_days": 0,
+        "corr_return": -0.1843011027400373
+      },
+      {
+        "lead_days": 1,
+        "corr_return": -0.26926803383927694
+      },
+      {
+        "lead_days": 2,
+        "corr_return": 0.03903795578481887
+      },
+      {
+        "lead_days": 3,
+        "corr_return": 0.23559145691633007
+      },
+      {
+        "lead_days": 4,
+        "corr_return": -0.14090259060861152
+      },
+      {
+        "lead_days": 5,
+        "corr_return": -0.22817911879594632
+      }
+    ],
+    "last_sentiment_delta": 0.053099999999999925,
+    "forecast": [
+      {
+        "horizon": 1,
+        "predicted_return": -0.002779432859505949,
+        "predicted_price": 90.22886942909332
+      },
+      {
+        "horizon": 2,
+        "predicted_return": -0.0020002755911794927,
+        "predicted_price": 90.0485672111347
+      },
+      {
+        "horizon": 3,
+        "predicted_return": -0.0018198571458262376,
+        "predicted_price": 89.88484070723501
+      },
+      {
+        "horizon": 4,
+        "predicted_return": -0.0023436657678797775,
+        "predicted_price": 89.67442734862365
+      },
+      {
+        "horizon": 5,
+        "predicted_return": -0.0011429548907362919,
+        "predicted_price": 89.571992073912
+      }
+    ]
+  },
+  "STMPA.PA": {
+    "ticker": "STMPA.PA",
+    "period": {
+      "start": "2025-09-18",
+      "end": "2025-10-17"
+    },
+    "last_date": "2025-10-15",
+    "mean_corr_return": -0.10655787902781577,
+    "lead_corrs": [
+      {
+        "lead_days": 0,
+        "corr_return": -0.16671074324244828
+      },
+      {
+        "lead_days": 1,
+        "corr_return": -0.39353361456021924
+      },
+      {
+        "lead_days": 2,
+        "corr_return": 0.353850092392276
+      },
+      {
+        "lead_days": 3,
+        "corr_return": 0.04818539984636119
+      },
+      {
+        "lead_days": 4,
+        "corr_return": -0.24039743516684792
+      },
+      {
+        "lead_days": 5,
+        "corr_return": -0.24074097343601641
+      }
+    ],
+    "last_sentiment_delta": 0.6882,
+    "forecast": [
+      {
+        "horizon": 1,
+        "predicted_return": -0.008033479062314679,
+        "predicted_price": 24.507327884271508
+      },
+      {
+        "horizon": 2,
+        "predicted_return": 0.013817607322722178,
+        "predicted_price": 24.848310876852807
+      },
+      {
+        "horizon": 3,
+        "predicted_return": 0.0047373802584998875,
+        "predicted_price": 24.966306047575923
+      },
+      {
+        "horizon": 4,
+        "predicted_return": -0.006209664229000829,
+        "predicted_price": 24.81175402469196
+      },
+      {
+        "horizon": 5,
+        "predicted_return": -0.007416854766229261,
+        "predicted_price": 24.628409608525406
+      }
+    ]
+  },
+  "SU.PA": {
+    "ticker": "SU.PA",
+    "period": {
+      "start": "2025-09-18",
+      "end": "2025-10-17"
+    },
+    "last_date": "2025-10-15",
+    "mean_corr_return": 0.027511373036729053,
+    "lead_corrs": [
+      {
+        "lead_days": 0,
+        "corr_return": 0.19069396924618848
+      },
+      {
+        "lead_days": 1,
+        "corr_return": -0.05818192075931146
+      },
+      {
+        "lead_days": 2,
+        "corr_return": -0.028464543280704562
+      },
+      {
+        "lead_days": 3,
+        "corr_return": -0.030066460264259114
+      },
+      {
+        "lead_days": 4,
+        "corr_return": -0.08763423867291054
+      },
+      {
+        "lead_days": 5,
+        "corr_return": 0.1787214319513715
+      }
+    ],
+    "last_sentiment_delta": 0.3327,
+    "forecast": [
+      {
+        "horizon": 1,
+        "predicted_return": 0.003811804262101049,
+        "predicted_price": 247.03988132785676
+      },
+      {
+        "horizon": 2,
+        "predicted_return": 0.0052193010703258,
+        "predicted_price": 248.33262752604082
+      },
+      {
+        "horizon": 3,
+        "predicted_return": 0.00413008746362851,
+        "predicted_price": 249.3603838987284
+      },
+      {
+        "horizon": 4,
+        "predicted_return": 0.004215900414508462,
+        "predicted_price": 250.413881604888
+      },
+      {
+        "horizon": 5,
+        "predicted_return": 0.009627170953937041,
+        "predicted_price": 252.8363006639293
+      }
+    ]
+  },
+  "VIE.PA": {
+    "ticker": "VIE.PA",
+    "period": {
+      "start": "2025-09-18",
+      "end": "2025-10-17"
+    },
+    "last_date": "2025-10-15",
+    "mean_corr_return": 0.05917917596670597,
+    "lead_corrs": [
+      {
+        "lead_days": 0,
+        "corr_return": -0.13354289286556642
+      },
+      {
+        "lead_days": 1,
+        "corr_return": -0.27463765433095655
+      },
+      {
+        "lead_days": 2,
+        "corr_return": 0.5595921377327309
+      },
+      {
+        "lead_days": 3,
+        "corr_return": -0.1077716430893861
+      },
+      {
+        "lead_days": 4,
+        "corr_return": -0.040615914972061906
+      },
+      {
+        "lead_days": 5,
+        "corr_return": 0.35205102332547594
+      }
+    ],
+    "last_sentiment_delta": 1.1371,
+    "forecast": [
+      {
+        "horizon": 1,
+        "predicted_return": -0.002273806952570773,
+        "predicted_price": 29.792181865945942
+      },
+      {
+        "horizon": 2,
+        "predicted_return": 0.013246568263835778,
+        "predicted_price": 30.189451457030923
+      },
+      {
+        "horizon": 3,
+        "predicted_return": 0.000214106788500731,
+        "predicted_price": 30.195915915546514
+      },
+      {
+        "horizon": 4,
+        "predicted_return": 0.001523027073608642,
+        "predicted_price": 30.241940152180998
+      },
+      {
+        "horizon": 5,
+        "predicted_return": 0.010258364330239331,
+        "predicted_price": 30.55376968822487
+      }
+    ]
+  },
+  "VIV.PA": {
+    "ticker": "VIV.PA",
+    "period": {
+      "start": "2025-09-18",
+      "end": "2025-10-17"
+    },
+    "last_date": "2025-10-10",
+    "mean_corr_return": 0.12331564428934268,
+    "lead_corrs": [
+      {
+        "lead_days": 0,
+        "corr_return": 0.28789755671019823
+      },
+      {
+        "lead_days": 1,
+        "corr_return": 0.20525167387954105
+      },
+      {
+        "lead_days": 2,
+        "corr_return": -0.43062983801482657
+      },
+      {
+        "lead_days": 3,
+        "corr_return": 0.25272697406244843
+      },
+      {
+        "lead_days": 4,
+        "corr_return": -0.42007199500017595
+      },
+      {
+        "lead_days": 5,
+        "corr_return": 0.8447194940988709
+      }
+    ],
+    "last_sentiment_delta": 0.4741,
+    "forecast": [
+      {
+        "horizon": 1,
+        "predicted_return": 0.0025247720102807825,
+        "predicted_price": 2.95244478096135
+      },
+      {
+        "horizon": 2,
+        "predicted_return": -0.006291508273596539,
+        "predicted_price": 2.933927761265913
+      },
+      {
+        "horizon": 3,
+        "predicted_return": 0.0021837853626618343,
+        "predicted_price": 2.940341830692523
+      },
+      {
+        "horizon": 4,
+        "predicted_return": -0.010105987682608304,
+        "predicted_price": 2.9107764178462188
+      },
+      {
+        "horizon": 5,
+        "predicted_return": -0.008751634440755805,
+        "predicted_price": 2.885413512019408
+      }
+    ]
+  }
+}

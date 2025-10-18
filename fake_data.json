@@ -1,0 +1,153 @@
+{
+  "LVMH": {
+    "confidence": 87,
+    "confidence_description": "Très forte confiance basée sur la croissance continue du secteur du luxe et la diversification géographique du groupe.",
+    "current_price": 850.50,
+    "projected_price": 920.75,
+    "projection_change": 8.25,
+    "projection_description": "Projection optimiste basée sur l'expansion en Asie et la demande croissante des millennials pour les produits de luxe.",
+    "keywords": [
+      "luxe", "millennials", "Asie", "croissance", "diversification", 
+      "marque premium", "mode", "parfums", "montres", "innovation",
+      "e-commerce", "sustainability", "revenus élevés"
+    ],
+    "sector": "Luxe",
+    "performance": "positive"
+  },
+  "Airbus": {
+    "confidence": 72,
+    "confidence_description": "Confiance modérée due à la reprise du trafic aérien post-pandémie mais avec des défis liés à la chaîne d'approvisionnement.",
+    "current_price": 145.80,
+    "projected_price": 162.30,
+    "projection_change": 11.3,
+    "projection_description": "Recovery attendue du secteur aéronautique avec une demande accrue pour les avions plus économes en carburant.",
+    "keywords": [
+      "aéronautique", "recovery", "carburant vert", "commandes", "défense",
+      "innovation", "écologie", "transport", "géopolitique", "partenariats",
+      "technologie", "marché émergent"
+    ],
+    "sector": "Industrie",
+    "performance": "positive"
+  },
+  "Sanofi": {
+    "confidence": 78,
+    "confidence_description": "Bonne confiance grâce au pipeline de médicaments prometteurs et à la demande croissante en santé.",
+    "current_price": 92.45,
+    "projected_price": 98.20,
+    "projection_change": 6.2,
+    "projection_description": "Croissance soutenue par les nouveaux traitements et l'expansion dans les marchés émergents.",
+    "keywords": [
+      "santé", "vaccins", "recherche", "innovation", "vieillissement",
+      "traitements", "marchés émergents", "R&D", "biotechnologie", "prévention",
+      "thérapie génique", "chroniques"
+    ],
+    "sector": "Santé",
+    "performance": "positive"
+  },
+  "TotalEnergies": {
+    "confidence": 65,
+    "confidence_description": "Confiance mitigée due à la transition énergétique mais avec des opportunités dans les énergies renouvelables.",
+    "current_price": 58.90,
+    "projected_price": 63.45,
+    "projection_change": 7.7,
+    "projection_description": "Transition vers les énergies vertes avec maintien des revenus pétroliers à court terme.",
+    "keywords": [
+      "transition énergétique", "vert", "pétrole", "gaz", "renouvelables",
+      "écologie", "investissement", "décarbonation", "éolien", "solaire",
+      "hydrogène", "électricité"
+    ],
+    "sector": "Énergie",
+    "performance": "stable"
+  },
+  "BNP Paribas": {
+    "confidence": 71,
+    "confidence_description": "Confiance modérée liée aux taux d'intérêt et à la stabilité du secteur bancaire français.",
+    "current_price": 67.25,
+    "projected_price": 71.80,
+    "projection_change": 6.8,
+    "projection_description": "Amélioration attendue des marges nettes d'intérêt avec la hausse des taux de la BCE.",
+    "keywords": [
+      "banque", "taux d'intérêt", "marges", "crédit", "investissement",
+      "digital", "fintech", "conformité", "risque", "profitabilité",
+      "dividendes", "stabilité"
+    ],
+    "sector": "Banque",
+    "performance": "positive"
+  },
+  "L'Oréal": {
+    "confidence": 84,
+    "confidence_description": "Très forte confiance grâce à la position de leader mondial et l'innovation constante dans la cosmétique.",
+    "current_price": 425.60,
+    "projected_price": 455.30,
+    "projection_change": 7.0,
+    "projection_description": "Croissance soutenue par l'expansion digitale et les nouvelles tendances beauté.",
+    "keywords": [
+      "beauté", "cosmétique", "digital", "innovation", "marques",
+      "e-commerce", "personnalisation", "sustainability", "premium", "masse",
+      "tendances", "millennials"
+    ],
+    "sector": "Consommation",
+    "performance": "positive"
+  },
+  "Hermès": {
+    "confidence": 91,
+    "confidence_description": "Excellente confiance due à la rareté des produits et à la demande inébranlable pour le luxe ultime.",
+    "current_price": 2150.00,
+    "projected_price": 2350.00,
+    "projection_change": 9.3,
+    "projection_description": "Croissance exceptionnelle soutenue par la rareté et l'exclusivité des produits Hermès.",
+    "keywords": [
+      "luxe ultime", "rareté", "exclusivité", "savoir-faire", "maroquinerie",
+      "clientèle VIP", "liste d'attente", "artisanat", "tradition", "prestige",
+      "investissement", "collection"
+    ],
+    "sector": "Luxe",
+    "performance": "positive"
+  },
+  "Orange": {
+    "confidence": 68,
+    "confidence_description": "Confiance modérée due aux investissements 5G mais avec des défis de concurrence.",
+    "current_price": 11.85,
+    "projected_price": 12.45,
+    "projection_change": 5.1,
+    "projection_description": "Croissance modérée soutenue par la 5G et les services numériques.",
+    "keywords": [
+      "télécoms", "5G", "fibre", "mobile", "digital", "concurrence",
+      "infrastructure", "services", "innovation", "convergence", "data",
+      "connectivité", "IoT"
+    ],
+    "sector": "Technologie",
+    "performance": "stable"
+  },
+  "Schneider Electric": {
+    "confidence": 79,
+    "confidence_description": "Bonne confiance grâce à la transition énergétique et la digitalisation des infrastructures.",
+    "current_price": 168.90,
+    "projected_price": 185.20,
+    "projection_change": 9.6,
+    "projection_description": "Croissance forte portée par l'efficacité énergétique et l'automatisation industrielle.",
+    "keywords": [
+      "efficacité énergétique", "automatisation", "digital", "IoT", "smart grid",
+      "industrie 4.0", "électrification", "durabilité", "innovation", "infrastructure",
+      "connectivité", "optimisation"
+    ],
+    "sector": "Industrie",
+    "performance": "positive"
+  },
+  "Capgemini": {
+    "confidence": 76,
+    "confidence_description": "Bonne confiance grâce à la transformation digitale des entreprises et l'adoption du cloud.",
+    "current_price": 198.75,
+    "projected_price": 218.50,
+    "projection_change": 9.9,
+    "projection_description": "Croissance soutenue par la demande de services IT et la transformation digitale.",
+    "keywords": [
+      "transformation digitale", "cloud", "IT services", "consulting", "innovation",
+      "artificial intelligence", "data analytics", "cybersécurité", "agilité", "outsourcing",
+      "technologies émergentes", "automatisation"
+    ],
+    "sector": "Technologie",
+    "performance": "positive"
+  }
+}
+

@@ -1,0 +1,4994 @@
+[
+  {
+    "ticker": "ACA.PA",
+    "published_date": "2025-09-17",
+    "sentiment_score_mean": 0.6701,
+    "nb_articles": 14
+  },
+  {
+    "ticker": "ACA.PA",
+    "published_date": "2025-09-18",
+    "sentiment_score_mean": -0.268,
+    "nb_articles": 5
+  },
+  {
+    "ticker": "ACA.PA",
+    "published_date": "2025-09-19",
+    "sentiment_score_mean": 0.3302,
+    "nb_articles": 6
+  },
+  {
+    "ticker": "ACA.PA",
+    "published_date": "2025-09-20",
+    "sentiment_score_mean": 0.0,
+    "nb_articles": 2
+  },
+  {
+    "ticker": "ACA.PA",
+    "published_date": "2025-09-21",
+    "sentiment_score_mean": 0.698,
+    "nb_articles": 2
+  },
+  {
+    "ticker": "ACA.PA",
+    "published_date": "2025-09-22",
+    "sentiment_score_mean": 0.5792,
+    "nb_articles": 4
+  },
+  {
+    "ticker": "ACA.PA",
+    "published_date": "2025-09-24",
+    "sentiment_score_mean": -0.0362,
+    "nb_articles": 8
+  },
+  {
+    "ticker": "ACA.PA",
+    "published_date": "2025-09-25",
+    "sentiment_score_mean": 0.3344,
+    "nb_articles": 3
+  },
+  {
+    "ticker": "ACA.PA",
+    "published_date": "2025-09-26",
+    "sentiment_score_mean": -0.8173,
+    "nb_articles": 1
+  },
+  {
+    "ticker": "ACA.PA",
+    "published_date": "2025-09-28",
+    "sentiment_score_mean": 0.6949,
+    "nb_articles": 1
+  },
+  {
+    "ticker": "ACA.PA",
+    "published_date": "2025-09-29",
+    "sentiment_score_mean": 0.4321,
+    "nb_articles": 2
+  },
+  {
+    "ticker": "ACA.PA",
+    "published_date": "2025-09-30",
+    "sentiment_score_mean": -0.0273,
+    "nb_articles": 6
+  },
+  {
+    "ticker": "ACA.PA",
+    "published_date": "2025-10-02",
+    "sentiment_score_mean": 0.7664,
+    "nb_articles": 2
+  },
+  {
+    "ticker": "ACA.PA",
+    "published_date": "2025-10-04",
+    "sentiment_score_mean": -0.5825,
+    "nb_articles": 4
+  },
+  {
+    "ticker": "ACA.PA",
+    "published_date": "2025-10-05",
+    "sentiment_score_mean": -0.9186,
+    "nb_articles": 2
+  },
+  {
+    "ticker": "ACA.PA",
+    "published_date": "2025-10-06",
+    "sentiment_score_mean": -0.1455,
+    "nb_articles": 11
+  },
+  {
+    "ticker": "ACA.PA",
+    "published_date": "2025-10-07",
+    "sentiment_score_mean": -0.0492,
+    "nb_articles": 4
+  },
+  {
+    "ticker": "ACA.PA",
+    "published_date": "2025-10-08",
+    "sentiment_score_mean": 0.8896,
+    "nb_articles": 2
+  },
+  {
+    "ticker": "ACA.PA",
+    "published_date": "2025-10-09",
+    "sentiment_score_mean": -0.466,
+    "nb_articles": 4
+  },
+  {
+    "ticker": "ACA.PA",
+    "published_date": "2025-10-10",
+    "sentiment_score_mean": -0.0435,
+    "nb_articles": 4
+  },
+  {
+    "ticker": "ACA.PA",
+    "published_date": "2025-10-13",
+    "sentiment_score_mean": -0.6169,
+    "nb_articles": 3
+  },
+  {
+    "ticker": "ACA.PA",
+    "published_date": "2025-10-14",
+    "sentiment_score_mean": 0.2879,
+    "nb_articles": 3
+  },
+  {
+    "ticker": "ACA.PA",
+    "published_date": "2025-10-15",
+    "sentiment_score_mean": 0.3046,
+    "nb_articles": 3
+  },
+  {
+    "ticker": "AIR.PA",
+    "published_date": "2025-09-17",
+    "sentiment_score_mean": -0.3606,
+    "nb_articles": 5
+  },
+  {
+    "ticker": "AIR.PA",
+    "published_date": "2025-09-18",
+    "sentiment_score_mean": 0.0576,
+    "nb_articles": 2
+  },
+  {
+    "ticker": "AIR.PA",
+    "published_date": "2025-09-19",
+    "sentiment_score_mean": 0.886,
+    "nb_articles": 2
+  },
+  {
+    "ticker": "AIR.PA",
+    "published_date": "2025-09-20",
+    "sentiment_score_mean": 0.7199,
+    "nb_articles": 2
+  },
+  {
+    "ticker": "AIR.PA",
+    "published_date": "2025-09-21",
+    "sentiment_score_mean": 0.8777,
+    "nb_articles": 1
+  },
+  {
+    "ticker": "AIR.PA",
+    "published_date": "2025-09-22",
+    "sentiment_score_mean": -0.5599,
+    "nb_articles": 6
+  },
+  {
+    "ticker": "AIR.PA",
+    "published_date": "2025-09-23",
+    "sentiment_score_mean": 0.0814,
+    "nb_articles": 5
+  },
+  {
+    "ticker": "AIR.PA",
+    "published_date": "2025-09-24",
+    "sentiment_score_mean": -0.1305,
+    "nb_articles": 5
+  },
+  {
+    "ticker": "AIR.PA",
+    "published_date": "2025-09-25",
+    "sentiment_score_mean": -0.1225,
+    "nb_articles": 10
+  },
+  {
+    "ticker": "AIR.PA",
+    "published_date": "2025-09-26",
+    "sentiment_score_mean": 0.0308,
+    "nb_articles": 7
+  },
+  {
+    "ticker": "AIR.PA",
+    "published_date": "2025-09-27",
+    "sentiment_score_mean": 0.4553,
+    "nb_articles": 2
+  },
+  {
+    "ticker": "AIR.PA",
+    "published_date": "2025-09-29",
+    "sentiment_score_mean": 0.1281,
+    "nb_articles": 4
+  },
+  {
+    "ticker": "AIR.PA",
+    "published_date": "2025-09-30",
+    "sentiment_score_mean": 0.1154,
+    "nb_articles": 7
+  },
+  {
+    "ticker": "AIR.PA",
+    "published_date": "2025-10-01",
+    "sentiment_score_mean": 0.7464,
+    "nb_articles": 1
+  },
+  {
+    "ticker": "AIR.PA",
+    "published_date": "2025-10-02",
+    "sentiment_score_mean": 0.7558,
+    "nb_articles": 2
+  },
+  {
+    "ticker": "AIR.PA",
+    "published_date": "2025-10-03",
+    "sentiment_score_mean": 0.4591,
+    "nb_articles": 2
+  },
+  {
+    "ticker": "AIR.PA",
+    "published_date": "2025-10-04",
+    "sentiment_score_mean": -0.7607,
+    "nb_articles": 1
+  },
+  {
+    "ticker": "AIR.PA",
+    "published_date": "2025-10-05",
+    "sentiment_score_mean": 0.8531,
+    "nb_articles": 2
+  },
+  {
+    "ticker": "AIR.PA",
+    "published_date": "2025-10-06",
+    "sentiment_score_mean": -0.4764,
+    "nb_articles": 4
+  },
+  {
+    "ticker": "AIR.PA",
+    "published_date": "2025-10-07",
+    "sentiment_score_mean": -0.6602,
+    "nb_articles": 5
+  },
+  {
+    "ticker": "AIR.PA",
+    "published_date": "2025-10-08",
+    "sentiment_score_mean": 0.5744,
+    "nb_articles": 3
+  },
+  {
+    "ticker": "AIR.PA",
+    "published_date": "2025-10-09",
+    "sentiment_score_mean": 0.2905,
+    "nb_articles": 3
+  },
+  {
+    "ticker": "AIR.PA",
+    "published_date": "2025-10-10",
+    "sentiment_score_mean": -0.8027,
+    "nb_articles": 1
+  },
+  {
+    "ticker": "AIR.PA",
+    "published_date": "2025-10-11",
+    "sentiment_score_mean": 0.0,
+    "nb_articles": 1
+  },
+  {
+    "ticker": "AIR.PA",
+    "published_date": "2025-10-12",
+    "sentiment_score_mean": 0.8419,
+    "nb_articles": 1
+  },
+  {
+    "ticker": "AIR.PA",
+    "published_date": "2025-10-13",
+    "sentiment_score_mean": 0.4579,
+    "nb_articles": 2
+  },
+  {
+    "ticker": "AIR.PA",
+    "published_date": "2025-10-14",
+    "sentiment_score_mean": -0.0866,
+    "nb_articles": 4
+  },
+  {
+    "ticker": "AIR.PA",
+    "published_date": "2025-10-15",
+    "sentiment_score_mean": -0.213,
+    "nb_articles": 5
+  },
+  {
+    "ticker": "ALO.PA",
+    "published_date": "2025-09-18",
+    "sentiment_score_mean": 0.4749,
+    "nb_articles": 2
+  },
+  {
+    "ticker": "ALO.PA",
+    "published_date": "2025-09-19",
+    "sentiment_score_mean": 0.6982,
+    "nb_articles": 3
+  },
+  {
+    "ticker": "ALO.PA",
+    "published_date": "2025-09-20",
+    "sentiment_score_mean": -0.9244,
+    "nb_articles": 1
+  },
+  {
+    "ticker": "ALO.PA",
+    "published_date": "2025-09-22",
+    "sentiment_score_mean": 0.0,
+    "nb_articles": 1
+  },
+  {
+    "ticker": "ALO.PA",
+    "published_date": "2025-09-23",
+    "sentiment_score_mean": 0.1937,
+    "nb_articles": 2
+  },
+  {
+    "ticker": "ALO.PA",
+    "published_date": "2025-09-24",
+    "sentiment_score_mean": 0.0,
+    "nb_articles": 1
+  },
+  {
+    "ticker": "ALO.PA",
+    "published_date": "2025-09-25",
+    "sentiment_score_mean": 0.9496,
+    "nb_articles": 1
+  },
+  {
+    "ticker": "ALO.PA",
+    "published_date": "2025-09-26",
+    "sentiment_score_mean": -0.135,
+    "nb_articles": 10
+  },
+  {
+    "ticker": "ALO.PA",
+    "published_date": "2025-09-30",
+    "sentiment_score_mean": 0.0,
+    "nb_articles": 1
+  },
+  {
+    "ticker": "ALO.PA",
+    "published_date": "2025-10-01",
+    "sentiment_score_mean": 0.9221,
+    "nb_articles": 1
+  },
+  {
+    "ticker": "ALO.PA",
+    "published_date": "2025-10-06",
+    "sentiment_score_mean": 0.8563,
+    "nb_articles": 1
+  },
+  {
+    "ticker": "ALO.PA",
+    "published_date": "2025-10-08",
+    "sentiment_score_mean": 0.8532,
+    "nb_articles": 1
+  },
+  {
+    "ticker": "ALO.PA",
+    "published_date": "2025-10-10",
+    "sentiment_score_mean": 0.9169,
+    "nb_articles": 1
+  },
+  {
+    "ticker": "ALO.PA",
+    "published_date": "2025-10-13",
+    "sentiment_score_mean": 0.0,
+    "nb_articles": 1
+  },
+  {
+    "ticker": "ALO.PA",
+    "published_date": "2025-10-14",
+    "sentiment_score_mean": 0.7657,
+    "nb_articles": 1
+  },
+  {
+    "ticker": "ALO.PA",
+    "published_date": "2025-10-15",
+    "sentiment_score_mean": 0.9462,
+    "nb_articles": 1
+  },
+  {
+    "ticker": "BN.PA",
+    "published_date": "2025-09-17",
+    "sentiment_score_mean": 0.7207,
+    "nb_articles": 1
+  },
+  {
+    "ticker": "BN.PA",
+    "published_date": "2025-09-18",
+    "sentiment_score_mean": 0.3261,
+    "nb_articles": 7
+  },
+  {
+    "ticker": "BN.PA",
+    "published_date": "2025-09-19",
+    "sentiment_score_mean": -0.1439,
+    "nb_articles": 5
+  },
+  {
+    "ticker": "BN.PA",
+    "published_date": "2025-09-22",
+    "sentiment_score_mean": -0.0114,
+    "nb_articles": 2
+  },
+  {
+    "ticker": "BN.PA",
+    "published_date": "2025-09-23",
+    "sentiment_score_mean": 0.5764,
+    "nb_articles": 4
+  },
+  {
+    "ticker": "BN.PA",
+    "published_date": "2025-09-24",
+    "sentiment_score_mean": 0.7123,
+    "nb_articles": 3
+  },
+  {
+    "ticker": "BN.PA",
+    "published_date": "2025-09-25",
+    "sentiment_score_mean": -0.6414,
+    "nb_articles": 1
+  },
+  {
+    "ticker": "BN.PA",
+    "published_date": "2025-09-27",
+    "sentiment_score_mean": 0.9151,
+    "nb_articles": 1
+  },
+  {
+    "ticker": "BN.PA",
+    "published_date": "2025-09-28",
+    "sentiment_score_mean": 0.9051,
+    "nb_articles": 2
+  },
+  {
+    "ticker": "BN.PA",
+    "published_date": "2025-09-29",
+    "sentiment_score_mean": -0.1866,
+    "nb_articles": 2
+  },
+  {
+    "ticker": "BN.PA",
+    "published_date": "2025-09-30",
+    "sentiment_score_mean": 0.9169,
+    "nb_articles": 1
+  },
+  {
+    "ticker": "BN.PA",
+    "published_date": "2025-10-01",
+    "sentiment_score_mean": 0.1777,
+    "nb_articles": 8
+  },
+  {
+    "ticker": "BN.PA",
+    "published_date": "2025-10-02",
+    "sentiment_score_mean": 0.6219,
+    "nb_articles": 3
+  },
+  {
+    "ticker": "BN.PA",
+    "published_date": "2025-10-04",
+    "sentiment_score_mean": -0.5046,
+    "nb_articles": 1
+  },
+  {
+    "ticker": "BN.PA",
+    "published_date": "2025-10-06",
+    "sentiment_score_mean": -0.4254,
+    "nb_articles": 3
+  },
+  {
+    "ticker": "BN.PA",
+    "published_date": "2025-10-07",
+    "sentiment_score_mean": 0.6079,
+    "nb_articles": 3
+  },
+  {
+    "ticker": "BN.PA",
+    "published_date": "2025-10-08",
+    "sentiment_score_mean": 0.0108,
+    "nb_articles": 7
+  },
+  {
+    "ticker": "BN.PA",
+    "published_date": "2025-10-09",
+    "sentiment_score_mean": 0.6953,
+    "nb_articles": 4
+  },
+  {
+    "ticker": "BN.PA",
+    "published_date": "2025-10-10",
+    "sentiment_score_mean": 0.927,
+    "nb_articles": 2
+  },
+  {
+    "ticker": "BN.PA",
+    "published_date": "2025-10-12",
+    "sentiment_score_mean": 0.8645,
+    "nb_articles": 1
+  },
+  {
+    "ticker": "BN.PA",
+    "published_date": "2025-10-13",
+    "sentiment_score_mean": 0.8156,
+    "nb_articles": 1
+  },
+  {
+    "ticker": "BN.PA",
+    "published_date": "2025-10-14",
+    "sentiment_score_mean": 0.9232,
+    "nb_articles": 2
+  },
+  {
+    "ticker": "BN.PA",
+    "published_date": "2025-10-15",
+    "sentiment_score_mean": 0.5366,
+    "nb_articles": 5
+  },
+  {
+    "ticker": "BNP.PA",
+    "published_date": "2025-09-17",
+    "sentiment_score_mean": -0.4918,
+    "nb_articles": 4
+  },
+  {
+    "ticker": "BNP.PA",
+    "published_date": "2025-09-18",
+    "sentiment_score_mean": -0.1574,
+    "nb_articles": 7
+  },
+  {
+    "ticker": "BNP.PA",
+    "published_date": "2025-09-19",
+    "sentiment_score_mean": -0.4294,
+    "nb_articles": 4
+  },
+  {
+    "ticker": "BNP.PA",
+    "published_date": "2025-09-22",
+    "sentiment_score_mean": 0.4746,
+    "nb_articles": 4
+  },
+  {
+    "ticker": "BNP.PA",
+    "published_date": "2025-09-23",
+    "sentiment_score_mean": 0.3364,
+    "nb_articles": 6
+  },
+  {
+    "ticker": "BNP.PA",
+    "published_date": "2025-09-24",
+    "sentiment_score_mean": 0.0086,
+    "nb_articles": 4
+  },
+  {
+    "ticker": "BNP.PA",
+    "published_date": "2025-09-25",
+    "sentiment_score_mean": 0.5652,
+    "nb_articles": 10
+  },
+  {
+    "ticker": "BNP.PA",
+    "published_date": "2025-09-26",
+    "sentiment_score_mean": 0.3106,
+    "nb_articles": 5
+  },
+  {
+    "ticker": "BNP.PA",
+    "published_date": "2025-09-27",
+    "sentiment_score_mean": -0.4758,
+    "nb_articles": 2
+  },
+  {
+    "ticker": "BNP.PA",
+    "published_date": "2025-09-28",
+    "sentiment_score_mean": 0.862,
+    "nb_articles": 1
+  },
+  {
+    "ticker": "BNP.PA",
+    "published_date": "2025-09-29",
+    "sentiment_score_mean": -0.0459,
+    "nb_articles": 8
+  },
+  {
+    "ticker": "BNP.PA",
+    "published_date": "2025-09-30",
+    "sentiment_score_mean": 0.4512,
+    "nb_articles": 6
+  },
+  {
+    "ticker": "BNP.PA",
+    "published_date": "2025-10-01",
+    "sentiment_score_mean": 0.4181,
+    "nb_articles": 6
+  },
+  {
+    "ticker": "BNP.PA",
+    "published_date": "2025-10-02",
+    "sentiment_score_mean": 0.7859,
+    "nb_articles": 7
+  },
+  {
+    "ticker": "BNP.PA",
+    "published_date": "2025-10-03",
+    "sentiment_score_mean": 0.9169,
+    "nb_articles": 1
+  },
+  {
+    "ticker": "BNP.PA",
+    "published_date": "2025-10-04",
+    "sentiment_score_mean": 0.8193,
+    "nb_articles": 1
+  },
+  {
+    "ticker": "BNP.PA",
+    "published_date": "2025-10-05",
+    "sentiment_score_mean": -0.8282,
+    "nb_articles": 1
+  },
+  {
+    "ticker": "BNP.PA",
+    "published_date": "2025-10-06",
+    "sentiment_score_mean": 0.623,
+    "nb_articles": 4
+  },
+  {
+    "ticker": "BNP.PA",
+    "published_date": "2025-10-07",
+    "sentiment_score_mean": -0.942,
+    "nb_articles": 3
+  },
+  {
+    "ticker": "BNP.PA",
+    "published_date": "2025-10-08",
+    "sentiment_score_mean": 0.9169,
+    "nb_articles": 1
+  },
+  {
+    "ticker": "BNP.PA",
+    "published_date": "2025-10-09",
+    "sentiment_score_mean": -0.3287,
+    "nb_articles": 2
+  },
+  {
+    "ticker": "BNP.PA",
+    "published_date": "2025-10-10",
+    "sentiment_score_mean": 0.174,
+    "nb_articles": 7
+  },
+  {
+    "ticker": "BNP.PA",
+    "published_date": "2025-10-13",
+    "sentiment_score_mean": 0.9169,
+    "nb_articles": 1
+  },
+  {
+    "ticker": "BNP.PA",
+    "published_date": "2025-10-14",
+    "sentiment_score_mean": 0.8378,
+    "nb_articles": 1
+  },
+  {
+    "ticker": "BNP.PA",
+    "published_date": "2025-10-15",
+    "sentiment_score_mean": 0.4584,
+    "nb_articles": 2
+  },
+  {
+    "ticker": "BNP.PA",
+    "published_date": "2025-10-16",
+    "sentiment_score_mean": 0.8041,
+    "nb_articles": 1
+  },
+  {
+    "ticker": "CA.PA",
+    "published_date": "2025-09-17",
+    "sentiment_score_mean": 0.0,
+    "nb_articles": 1
+  },
+  {
+    "ticker": "CA.PA",
+    "published_date": "2025-09-18",
+    "sentiment_score_mean": 0.9168,
+    "nb_articles": 1
+  },
+  {
+    "ticker": "CA.PA",
+    "published_date": "2025-09-19",
+    "sentiment_score_mean": 0.7243,
+    "nb_articles": 1
+  },
+  {
+    "ticker": "CA.PA",
+    "published_date": "2025-09-22",
+    "sentiment_score_mean": 0.9449,
+    "nb_articles": 1
+  },
+  {
+    "ticker": "CA.PA",
+    "published_date": "2025-09-26",
+    "sentiment_score_mean": 0.9028,
+    "nb_articles": 2
+  },
+  {
+    "ticker": "CA.PA",
+    "published_date": "2025-09-29",
+    "sentiment_score_mean": 0.93,
+    "nb_articles": 1
+  },
+  {
+    "ticker": "CA.PA",
+    "published_date": "2025-09-30",
+    "sentiment_score_mean": 0.8835,
+    "nb_articles": 2
+  },
+  {
+    "ticker": "CA.PA",
+    "published_date": "2025-10-01",
+    "sentiment_score_mean": 0.8169,
+    "nb_articles": 1
+  },
+  {
+    "ticker": "CA.PA",
+    "published_date": "2025-10-02",
+    "sentiment_score_mean": 0.3244,
+    "nb_articles": 2
+  },
+  {
+    "ticker": "CA.PA",
+    "published_date": "2025-10-03",
+    "sentiment_score_mean": 0.23,
+    "nb_articles": 3
+  },
+  {
+    "ticker": "CA.PA",
+    "published_date": "2025-10-04",
+    "sentiment_score_mean": 0.0,
+    "nb_articles": 1
+  },
+  {
+    "ticker": "CA.PA",
+    "published_date": "2025-10-05",
+    "sentiment_score_mean": 0.0,
+    "nb_articles": 1
+  },
+  {
+    "ticker": "CA.PA",
+    "published_date": "2025-10-07",
+    "sentiment_score_mean": 0.0,
+    "nb_articles": 1
+  },
+  {
+    "ticker": "CA.PA",
+    "published_date": "2025-10-10",
+    "sentiment_score_mean": 0.9384,
+    "nb_articles": 1
+  },
+  {
+    "ticker": "CA.PA",
+    "published_date": "2025-10-13",
+    "sentiment_score_mean": 0.8758,
+    "nb_articles": 1
+  },
+  {
+    "ticker": "CA.PA",
+    "published_date": "2025-10-15",
+    "sentiment_score_mean": -0.6044,
+    "nb_articles": 2
+  },
+  {
+    "ticker": "CAP.PA",
+    "published_date": "2025-09-17",
+    "sentiment_score_mean": 0.9063,
+    "nb_articles": 3
+  },
+  {
+    "ticker": "CAP.PA",
+    "published_date": "2025-09-18",
+    "sentiment_score_mean": 0.1302,
+    "nb_articles": 6
+  },
+  {
+    "ticker": "CAP.PA",
+    "published_date": "2025-09-19",
+    "sentiment_score_mean": 0.3602,
+    "nb_articles": 4
+  },
+  {
+    "ticker": "CAP.PA",
+    "published_date": "2025-09-20",
+    "sentiment_score_mean": -0.3271,
+    "nb_articles": 2
+  },
+  {
+    "ticker": "CAP.PA",
+    "published_date": "2025-09-22",
+    "sentiment_score_mean": 0.005,
+    "nb_articles": 2
+  },
+  {
+    "ticker": "CAP.PA",
+    "published_date": "2025-09-23",
+    "sentiment_score_mean": 0.0978,
+    "nb_articles": 3
+  },
+  {
+    "ticker": "CAP.PA",
+    "published_date": "2025-09-24",
+    "sentiment_score_mean": -0.4906,
+    "nb_articles": 3
+  },
+  {
+    "ticker": "CAP.PA",
+    "published_date": "2025-09-25",
+    "sentiment_score_mean": 0.3012,
+    "nb_articles": 7
+  },
+  {
+    "ticker": "CAP.PA",
+    "published_date": "2025-09-27",
+    "sentiment_score_mean": 0.0396,
+    "nb_articles": 2
+  },
+  {
+    "ticker": "CAP.PA",
+    "published_date": "2025-09-29",
+    "sentiment_score_mean": 0.8126,
+    "nb_articles": 2
+  },
+  {
+    "ticker": "CAP.PA",
+    "published_date": "2025-09-30",
+    "sentiment_score_mean": 0.5301,
+    "nb_articles": 4
+  },
+  {
+    "ticker": "CAP.PA",
+    "published_date": "2025-10-01",
+    "sentiment_score_mean": 0.8175,
+    "nb_articles": 5
+  },
+  {
+    "ticker": "CAP.PA",
+    "published_date": "2025-10-02",
+    "sentiment_score_mean": -0.369,
+    "nb_articles": 9
+  },
+  {
+    "ticker": "CAP.PA",
+    "published_date": "2025-10-03",
+    "sentiment_score_mean": 0.2786,
+    "nb_articles": 5
+  },
+  {
+    "ticker": "CAP.PA",
+    "published_date": "2025-10-06",
+    "sentiment_score_mean": -0.3347,
+    "nb_articles": 3
+  },
+  {
+    "ticker": "CAP.PA",
+    "published_date": "2025-10-07",
+    "sentiment_score_mean": 0.7651,
+    "nb_articles": 1
+  },
+  {
+    "ticker": "CAP.PA",
+    "published_date": "2025-10-08",
+    "sentiment_score_mean": 0.9024,
+    "nb_articles": 3
+  },
+  {
+    "ticker": "CAP.PA",
+    "published_date": "2025-10-09",
+    "sentiment_score_mean": 0.9109,
+    "nb_articles": 3
+  },
+  {
+    "ticker": "CAP.PA",
+    "published_date": "2025-10-10",
+    "sentiment_score_mean": -0.8612,
+    "nb_articles": 1
+  },
+  {
+    "ticker": "CAP.PA",
+    "published_date": "2025-10-14",
+    "sentiment_score_mean": 0.882,
+    "nb_articles": 2
+  },
+  {
+    "ticker": "CAP.PA",
+    "published_date": "2025-10-15",
+    "sentiment_score_mean": -0.1328,
+    "nb_articles": 3
+  },
+  {
+    "ticker": "CS.PA",
+    "published_date": "2025-09-17",
+    "sentiment_score_mean": 0.9328,
+    "nb_articles": 3
+  },
+  {
+    "ticker": "CS.PA",
+    "published_date": "2025-09-18",
+    "sentiment_score_mean": 0.9169,
+    "nb_articles": 3
+  },
+  {
+    "ticker": "CS.PA",
+    "published_date": "2025-09-19",
+    "sentiment_score_mean": 0.1686,
+    "nb_articles": 6
+  },
+  {
+    "ticker": "CS.PA",
+    "published_date": "2025-09-22",
+    "sentiment_score_mean": 0.554,
+    "nb_articles": 4
+  },
+  {
+    "ticker": "CS.PA",
+    "published_date": "2025-09-23",
+    "sentiment_score_mean": 0.7691,
+    "nb_articles": 2
+  },
+  {
+    "ticker": "CS.PA",
+    "published_date": "2025-09-24",
+    "sentiment_score_mean": 0.1647,
+    "nb_articles": 6
+  },
+  {
+    "ticker": "CS.PA",
+    "published_date": "2025-09-25",
+    "sentiment_score_mean": 0.1959,
+    "nb_articles": 5
+  },
+  {
+    "ticker": "CS.PA",
+    "published_date": "2025-09-26",
+    "sentiment_score_mean": 0.3139,
+    "nb_articles": 3
+  },
+  {
+    "ticker": "CS.PA",
+    "published_date": "2025-09-27",
+    "sentiment_score_mean": 0.7627,
+    "nb_articles": 1
+  },
+  {
+    "ticker": "CS.PA",
+    "published_date": "2025-09-28",
+    "sentiment_score_mean": 0.3811,
+    "nb_articles": 2
+  },
+  {
+    "ticker": "CS.PA",
+    "published_date": "2025-09-29",
+    "sentiment_score_mean": 0.392,
+    "nb_articles": 6
+  },
+  {
+    "ticker": "CS.PA",
+    "published_date": "2025-09-30",
+    "sentiment_score_mean": 0.8814,
+    "nb_articles": 2
+  },
+  {
+    "ticker": "CS.PA",
+    "published_date": "2025-10-01",
+    "sentiment_score_mean": 0.2587,
+    "nb_articles": 3
+  },
+  {
+    "ticker": "CS.PA",
+    "published_date": "2025-10-02",
+    "sentiment_score_mean": 0.928,
+    "nb_articles": 3
+  },
+  {
+    "ticker": "CS.PA",
+    "published_date": "2025-10-03",
+    "sentiment_score_mean": 0.6191,
+    "nb_articles": 4
+  },
+  {
+    "ticker": "CS.PA",
+    "published_date": "2025-10-04",
+    "sentiment_score_mean": 0.8944,
+    "nb_articles": 1
+  },
+  {
+    "ticker": "CS.PA",
+    "published_date": "2025-10-06",
+    "sentiment_score_mean": 0.0,
+    "nb_articles": 2
+  },
+  {
+    "ticker": "CS.PA",
+    "published_date": "2025-10-07",
+    "sentiment_score_mean": 0.231,
+    "nb_articles": 5
+  },
+  {
+    "ticker": "CS.PA",
+    "published_date": "2025-10-08",
+    "sentiment_score_mean": 0.9165,
+    "nb_articles": 1
+  },
+  {
+    "ticker": "CS.PA",
+    "published_date": "2025-10-09",
+    "sentiment_score_mean": 0.9116,
+    "nb_articles": 2
+  },
+  {
+    "ticker": "CS.PA",
+    "published_date": "2025-10-10",
+    "sentiment_score_mean": -0.1301,
+    "nb_articles": 3
+  },
+  {
+    "ticker": "CS.PA",
+    "published_date": "2025-10-12",
+    "sentiment_score_mean": 0.682,
+    "nb_articles": 2
+  },
+  {
+    "ticker": "CS.PA",
+    "published_date": "2025-10-13",
+    "sentiment_score_mean": 0.2238,
+    "nb_articles": 4
+  },
+  {
+    "ticker": "CS.PA",
+    "published_date": "2025-10-14",
+    "sentiment_score_mean": 0.1933,
+    "nb_articles": 4
+  },
+  {
+    "ticker": "CS.PA",
+    "published_date": "2025-10-15",
+    "sentiment_score_mean": 0.256,
+    "nb_articles": 6
+  },
+  {
+    "ticker": "DG.PA",
+    "published_date": "2025-09-17",
+    "sentiment_score_mean": 0.771,
+    "nb_articles": 4
+  },
+  {
+    "ticker": "DG.PA",
+    "published_date": "2025-09-18",
+    "sentiment_score_mean": 0.1483,
+    "nb_articles": 12
+  },
+  {
+    "ticker": "DG.PA",
+    "published_date": "2025-09-19",
+    "sentiment_score_mean": 0.9232,
+    "nb_articles": 6
+  },
+  {
+    "ticker": "DG.PA",
+    "published_date": "2025-09-21",
+    "sentiment_score_mean": 0.3459,
+    "nb_articles": 4
+  },
+  {
+    "ticker": "DG.PA",
+    "published_date": "2025-09-22",
+    "sentiment_score_mean": 0.879,
+    "nb_articles": 10
+  },
+  {
+    "ticker": "DG.PA",
+    "published_date": "2025-09-23",
+    "sentiment_score_mean": 0.8457,
+    "nb_articles": 8
+  },
+  {
+    "ticker": "DG.PA",
+    "published_date": "2025-09-24",
+    "sentiment_score_mean": 0.9189,
+    "nb_articles": 4
+  },
+  {
+    "ticker": "DG.PA",
+    "published_date": "2025-09-25",
+    "sentiment_score_mean": 0.9059,
+    "nb_articles": 6
+  },
+  {
+    "ticker": "DG.PA",
+    "published_date": "2025-09-26",
+    "sentiment_score_mean": 0.4474,
+    "nb_articles": 4
+  },
+  {
+    "ticker": "DG.PA",
+    "published_date": "2025-09-27",
+    "sentiment_score_mean": -0.1476,
+    "nb_articles": 4
+  },
+  {
+    "ticker": "DG.PA",
+    "published_date": "2025-09-28",
+    "sentiment_score_mean": 0.8115,
+    "nb_articles": 2
+  },
+  {
+    "ticker": "DG.PA",
+    "published_date": "2025-09-29",
+    "sentiment_score_mean": 0.8192,
+    "nb_articles": 6
+  },
+  {
+    "ticker": "DG.PA",
+    "published_date": "2025-09-30",
+    "sentiment_score_mean": 0.5898,
+    "nb_articles": 12
+  },
+  {
+    "ticker": "DG.PA",
+    "published_date": "2025-10-01",
+    "sentiment_score_mean": 0.2477,
+    "nb_articles": 10
+  },
+  {
+    "ticker": "DG.PA",
+    "published_date": "2025-10-02",
+    "sentiment_score_mean": 0.8293,
+    "nb_articles": 6
+  },
+  {
+    "ticker": "DG.PA",
+    "published_date": "2025-10-03",
+    "sentiment_score_mean": 0.8014,
+    "nb_articles": 10
+  },
+  {
+    "ticker": "DG.PA",
+    "published_date": "2025-10-04",
+    "sentiment_score_mean": -0.9461,
+    "nb_articles": 2
+  },
+  {
+    "ticker": "DG.PA",
+    "published_date": "2025-10-06",
+    "sentiment_score_mean": 0.8186,
+    "nb_articles": 12
+  },
+  {
+    "ticker": "DG.PA",
+    "published_date": "2025-10-07",
+    "sentiment_score_mean": 0.8418,
+    "nb_articles": 14
+  },
+  {
+    "ticker": "DG.PA",
+    "published_date": "2025-10-08",
+    "sentiment_score_mean": 0.9142,
+    "nb_articles": 8
+  },
+  {
+    "ticker": "DG.PA",
+    "published_date": "2025-10-09",
+    "sentiment_score_mean": 0.9085,
+    "nb_articles": 6
+  },
+  {
+    "ticker": "DG.PA",
+    "published_date": "2025-10-10",
+    "sentiment_score_mean": 0.8922,
+    "nb_articles": 4
+  },
+  {
+    "ticker": "DG.PA",
+    "published_date": "2025-10-12",
+    "sentiment_score_mean": 0.8479,
+    "nb_articles": 6
+  },
+  {
+    "ticker": "DG.PA",
+    "published_date": "2025-10-13",
+    "sentiment_score_mean": 0.9078,
+    "nb_articles": 12
+  },
+  {
+    "ticker": "DG.PA",
+    "published_date": "2025-10-14",
+    "sentiment_score_mean": 0.9334,
+    "nb_articles": 4
+  },
+  {
+    "ticker": "DG.PA",
+    "published_date": "2025-10-15",
+    "sentiment_score_mean": 0.3736,
+    "nb_articles": 14
+  },
+  {
+    "ticker": "DSY.PA",
+    "published_date": "2025-09-17",
+    "sentiment_score_mean": 0.4106,
+    "nb_articles": 4
+  },
+  {
+    "ticker": "DSY.PA",
+    "published_date": "2025-09-18",
+    "sentiment_score_mean": 0.2536,
+    "nb_articles": 6
+  },
+  {
+    "ticker": "DSY.PA",
+    "published_date": "2025-09-19",
+    "sentiment_score_mean": 0.2824,
+    "nb_articles": 4
+  },
+  {
+    "ticker": "DSY.PA",
+    "published_date": "2025-09-20",
+    "sentiment_score_mean": 0.8835,
+    "nb_articles": 1
+  },
+  {
+    "ticker": "DSY.PA",
+    "published_date": "2025-09-22",
+    "sentiment_score_mean": 0.1136,
+    "nb_articles": 4
+  },
+  {
+    "ticker": "DSY.PA",
+    "published_date": "2025-09-23",
+    "sentiment_score_mean": 0.4047,
+    "nb_articles": 6
+  },
+  {
+    "ticker": "DSY.PA",
+    "published_date": "2025-09-24",
+    "sentiment_score_mean": 0.3983,
+    "nb_articles": 7
+  },
+  {
+    "ticker": "DSY.PA",
+    "published_date": "2025-09-25",
+    "sentiment_score_mean": -0.1035,
+    "nb_articles": 2
+  },
+  {
+    "ticker": "DSY.PA",
+    "published_date": "2025-09-26",
+    "sentiment_score_mean": 0.2243,
+    "nb_articles": 13
+  },
+  {
+    "ticker": "DSY.PA",
+    "published_date": "2025-09-27",
+    "sentiment_score_mean": -0.7532,
+    "nb_articles": 1
+  },
+  {
+    "ticker": "DSY.PA",
+    "published_date": "2025-09-28",
+    "sentiment_score_mean": 0.7352,
+    "nb_articles": 1
+  },
+  {
+    "ticker": "DSY.PA",
+    "published_date": "2025-09-29",
+    "sentiment_score_mean": 0.9273,
+    "nb_articles": 3
+  },
+  {
+    "ticker": "DSY.PA",
+    "published_date": "2025-09-30",
+    "sentiment_score_mean": 0.3938,
+    "nb_articles": 5
+  },
+  {
+    "ticker": "DSY.PA",
+    "published_date": "2025-10-01",
+    "sentiment_score_mean": 0.7265,
+    "nb_articles": 2
+  },
+  {
+    "ticker": "DSY.PA",
+    "published_date": "2025-10-02",
+    "sentiment_score_mean": 0.5488,
+    "nb_articles": 4
+  },
+  {
+    "ticker": "DSY.PA",
+    "published_date": "2025-10-03",
+    "sentiment_score_mean": 0.1658,
+    "nb_articles": 2
+  },
+  {
+    "ticker": "DSY.PA",
+    "published_date": "2025-10-05",
+    "sentiment_score_mean": 0.7526,
+    "nb_articles": 1
+  },
+  {
+    "ticker": "DSY.PA",
+    "published_date": "2025-10-06",
+    "sentiment_score_mean": -0.2958,
+    "nb_articles": 3
+  },
+  {
+    "ticker": "DSY.PA",
+    "published_date": "2025-10-07",
+    "sentiment_score_mean": -0.2914,
+    "nb_articles": 7
+  },
+  {
+    "ticker": "DSY.PA",
+    "published_date": "2025-10-08",
+    "sentiment_score_mean": 0.1255,
+    "nb_articles": 2
+  },
+  {
+    "ticker": "DSY.PA",
+    "published_date": "2025-10-09",
+    "sentiment_score_mean": -0.1693,
+    "nb_articles": 5
+  },
+  {
+    "ticker": "DSY.PA",
+    "published_date": "2025-10-10",
+    "sentiment_score_mean": 0.1891,
+    "nb_articles": 2
+  },
+  {
+    "ticker": "DSY.PA",
+    "published_date": "2025-10-11",
+    "sentiment_score_mean": 0.8944,
+    "nb_articles": 4
+  },
+  {
+    "ticker": "DSY.PA",
+    "published_date": "2025-10-13",
+    "sentiment_score_mean": 0.4507,
+    "nb_articles": 2
+  },
+  {
+    "ticker": "DSY.PA",
+    "published_date": "2025-10-14",
+    "sentiment_score_mean": -0.0011,
+    "nb_articles": 2
+  },
+  {
+    "ticker": "DSY.PA",
+    "published_date": "2025-10-15",
+    "sentiment_score_mean": -0.853,
+    "nb_articles": 3
+  },
+  {
+    "ticker": "DSY.PA",
+    "published_date": "2025-10-16",
+    "sentiment_score_mean": 0.9218,
+    "nb_articles": 1
+  },
+  {
+    "ticker": "EL.PA",
+    "published_date": "2025-09-17",
+    "sentiment_score_mean": -0.245,
+    "nb_articles": 7
+  },
+  {
+    "ticker": "EL.PA",
+    "published_date": "2025-09-18",
+    "sentiment_score_mean": 0.1927,
+    "nb_articles": 16
+  },
+  {
+    "ticker": "EL.PA",
+    "published_date": "2025-09-19",
+    "sentiment_score_mean": 0.4174,
+    "nb_articles": 4
+  },
+  {
+    "ticker": "EL.PA",
+    "published_date": "2025-09-21",
+    "sentiment_score_mean": 0.896,
+    "nb_articles": 1
+  },
+  {
+    "ticker": "EL.PA",
+    "published_date": "2025-09-23",
+    "sentiment_score_mean": 0.849,
+    "nb_articles": 1
+  },
+  {
+    "ticker": "EL.PA",
+    "published_date": "2025-09-25",
+    "sentiment_score_mean": 0.7002,
+    "nb_articles": 1
+  },
+  {
+    "ticker": "EL.PA",
+    "published_date": "2025-09-26",
+    "sentiment_score_mean": 0.221,
+    "nb_articles": 2
+  },
+  {
+    "ticker": "EL.PA",
+    "published_date": "2025-09-27",
+    "sentiment_score_mean": 0.6587,
+    "nb_articles": 1
+  },
+  {
+    "ticker": "EL.PA",
+    "published_date": "2025-09-28",
+    "sentiment_score_mean": 0.9228,
+    "nb_articles": 2
+  },
+  {
+    "ticker": "EL.PA",
+    "published_date": "2025-09-29",
+    "sentiment_score_mean": 0.1767,
+    "nb_articles": 2
+  },
+  {
+    "ticker": "EL.PA",
+    "published_date": "2025-09-30",
+    "sentiment_score_mean": 0.8697,
+    "nb_articles": 1
+  },
+  {
+    "ticker": "EL.PA",
+    "published_date": "2025-10-01",
+    "sentiment_score_mean": -0.8992,
+    "nb_articles": 1
+  },
+  {
+    "ticker": "EL.PA",
+    "published_date": "2025-10-02",
+    "sentiment_score_mean": 0.4619,
+    "nb_articles": 2
+  },
+  {
+    "ticker": "EL.PA",
+    "published_date": "2025-10-03",
+    "sentiment_score_mean": 0.9264,
+    "nb_articles": 1
+  },
+  {
+    "ticker": "EL.PA",
+    "published_date": "2025-10-04",
+    "sentiment_score_mean": 0.9013,
+    "nb_articles": 4
+  },
+  {
+    "ticker": "EL.PA",
+    "published_date": "2025-10-05",
+    "sentiment_score_mean": 0.9077,
+    "nb_articles": 1
+  },
+  {
+    "ticker": "EL.PA",
+    "published_date": "2025-10-06",
+    "sentiment_score_mean": 0.2392,
+    "nb_articles": 8
+  },
+  {
+    "ticker": "EL.PA",
+    "published_date": "2025-10-09",
+    "sentiment_score_mean": -0.0895,
+    "nb_articles": 4
+  },
+  {
+    "ticker": "EL.PA",
+    "published_date": "2025-10-13",
+    "sentiment_score_mean": 0.2363,
+    "nb_articles": 4
+  },
+  {
+    "ticker": "EL.PA",
+    "published_date": "2025-10-14",
+    "sentiment_score_mean": 0.877,
+    "nb_articles": 2
+  },
+  {
+    "ticker": "EL.PA",
+    "published_date": "2025-10-15",
+    "sentiment_score_mean": 0.7744,
+    "nb_articles": 1
+  },
+  {
+    "ticker": "EN.PA",
+    "published_date": "2025-09-18",
+    "sentiment_score_mean": 0.8622,
+    "nb_articles": 1
+  },
+  {
+    "ticker": "EN.PA",
+    "published_date": "2025-09-19",
+    "sentiment_score_mean": 0.9389,
+    "nb_articles": 1
+  },
+  {
+    "ticker": "EN.PA",
+    "published_date": "2025-09-23",
+    "sentiment_score_mean": 0.5952,
+    "nb_articles": 1
+  },
+  {
+    "ticker": "EN.PA",
+    "published_date": "2025-09-24",
+    "sentiment_score_mean": 0.3146,
+    "nb_articles": 3
+  },
+  {
+    "ticker": "EN.PA",
+    "published_date": "2025-09-25",
+    "sentiment_score_mean": 0.8731,
+    "nb_articles": 1
+  },
+  {
+    "ticker": "EN.PA",
+    "published_date": "2025-09-27",
+    "sentiment_score_mean": 0.8205,
+    "nb_articles": 2
+  },
+  {
+    "ticker": "EN.PA",
+    "published_date": "2025-09-30",
+    "sentiment_score_mean": 0.8548,
+    "nb_articles": 2
+  },
+  {
+    "ticker": "EN.PA",
+    "published_date": "2025-10-01",
+    "sentiment_score_mean": 0.3398,
+    "nb_articles": 3
+  },
+  {
+    "ticker": "EN.PA",
+    "published_date": "2025-10-02",
+    "sentiment_score_mean": 0.9287,
+    "nb_articles": 2
+  },
+  {
+    "ticker": "EN.PA",
+    "published_date": "2025-10-03",
+    "sentiment_score_mean": 0.9329,
+    "nb_articles": 1
+  },
+  {
+    "ticker": "EN.PA",
+    "published_date": "2025-10-07",
+    "sentiment_score_mean": 0.9193,
+    "nb_articles": 1
+  },
+  {
+    "ticker": "EN.PA",
+    "published_date": "2025-10-10",
+    "sentiment_score_mean": -0.6686,
+    "nb_articles": 1
+  },
+  {
+    "ticker": "EN.PA",
+    "published_date": "2025-10-14",
+    "sentiment_score_mean": 0.3607,
+    "nb_articles": 6
+  },
+  {
+    "ticker": "EN.PA",
+    "published_date": "2025-10-15",
+    "sentiment_score_mean": 0.3035,
+    "nb_articles": 14
+  },
+  {
+    "ticker": "ENGI.PA",
+    "published_date": "2025-09-17",
+    "sentiment_score_mean": -0.9516,
+    "nb_articles": 2
+  },
+  {
+    "ticker": "ENGI.PA",
+    "published_date": "2025-09-18",
+    "sentiment_score_mean": 0.8606,
+    "nb_articles": 1
+  },
+  {
+    "ticker": "ENGI.PA",
+    "published_date": "2025-09-19",
+    "sentiment_score_mean": 0.9423,
+    "nb_articles": 1
+  },
+  {
+    "ticker": "ENGI.PA",
+    "published_date": "2025-09-21",
+    "sentiment_score_mean": -0.9225,
+    "nb_articles": 1
+  },
+  {
+    "ticker": "ENGI.PA",
+    "published_date": "2025-09-22",
+    "sentiment_score_mean": 0.2557,
+    "nb_articles": 3
+  },
+  {
+    "ticker": "ENGI.PA",
+    "published_date": "2025-09-23",
+    "sentiment_score_mean": -0.8244,
+    "nb_articles": 2
+  },
+  {
+    "ticker": "ENGI.PA",
+    "published_date": "2025-09-24",
+    "sentiment_score_mean": 0.4656,
+    "nb_articles": 4
+  },
+  {
+    "ticker": "ENGI.PA",
+    "published_date": "2025-09-25",
+    "sentiment_score_mean": 0.9269,
+    "nb_articles": 1
+  },
+  {
+    "ticker": "ENGI.PA",
+    "published_date": "2025-09-28",
+    "sentiment_score_mean": -0.9302,
+    "nb_articles": 1
+  },
+  {
+    "ticker": "ENGI.PA",
+    "published_date": "2025-10-02",
+    "sentiment_score_mean": 0.8846,
+    "nb_articles": 3
+  },
+  {
+    "ticker": "ENGI.PA",
+    "published_date": "2025-10-03",
+    "sentiment_score_mean": 0.8896,
+    "nb_articles": 1
+  },
+  {
+    "ticker": "ENGI.PA",
+    "published_date": "2025-10-06",
+    "sentiment_score_mean": 0.0,
+    "nb_articles": 1
+  },
+  {
+    "ticker": "ENGI.PA",
+    "published_date": "2025-10-07",
+    "sentiment_score_mean": 0.6087,
+    "nb_articles": 4
+  },
+  {
+    "ticker": "ENGI.PA",
+    "published_date": "2025-10-08",
+    "sentiment_score_mean": 0.9415,
+    "nb_articles": 1
+  },
+  {
+    "ticker": "ENGI.PA",
+    "published_date": "2025-10-09",
+    "sentiment_score_mean": 0.6,
+    "nb_articles": 3
+  },
+  {
+    "ticker": "ENGI.PA",
+    "published_date": "2025-10-10",
+    "sentiment_score_mean": 0.0205,
+    "nb_articles": 4
+  },
+  {
+    "ticker": "ENGI.PA",
+    "published_date": "2025-10-11",
+    "sentiment_score_mean": -0.8436,
+    "nb_articles": 1
+  },
+  {
+    "ticker": "ENGI.PA",
+    "published_date": "2025-10-12",
+    "sentiment_score_mean": 0.583,
+    "nb_articles": 3
+  },
+  {
+    "ticker": "ENGI.PA",
+    "published_date": "2025-10-13",
+    "sentiment_score_mean": -0.4523,
+    "nb_articles": 4
+  },
+  {
+    "ticker": "ENGI.PA",
+    "published_date": "2025-10-14",
+    "sentiment_score_mean": -0.3174,
+    "nb_articles": 3
+  },
+  {
+    "ticker": "ENGI.PA",
+    "published_date": "2025-10-15",
+    "sentiment_score_mean": -0.2208,
+    "nb_articles": 3
+  },
+  {
+    "ticker": "ERF.PA",
+    "published_date": "2025-09-24",
+    "sentiment_score_mean": -0.9478,
+    "nb_articles": 1
+  },
+  {
+    "ticker": "ERF.PA",
+    "published_date": "2025-09-25",
+    "sentiment_score_mean": 0.0,
+    "nb_articles": 1
+  },
+  {
+    "ticker": "ERF.PA",
+    "published_date": "2025-10-06",
+    "sentiment_score_mean": 0.9197,
+    "nb_articles": 1
+  },
+  {
+    "ticker": "ERF.PA",
+    "published_date": "2025-10-13",
+    "sentiment_score_mean": 0.9173,
+    "nb_articles": 1
+  },
+  {
+    "ticker": "ERF.PA",
+    "published_date": "2025-10-14",
+    "sentiment_score_mean": -0.6,
+    "nb_articles": 1
+  },
+  {
+    "ticker": "ERF.PA",
+    "published_date": "2025-10-15",
+    "sentiment_score_mean": -0.933,
+    "nb_articles": 1
+  },
+  {
+    "ticker": "GLE.PA",
+    "published_date": "2025-09-17",
+    "sentiment_score_mean": -0.002,
+    "nb_articles": 4
+  },
+  {
+    "ticker": "GLE.PA",
+    "published_date": "2025-09-19",
+    "sentiment_score_mean": -0.2537,
+    "nb_articles": 4
+  },
+  {
+    "ticker": "GLE.PA",
+    "published_date": "2025-09-20",
+    "sentiment_score_mean": 0.0,
+    "nb_articles": 2
+  },
+  {
+    "ticker": "GLE.PA",
+    "published_date": "2025-09-21",
+    "sentiment_score_mean": 0.896,
+    "nb_articles": 2
+  },
+  {
+    "ticker": "GLE.PA",
+    "published_date": "2025-09-22",
+    "sentiment_score_mean": 0.6319,
+    "nb_articles": 14
+  },
+  {
+    "ticker": "GLE.PA",
+    "published_date": "2025-09-23",
+    "sentiment_score_mean": 0.4647,
+    "nb_articles": 14
+  },
+  {
+    "ticker": "GLE.PA",
+    "published_date": "2025-09-24",
+    "sentiment_score_mean": 0.2733,
+    "nb_articles": 12
+  },
+  {
+    "ticker": "GLE.PA",
+    "published_date": "2025-09-25",
+    "sentiment_score_mean": -0.1605,
+    "nb_articles": 8
+  },
+  {
+    "ticker": "GLE.PA",
+    "published_date": "2025-09-26",
+    "sentiment_score_mean": 0.7983,
+    "nb_articles": 4
+  },
+  {
+    "ticker": "GLE.PA",
+    "published_date": "2025-09-27",
+    "sentiment_score_mean": 0.0739,
+    "nb_articles": 4
+  },
+  {
+    "ticker": "GLE.PA",
+    "published_date": "2025-09-29",
+    "sentiment_score_mean": -0.006,
+    "nb_articles": 12
+  },
+  {
+    "ticker": "GLE.PA",
+    "published_date": "2025-09-30",
+    "sentiment_score_mean": 0.5762,
+    "nb_articles": 14
+  },
+  {
+    "ticker": "GLE.PA",
+    "published_date": "2025-10-01",
+    "sentiment_score_mean": 0.2003,
+    "nb_articles": 10
+  },
+  {
+    "ticker": "GLE.PA",
+    "published_date": "2025-10-02",
+    "sentiment_score_mean": -0.0196,
+    "nb_articles": 20
+  },
+  {
+    "ticker": "GLE.PA",
+    "published_date": "2025-10-03",
+    "sentiment_score_mean": 0.8666,
+    "nb_articles": 4
+  },
+  {
+    "ticker": "GLE.PA",
+    "published_date": "2025-10-05",
+    "sentiment_score_mean": -0.0164,
+    "nb_articles": 4
+  },
+  {
+    "ticker": "GLE.PA",
+    "published_date": "2025-10-06",
+    "sentiment_score_mean": 0.1844,
+    "nb_articles": 12
+  },
+  {
+    "ticker": "GLE.PA",
+    "published_date": "2025-10-07",
+    "sentiment_score_mean": 0.5318,
+    "nb_articles": 10
+  },
+  {
+    "ticker": "GLE.PA",
+    "published_date": "2025-10-08",
+    "sentiment_score_mean": 0.1279,
+    "nb_articles": 6
+  },
+  {
+    "ticker": "GLE.PA",
+    "published_date": "2025-10-09",
+    "sentiment_score_mean": -0.0066,
+    "nb_articles": 4
+  },
+  {
+    "ticker": "GLE.PA",
+    "published_date": "2025-10-10",
+    "sentiment_score_mean": 0.254,
+    "nb_articles": 4
+  },
+  {
+    "ticker": "GLE.PA",
+    "published_date": "2025-10-11",
+    "sentiment_score_mean": 0.8857,
+    "nb_articles": 4
+  },
+  {
+    "ticker": "GLE.PA",
+    "published_date": "2025-10-13",
+    "sentiment_score_mean": 0.4437,
+    "nb_articles": 8
+  },
+  {
+    "ticker": "GLE.PA",
+    "published_date": "2025-10-14",
+    "sentiment_score_mean": -0.1022,
+    "nb_articles": 8
+  },
+  {
+    "ticker": "GLE.PA",
+    "published_date": "2025-10-15",
+    "sentiment_score_mean": 0.6713,
+    "nb_articles": 10
+  },
+  {
+    "ticker": "HO.PA",
+    "published_date": "2025-09-17",
+    "sentiment_score_mean": -0.557,
+    "nb_articles": 10
+  },
+  {
+    "ticker": "HO.PA",
+    "published_date": "2025-09-18",
+    "sentiment_score_mean": 0.3797,
+    "nb_articles": 10
+  },
+  {
+    "ticker": "HO.PA",
+    "published_date": "2025-09-19",
+    "sentiment_score_mean": 0.9057,
+    "nb_articles": 6
+  },
+  {
+    "ticker": "HO.PA",
+    "published_date": "2025-09-20",
+    "sentiment_score_mean": 0.1104,
+    "nb_articles": 16
+  },
+  {
+    "ticker": "HO.PA",
+    "published_date": "2025-09-21",
+    "sentiment_score_mean": 0.0,
+    "nb_articles": 6
+  },
+  {
+    "ticker": "HO.PA",
+    "published_date": "2025-09-22",
+    "sentiment_score_mean": 0.3454,
+    "nb_articles": 22
+  },
+  {
+    "ticker": "HO.PA",
+    "published_date": "2025-09-23",
+    "sentiment_score_mean": 0.0875,
+    "nb_articles": 4
+  },
+  {
+    "ticker": "HO.PA",
+    "published_date": "2025-09-24",
+    "sentiment_score_mean": 0.4737,
+    "nb_articles": 14
+  },
+  {
+    "ticker": "HO.PA",
+    "published_date": "2025-09-25",
+    "sentiment_score_mean": -0.1079,
+    "nb_articles": 8
+  },
+  {
+    "ticker": "HO.PA",
+    "published_date": "2025-09-26",
+    "sentiment_score_mean": 0.8618,
+    "nb_articles": 4
+  },
+  {
+    "ticker": "HO.PA",
+    "published_date": "2025-09-29",
+    "sentiment_score_mean": 0.9024,
+    "nb_articles": 4
+  },
+  {
+    "ticker": "HO.PA",
+    "published_date": "2025-09-30",
+    "sentiment_score_mean": -0.1634,
+    "nb_articles": 6
+  },
+  {
+    "ticker": "HO.PA",
+    "published_date": "2025-10-01",
+    "sentiment_score_mean": 0.4111,
+    "nb_articles": 8
+  },
+  {
+    "ticker": "HO.PA",
+    "published_date": "2025-10-02",
+    "sentiment_score_mean": 0.0684,
+    "nb_articles": 8
+  },
+  {
+    "ticker": "HO.PA",
+    "published_date": "2025-10-03",
+    "sentiment_score_mean": 0.9406,
+    "nb_articles": 2
+  },
+  {
+    "ticker": "HO.PA",
+    "published_date": "2025-10-05",
+    "sentiment_score_mean": -0.936,
+    "nb_articles": 2
+  },
+  {
+    "ticker": "HO.PA",
+    "published_date": "2025-10-06",
+    "sentiment_score_mean": 0.3902,
+    "nb_articles": 12
+  },
+  {
+    "ticker": "HO.PA",
+    "published_date": "2025-10-07",
+    "sentiment_score_mean": 0.3416,
+    "nb_articles": 10
+  },
+  {
+    "ticker": "HO.PA",
+    "published_date": "2025-10-08",
+    "sentiment_score_mean": 0.2004,
+    "nb_articles": 10
+  },
+  {
+    "ticker": "HO.PA",
+    "published_date": "2025-10-09",
+    "sentiment_score_mean": 0.2464,
+    "nb_articles": 8
+  },
+  {
+    "ticker": "HO.PA",
+    "published_date": "2025-10-10",
+    "sentiment_score_mean": 0.1826,
+    "nb_articles": 8
+  },
+  {
+    "ticker": "HO.PA",
+    "published_date": "2025-10-11",
+    "sentiment_score_mean": -0.6409,
+    "nb_articles": 2
+  },
+  {
+    "ticker": "HO.PA",
+    "published_date": "2025-10-13",
+    "sentiment_score_mean": 0.9055,
+    "nb_articles": 8
+  },
+  {
+    "ticker": "HO.PA",
+    "published_date": "2025-10-14",
+    "sentiment_score_mean": 0.9467,
+    "nb_articles": 2
+  },
+  {
+    "ticker": "HO.PA",
+    "published_date": "2025-10-15",
+    "sentiment_score_mean": -0.5422,
+    "nb_articles": 6
+  },
+  {
+    "ticker": "KER.PA",
+    "published_date": "2025-09-17",
+    "sentiment_score_mean": 0.5699,
+    "nb_articles": 14
+  },
+  {
+    "ticker": "KER.PA",
+    "published_date": "2025-09-18",
+    "sentiment_score_mean": 0.5209,
+    "nb_articles": 7
+  },
+  {
+    "ticker": "KER.PA",
+    "published_date": "2025-09-19",
+    "sentiment_score_mean": 0.9161,
+    "nb_articles": 4
+  },
+  {
+    "ticker": "KER.PA",
+    "published_date": "2025-09-20",
+    "sentiment_score_mean": 0.9016,
+    "nb_articles": 1
+  },
+  {
+    "ticker": "KER.PA",
+    "published_date": "2025-09-22",
+    "sentiment_score_mean": 0.0206,
+    "nb_articles": 3
+  },
+  {
+    "ticker": "KER.PA",
+    "published_date": "2025-09-23",
+    "sentiment_score_mean": 0.3928,
+    "nb_articles": 4
+  },
+  {
+    "ticker": "KER.PA",
+    "published_date": "2025-09-24",
+    "sentiment_score_mean": 0.0,
+    "nb_articles": 1
+  },
+  {
+    "ticker": "KER.PA",
+    "published_date": "2025-09-25",
+    "sentiment_score_mean": 0.6093,
+    "nb_articles": 1
+  },
+  {
+    "ticker": "KER.PA",
+    "published_date": "2025-09-26",
+    "sentiment_score_mean": 0.7461,
+    "nb_articles": 8
+  },
+  {
+    "ticker": "KER.PA",
+    "published_date": "2025-09-29",
+    "sentiment_score_mean": 0.7119,
+    "nb_articles": 6
+  },
+  {
+    "ticker": "KER.PA",
+    "published_date": "2025-09-30",
+    "sentiment_score_mean": 0.4016,
+    "nb_articles": 2
+  },
+  {
+    "ticker": "KER.PA",
+    "published_date": "2025-10-01",
+    "sentiment_score_mean": -0.8225,
+    "nb_articles": 2
+  },
+  {
+    "ticker": "KER.PA",
+    "published_date": "2025-10-03",
+    "sentiment_score_mean": 0.4448,
+    "nb_articles": 2
+  },
+  {
+    "ticker": "KER.PA",
+    "published_date": "2025-10-04",
+    "sentiment_score_mean": 0.0,
+    "nb_articles": 2
+  },
+  {
+    "ticker": "KER.PA",
+    "published_date": "2025-10-05",
+    "sentiment_score_mean": 0.857,
+    "nb_articles": 1
+  },
+  {
+    "ticker": "KER.PA",
+    "published_date": "2025-10-06",
+    "sentiment_score_mean": 0.5774,
+    "nb_articles": 6
+  },
+  {
+    "ticker": "KER.PA",
+    "published_date": "2025-10-07",
+    "sentiment_score_mean": 0.3817,
+    "nb_articles": 6
+  },
+  {
+    "ticker": "KER.PA",
+    "published_date": "2025-10-08",
+    "sentiment_score_mean": 0.7692,
+    "nb_articles": 4
+  },
+  {
+    "ticker": "KER.PA",
+    "published_date": "2025-10-10",
+    "sentiment_score_mean": -0.958,
+    "nb_articles": 1
+  },
+  {
+    "ticker": "KER.PA",
+    "published_date": "2025-10-13",
+    "sentiment_score_mean": -0.1736,
+    "nb_articles": 4
+  },
+  {
+    "ticker": "KER.PA",
+    "published_date": "2025-10-14",
+    "sentiment_score_mean": 0.0854,
+    "nb_articles": 11
+  },
+  {
+    "ticker": "KER.PA",
+    "published_date": "2025-10-15",
+    "sentiment_score_mean": -0.5423,
+    "nb_articles": 8
+  },
+  {
+    "ticker": "LR.PA",
+    "published_date": "2025-09-17",
+    "sentiment_score_mean": 0.9514,
+    "nb_articles": 1
+  },
+  {
+    "ticker": "LR.PA",
+    "published_date": "2025-09-18",
+    "sentiment_score_mean": 0.5556,
+    "nb_articles": 1
+  },
+  {
+    "ticker": "LR.PA",
+    "published_date": "2025-09-19",
+    "sentiment_score_mean": -0.0423,
+    "nb_articles": 2
+  },
+  {
+    "ticker": "LR.PA",
+    "published_date": "2025-09-23",
+    "sentiment_score_mean": 0.9391,
+    "nb_articles": 1
+  },
+  {
+    "ticker": "LR.PA",
+    "published_date": "2025-09-24",
+    "sentiment_score_mean": -0.5351,
+    "nb_articles": 1
+  },
+  {
+    "ticker": "LR.PA",
+    "published_date": "2025-09-25",
+    "sentiment_score_mean": 0.8949,
+    "nb_articles": 1
+  },
+  {
+    "ticker": "LR.PA",
+    "published_date": "2025-09-27",
+    "sentiment_score_mean": 0.9046,
+    "nb_articles": 1
+  },
+  {
+    "ticker": "LR.PA",
+    "published_date": "2025-09-29",
+    "sentiment_score_mean": 0.0696,
+    "nb_articles": 2
+  },
+  {
+    "ticker": "LR.PA",
+    "published_date": "2025-09-30",
+    "sentiment_score_mean": 0.8035,
+    "nb_articles": 2
+  },
+  {
+    "ticker": "LR.PA",
+    "published_date": "2025-10-01",
+    "sentiment_score_mean": 0.8587,
+    "nb_articles": 3
+  },
+  {
+    "ticker": "LR.PA",
+    "published_date": "2025-10-02",
+    "sentiment_score_mean": 0.3284,
+    "nb_articles": 3
+  },
+  {
+    "ticker": "LR.PA",
+    "published_date": "2025-10-03",
+    "sentiment_score_mean": 0.1341,
+    "nb_articles": 2
+  },
+  {
+    "ticker": "LR.PA",
+    "published_date": "2025-10-04",
+    "sentiment_score_mean": -0.5739,
+    "nb_articles": 4
+  },
+  {
+    "ticker": "LR.PA",
+    "published_date": "2025-10-06",
+    "sentiment_score_mean": 0.94,
+    "nb_articles": 1
+  },
+  {
+    "ticker": "LR.PA",
+    "published_date": "2025-10-08",
+    "sentiment_score_mean": 0.8248,
+    "nb_articles": 2
+  },
+  {
+    "ticker": "LR.PA",
+    "published_date": "2025-10-09",
+    "sentiment_score_mean": -0.0082,
+    "nb_articles": 4
+  },
+  {
+    "ticker": "LR.PA",
+    "published_date": "2025-10-10",
+    "sentiment_score_mean": 0.9444,
+    "nb_articles": 1
+  },
+  {
+    "ticker": "LR.PA",
+    "published_date": "2025-10-12",
+    "sentiment_score_mean": 0.9169,
+    "nb_articles": 1
+  },
+  {
+    "ticker": "LR.PA",
+    "published_date": "2025-10-15",
+    "sentiment_score_mean": 0.9027,
+    "nb_articles": 1
+  },
+  {
+    "ticker": "MC.PA",
+    "published_date": "2025-09-17",
+    "sentiment_score_mean": 0.2709,
+    "nb_articles": 4
+  },
+  {
+    "ticker": "MC.PA",
+    "published_date": "2025-09-19",
+    "sentiment_score_mean": 0.8977,
+    "nb_articles": 1
+  },
+  {
+    "ticker": "MC.PA",
+    "published_date": "2025-09-21",
+    "sentiment_score_mean": 0.0,
+    "nb_articles": 1
+  },
+  {
+    "ticker": "MC.PA",
+    "published_date": "2025-09-22",
+    "sentiment_score_mean": 0.693,
+    "nb_articles": 5
+  },
+  {
+    "ticker": "MC.PA",
+    "published_date": "2025-09-23",
+    "sentiment_score_mean": -0.2013,
+    "nb_articles": 3
+  },
+  {
+    "ticker": "MC.PA",
+    "published_date": "2025-09-24",
+    "sentiment_score_mean": 0.8637,
+    "nb_articles": 4
+  },
+  {
+    "ticker": "MC.PA",
+    "published_date": "2025-09-25",
+    "sentiment_score_mean": 0.8877,
+    "nb_articles": 2
+  },
+  {
+    "ticker": "MC.PA",
+    "published_date": "2025-09-26",
+    "sentiment_score_mean": 0.8911,
+    "nb_articles": 2
+  },
+  {
+    "ticker": "MC.PA",
+    "published_date": "2025-09-27",
+    "sentiment_score_mean": 0.7252,
+    "nb_articles": 1
+  },
+  {
+    "ticker": "MC.PA",
+    "published_date": "2025-09-28",
+    "sentiment_score_mean": -0.904,
+    "nb_articles": 1
+  },
+  {
+    "ticker": "MC.PA",
+    "published_date": "2025-09-29",
+    "sentiment_score_mean": -0.4794,
+    "nb_articles": 3
+  },
+  {
+    "ticker": "MC.PA",
+    "published_date": "2025-09-30",
+    "sentiment_score_mean": 0.9008,
+    "nb_articles": 2
+  },
+  {
+    "ticker": "MC.PA",
+    "published_date": "2025-10-01",
+    "sentiment_score_mean": 0.4866,
+    "nb_articles": 4
+  },
+  {
+    "ticker": "MC.PA",
+    "published_date": "2025-10-03",
+    "sentiment_score_mean": 0.4701,
+    "nb_articles": 2
+  },
+  {
+    "ticker": "MC.PA",
+    "published_date": "2025-10-06",
+    "sentiment_score_mean": 0.8657,
+    "nb_articles": 3
+  },
+  {
+    "ticker": "MC.PA",
+    "published_date": "2025-10-07",
+    "sentiment_score_mean": -0.0073,
+    "nb_articles": 3
+  },
+  {
+    "ticker": "MC.PA",
+    "published_date": "2025-10-08",
+    "sentiment_score_mean": 0.8554,
+    "nb_articles": 1
+  },
+  {
+    "ticker": "MC.PA",
+    "published_date": "2025-10-09",
+    "sentiment_score_mean": 0.9074,
+    "nb_articles": 3
+  },
+  {
+    "ticker": "MC.PA",
+    "published_date": "2025-10-10",
+    "sentiment_score_mean": 0.0569,
+    "nb_articles": 4
+  },
+  {
+    "ticker": "MC.PA",
+    "published_date": "2025-10-13",
+    "sentiment_score_mean": 0.9419,
+    "nb_articles": 1
+  },
+  {
+    "ticker": "MC.PA",
+    "published_date": "2025-10-14",
+    "sentiment_score_mean": -0.1465,
+    "nb_articles": 19
+  },
+  {
+    "ticker": "MC.PA",
+    "published_date": "2025-10-15",
+    "sentiment_score_mean": -0.0929,
+    "nb_articles": 26
+  },
+  {
+    "ticker": "ML.PA",
+    "published_date": "2025-09-17",
+    "sentiment_score_mean": 0.202,
+    "nb_articles": 3
+  },
+  {
+    "ticker": "ML.PA",
+    "published_date": "2025-09-18",
+    "sentiment_score_mean": 0.889,
+    "nb_articles": 2
+  },
+  {
+    "ticker": "ML.PA",
+    "published_date": "2025-09-19",
+    "sentiment_score_mean": 0.3094,
+    "nb_articles": 6
+  },
+  {
+    "ticker": "ML.PA",
+    "published_date": "2025-09-21",
+    "sentiment_score_mean": 0.6441,
+    "nb_articles": 1
+  },
+  {
+    "ticker": "ML.PA",
+    "published_date": "2025-09-22",
+    "sentiment_score_mean": 0.8284,
+    "nb_articles": 7
+  },
+  {
+    "ticker": "ML.PA",
+    "published_date": "2025-09-23",
+    "sentiment_score_mean": 0.8527,
+    "nb_articles": 4
+  },
+  {
+    "ticker": "ML.PA",
+    "published_date": "2025-09-24",
+    "sentiment_score_mean": 0.6411,
+    "nb_articles": 7
+  },
+  {
+    "ticker": "ML.PA",
+    "published_date": "2025-09-25",
+    "sentiment_score_mean": 0.4043,
+    "nb_articles": 4
+  },
+  {
+    "ticker": "ML.PA",
+    "published_date": "2025-09-26",
+    "sentiment_score_mean": 0.858,
+    "nb_articles": 5
+  },
+  {
+    "ticker": "ML.PA",
+    "published_date": "2025-09-27",
+    "sentiment_score_mean": 0.8431,
+    "nb_articles": 1
+  },
+  {
+    "ticker": "ML.PA",
+    "published_date": "2025-09-28",
+    "sentiment_score_mean": 0.7768,
+    "nb_articles": 2
+  },
+  {
+    "ticker": "ML.PA",
+    "published_date": "2025-09-29",
+    "sentiment_score_mean": 0.9047,
+    "nb_articles": 2
+  },
+  {
+    "ticker": "ML.PA",
+    "published_date": "2025-09-30",
+    "sentiment_score_mean": 0.7964,
+    "nb_articles": 6
+  },
+  {
+    "ticker": "ML.PA",
+    "published_date": "2025-10-01",
+    "sentiment_score_mean": 0.8529,
+    "nb_articles": 5
+  },
+  {
+    "ticker": "ML.PA",
+    "published_date": "2025-10-02",
+    "sentiment_score_mean": 0.5336,
+    "nb_articles": 5
+  },
+  {
+    "ticker": "ML.PA",
+    "published_date": "2025-10-03",
+    "sentiment_score_mean": 0.5565,
+    "nb_articles": 8
+  },
+  {
+    "ticker": "ML.PA",
+    "published_date": "2025-10-06",
+    "sentiment_score_mean": 0.9101,
+    "nb_articles": 3
+  },
+  {
+    "ticker": "ML.PA",
+    "published_date": "2025-10-07",
+    "sentiment_score_mean": 0.9109,
+    "nb_articles": 2
+  },
+  {
+    "ticker": "ML.PA",
+    "published_date": "2025-10-08",
+    "sentiment_score_mean": 0.8669,
+    "nb_articles": 4
+  },
+  {
+    "ticker": "ML.PA",
+    "published_date": "2025-10-09",
+    "sentiment_score_mean": 0.4204,
+    "nb_articles": 5
+  },
+  {
+    "ticker": "ML.PA",
+    "published_date": "2025-10-10",
+    "sentiment_score_mean": 0.6221,
+    "nb_articles": 5
+  },
+  {
+    "ticker": "ML.PA",
+    "published_date": "2025-10-11",
+    "sentiment_score_mean": 0.6308,
+    "nb_articles": 1
+  },
+  {
+    "ticker": "ML.PA",
+    "published_date": "2025-10-13",
+    "sentiment_score_mean": 0.8986,
+    "nb_articles": 1
+  },
+  {
+    "ticker": "ML.PA",
+    "published_date": "2025-10-14",
+    "sentiment_score_mean": 0.7633,
+    "nb_articles": 3
+  },
+  {
+    "ticker": "ML.PA",
+    "published_date": "2025-10-15",
+    "sentiment_score_mean": 0.4748,
+    "nb_articles": 7
+  },
+  {
+    "ticker": "MT.AS",
+    "published_date": "2025-09-17",
+    "sentiment_score_mean": 0.6724,
+    "nb_articles": 5
+  },
+  {
+    "ticker": "MT.AS",
+    "published_date": "2025-09-18",
+    "sentiment_score_mean": 0.2905,
+    "nb_articles": 6
+  },
+  {
+    "ticker": "MT.AS",
+    "published_date": "2025-09-19",
+    "sentiment_score_mean": 0.2866,
+    "nb_articles": 4
+  },
+  {
+    "ticker": "MT.AS",
+    "published_date": "2025-09-20",
+    "sentiment_score_mean": 0.6003,
+    "nb_articles": 3
+  },
+  {
+    "ticker": "MT.AS",
+    "published_date": "2025-09-21",
+    "sentiment_score_mean": 0.3843,
+    "nb_articles": 5
+  },
+  {
+    "ticker": "MT.AS",
+    "published_date": "2025-09-22",
+    "sentiment_score_mean": 0.0294,
+    "nb_articles": 5
+  },
+  {
+    "ticker": "MT.AS",
+    "published_date": "2025-09-23",
+    "sentiment_score_mean": 0.4989,
+    "nb_articles": 3
+  },
+  {
+    "ticker": "MT.AS",
+    "published_date": "2025-09-24",
+    "sentiment_score_mean": 0.4889,
+    "nb_articles": 3
+  },
+  {
+    "ticker": "MT.AS",
+    "published_date": "2025-09-25",
+    "sentiment_score_mean": 0.5266,
+    "nb_articles": 1
+  },
+  {
+    "ticker": "MT.AS",
+    "published_date": "2025-09-26",
+    "sentiment_score_mean": 0.6072,
+    "nb_articles": 3
+  },
+  {
+    "ticker": "MT.AS",
+    "published_date": "2025-09-27",
+    "sentiment_score_mean": 0.9297,
+    "nb_articles": 1
+  },
+  {
+    "ticker": "MT.AS",
+    "published_date": "2025-09-28",
+    "sentiment_score_mean": 0.9292,
+    "nb_articles": 1
+  },
+  {
+    "ticker": "MT.AS",
+    "published_date": "2025-09-29",
+    "sentiment_score_mean": 0.2328,
+    "nb_articles": 4
+  },
+  {
+    "ticker": "MT.AS",
+    "published_date": "2025-09-30",
+    "sentiment_score_mean": 0.2751,
+    "nb_articles": 4
+  },
+  {
+    "ticker": "MT.AS",
+    "published_date": "2025-10-01",
+    "sentiment_score_mean": 0.5621,
+    "nb_articles": 6
+  },
+  {
+    "ticker": "MT.AS",
+    "published_date": "2025-10-02",
+    "sentiment_score_mean": 0.3312,
+    "nb_articles": 3
+  },
+  {
+    "ticker": "MT.AS",
+    "published_date": "2025-10-03",
+    "sentiment_score_mean": 0.3967,
+    "nb_articles": 3
+  },
+  {
+    "ticker": "MT.AS",
+    "published_date": "2025-10-04",
+    "sentiment_score_mean": 0.2997,
+    "nb_articles": 3
+  },
+  {
+    "ticker": "MT.AS",
+    "published_date": "2025-10-05",
+    "sentiment_score_mean": 0.6168,
+    "nb_articles": 3
+  },
+  {
+    "ticker": "MT.AS",
+    "published_date": "2025-10-06",
+    "sentiment_score_mean": 0.4754,
+    "nb_articles": 2
+  },
+  {
+    "ticker": "MT.AS",
+    "published_date": "2025-10-07",
+    "sentiment_score_mean": 0.4548,
+    "nb_articles": 5
+  },
+  {
+    "ticker": "MT.AS",
+    "published_date": "2025-10-08",
+    "sentiment_score_mean": 0.8305,
+    "nb_articles": 2
+  },
+  {
+    "ticker": "MT.AS",
+    "published_date": "2025-10-09",
+    "sentiment_score_mean": 0.815,
+    "nb_articles": 2
+  },
+  {
+    "ticker": "MT.AS",
+    "published_date": "2025-10-10",
+    "sentiment_score_mean": 0.2682,
+    "nb_articles": 2
+  },
+  {
+    "ticker": "MT.AS",
+    "published_date": "2025-10-11",
+    "sentiment_score_mean": 0.4407,
+    "nb_articles": 6
+  },
+  {
+    "ticker": "MT.AS",
+    "published_date": "2025-10-12",
+    "sentiment_score_mean": 0.9286,
+    "nb_articles": 1
+  },
+  {
+    "ticker": "MT.AS",
+    "published_date": "2025-10-13",
+    "sentiment_score_mean": 0.1071,
+    "nb_articles": 2
+  },
+  {
+    "ticker": "MT.AS",
+    "published_date": "2025-10-14",
+    "sentiment_score_mean": -0.0242,
+    "nb_articles": 3
+  },
+  {
+    "ticker": "MT.AS",
+    "published_date": "2025-10-15",
+    "sentiment_score_mean": 0.6563,
+    "nb_articles": 7
+  },
+  {
+    "ticker": "OR.PA",
+    "published_date": "2025-09-17",
+    "sentiment_score_mean": 0.9124,
+    "nb_articles": 1
+  },
+  {
+    "ticker": "OR.PA",
+    "published_date": "2025-09-18",
+    "sentiment_score_mean": 0.0011,
+    "nb_articles": 3
+  },
+  {
+    "ticker": "OR.PA",
+    "published_date": "2025-09-19",
+    "sentiment_score_mean": 0.87,
+    "nb_articles": 1
+  },
+  {
+    "ticker": "OR.PA",
+    "published_date": "2025-09-20",
+    "sentiment_score_mean": 0.0,
+    "nb_articles": 1
+  },
+  {
+    "ticker": "OR.PA",
+    "published_date": "2025-09-21",
+    "sentiment_score_mean": 0.7527,
+    "nb_articles": 1
+  },
+  {
+    "ticker": "OR.PA",
+    "published_date": "2025-09-22",
+    "sentiment_score_mean": 0.8908,
+    "nb_articles": 1
+  },
+  {
+    "ticker": "OR.PA",
+    "published_date": "2025-09-24",
+    "sentiment_score_mean": 0.4385,
+    "nb_articles": 3
+  },
+  {
+    "ticker": "OR.PA",
+    "published_date": "2025-09-25",
+    "sentiment_score_mean": 0.6469,
+    "nb_articles": 1
+  },
+  {
+    "ticker": "OR.PA",
+    "published_date": "2025-09-26",
+    "sentiment_score_mean": 0.595,
+    "nb_articles": 3
+  },
+  {
+    "ticker": "OR.PA",
+    "published_date": "2025-09-28",
+    "sentiment_score_mean": -0.0299,
+    "nb_articles": 2
+  },
+  {
+    "ticker": "OR.PA",
+    "published_date": "2025-09-29",
+    "sentiment_score_mean": 0.9179,
+    "nb_articles": 1
+  },
+  {
+    "ticker": "OR.PA",
+    "published_date": "2025-09-30",
+    "sentiment_score_mean": 0.8952,
+    "nb_articles": 2
+  },
+  {
+    "ticker": "OR.PA",
+    "published_date": "2025-10-01",
+    "sentiment_score_mean": 0.9137,
+    "nb_articles": 1
+  },
+  {
+    "ticker": "OR.PA",
+    "published_date": "2025-10-02",
+    "sentiment_score_mean": 0.9179,
+    "nb_articles": 3
+  },
+  {
+    "ticker": "OR.PA",
+    "published_date": "2025-10-03",
+    "sentiment_score_mean": 0.1814,
+    "nb_articles": 4
+  },
+  {
+    "ticker": "OR.PA",
+    "published_date": "2025-10-04",
+    "sentiment_score_mean": 0.5804,
+    "nb_articles": 1
+  },
+  {
+    "ticker": "OR.PA",
+    "published_date": "2025-10-05",
+    "sentiment_score_mean": -0.7801,
+    "nb_articles": 1
+  },
+  {
+    "ticker": "OR.PA",
+    "published_date": "2025-10-06",
+    "sentiment_score_mean": 0.7157,
+    "nb_articles": 1
+  },
+  {
+    "ticker": "OR.PA",
+    "published_date": "2025-10-07",
+    "sentiment_score_mean": 0.9248,
+    "nb_articles": 6
+  },
+  {
+    "ticker": "OR.PA",
+    "published_date": "2025-10-08",
+    "sentiment_score_mean": 0.8816,
+    "nb_articles": 2
+  },
+  {
+    "ticker": "OR.PA",
+    "published_date": "2025-10-09",
+    "sentiment_score_mean": 0.9081,
+    "nb_articles": 1
+  },
+  {
+    "ticker": "OR.PA",
+    "published_date": "2025-10-11",
+    "sentiment_score_mean": 0.8833,
+    "nb_articles": 1
+  },
+  {
+    "ticker": "OR.PA",
+    "published_date": "2025-10-14",
+    "sentiment_score_mean": 0.4303,
+    "nb_articles": 3
+  },
+  {
+    "ticker": "OR.PA",
+    "published_date": "2025-10-15",
+    "sentiment_score_mean": 0.6031,
+    "nb_articles": 3
+  },
+  {
+    "ticker": "ORA.PA",
+    "published_date": "2025-09-17",
+    "sentiment_score_mean": 0.5884,
+    "nb_articles": 3
+  },
+  {
+    "ticker": "ORA.PA",
+    "published_date": "2025-09-18",
+    "sentiment_score_mean": 0.324,
+    "nb_articles": 8
+  },
+  {
+    "ticker": "ORA.PA",
+    "published_date": "2025-09-19",
+    "sentiment_score_mean": 0.1969,
+    "nb_articles": 4
+  },
+  {
+    "ticker": "ORA.PA",
+    "published_date": "2025-09-20",
+    "sentiment_score_mean": 0.9378,
+    "nb_articles": 1
+  },
+  {
+    "ticker": "ORA.PA",
+    "published_date": "2025-09-21",
+    "sentiment_score_mean": 0.7841,
+    "nb_articles": 2
+  },
+  {
+    "ticker": "ORA.PA",
+    "published_date": "2025-09-22",
+    "sentiment_score_mean": 0.4191,
+    "nb_articles": 5
+  },
+  {
+    "ticker": "ORA.PA",
+    "published_date": "2025-09-23",
+    "sentiment_score_mean": 0.6235,
+    "nb_articles": 3
+  },
+  {
+    "ticker": "ORA.PA",
+    "published_date": "2025-09-24",
+    "sentiment_score_mean": 0.5254,
+    "nb_articles": 3
+  },
+  {
+    "ticker": "ORA.PA",
+    "published_date": "2025-09-25",
+    "sentiment_score_mean": 0.6813,
+    "nb_articles": 4
+  },
+  {
+    "ticker": "ORA.PA",
+    "published_date": "2025-09-26",
+    "sentiment_score_mean": 0.8398,
+    "nb_articles": 3
+  },
+  {
+    "ticker": "ORA.PA",
+    "published_date": "2025-09-27",
+    "sentiment_score_mean": 0.9021,
+    "nb_articles": 1
+  },
+  {
+    "ticker": "ORA.PA",
+    "published_date": "2025-09-28",
+    "sentiment_score_mean": 0.8903,
+    "nb_articles": 1
+  },
+  {
+    "ticker": "ORA.PA",
+    "published_date": "2025-09-29",
+    "sentiment_score_mean": 0.6615,
+    "nb_articles": 5
+  },
+  {
+    "ticker": "ORA.PA",
+    "published_date": "2025-09-30",
+    "sentiment_score_mean": 0.7803,
+    "nb_articles": 4
+  },
+  {
+    "ticker": "ORA.PA",
+    "published_date": "2025-10-01",
+    "sentiment_score_mean": 0.787,
+    "nb_articles": 3
+  },
+  {
+    "ticker": "ORA.PA",
+    "published_date": "2025-10-02",
+    "sentiment_score_mean": 0.9389,
+    "nb_articles": 2
+  },
+  {
+    "ticker": "ORA.PA",
+    "published_date": "2025-10-03",
+    "sentiment_score_mean": 0.3465,
+    "nb_articles": 4
+  },
+  {
+    "ticker": "ORA.PA",
+    "published_date": "2025-10-04",
+    "sentiment_score_mean": 0.8115,
+    "nb_articles": 2
+  },
+  {
+    "ticker": "ORA.PA",
+    "published_date": "2025-10-06",
+    "sentiment_score_mean": 0.5682,
+    "nb_articles": 5
+  },
+  {
+    "ticker": "ORA.PA",
+    "published_date": "2025-10-07",
+    "sentiment_score_mean": 0.6464,
+    "nb_articles": 7
+  },
+  {
+    "ticker": "ORA.PA",
+    "published_date": "2025-10-08",
+    "sentiment_score_mean": 0.1824,
+    "nb_articles": 7
+  },
+  {
+    "ticker": "ORA.PA",
+    "published_date": "2025-10-09",
+    "sentiment_score_mean": 0.5012,
+    "nb_articles": 4
+  },
+  {
+    "ticker": "ORA.PA",
+    "published_date": "2025-10-10",
+    "sentiment_score_mean": 0.5565,
+    "nb_articles": 5
+  },
+  {
+    "ticker": "ORA.PA",
+    "published_date": "2025-10-11",
+    "sentiment_score_mean": 0.9045,
+    "nb_articles": 2
+  },
+  {
+    "ticker": "ORA.PA",
+    "published_date": "2025-10-12",
+    "sentiment_score_mean": 0.0916,
+    "nb_articles": 2
+  },
+  {
+    "ticker": "ORA.PA",
+    "published_date": "2025-10-13",
+    "sentiment_score_mean": 0.6754,
+    "nb_articles": 4
+  },
+  {
+    "ticker": "ORA.PA",
+    "published_date": "2025-10-14",
+    "sentiment_score_mean": 0.8379,
+    "nb_articles": 3
+  },
+  {
+    "ticker": "ORA.PA",
+    "published_date": "2025-10-15",
+    "sentiment_score_mean": 0.8433,
+    "nb_articles": 3
+  },
+  {
+    "ticker": "PUB.PA",
+    "published_date": "2025-09-17",
+    "sentiment_score_mean": 0.9237,
+    "nb_articles": 1
+  },
+  {
+    "ticker": "PUB.PA",
+    "published_date": "2025-09-18",
+    "sentiment_score_mean": 0.7309,
+    "nb_articles": 2
+  },
+  {
+    "ticker": "PUB.PA",
+    "published_date": "2025-09-23",
+    "sentiment_score_mean": 0.3158,
+    "nb_articles": 3
+  },
+  {
+    "ticker": "PUB.PA",
+    "published_date": "2025-09-24",
+    "sentiment_score_mean": 0.3673,
+    "nb_articles": 3
+  },
+  {
+    "ticker": "PUB.PA",
+    "published_date": "2025-09-25",
+    "sentiment_score_mean": 0.7008,
+    "nb_articles": 9
+  },
+  {
+    "ticker": "PUB.PA",
+    "published_date": "2025-09-26",
+    "sentiment_score_mean": -0.8215,
+    "nb_articles": 2
+  },
+  {
+    "ticker": "PUB.PA",
+    "published_date": "2025-09-29",
+    "sentiment_score_mean": 0.089,
+    "nb_articles": 3
+  },
+  {
+    "ticker": "PUB.PA",
+    "published_date": "2025-09-30",
+    "sentiment_score_mean": 0.4775,
+    "nb_articles": 4
+  },
+  {
+    "ticker": "PUB.PA",
+    "published_date": "2025-10-01",
+    "sentiment_score_mean": 0.8876,
+    "nb_articles": 5
+  },
+  {
+    "ticker": "PUB.PA",
+    "published_date": "2025-10-02",
+    "sentiment_score_mean": 0.7481,
+    "nb_articles": 6
+  },
+  {
+    "ticker": "PUB.PA",
+    "published_date": "2025-10-03",
+    "sentiment_score_mean": 0.3811,
+    "nb_articles": 7
+  },
+  {
+    "ticker": "PUB.PA",
+    "published_date": "2025-10-06",
+    "sentiment_score_mean": 0.8975,
+    "nb_articles": 5
+  },
+  {
+    "ticker": "PUB.PA",
+    "published_date": "2025-10-07",
+    "sentiment_score_mean": 0.7045,
+    "nb_articles": 2
+  },
+  {
+    "ticker": "PUB.PA",
+    "published_date": "2025-10-08",
+    "sentiment_score_mean": 0.5687,
+    "nb_articles": 1
+  },
+  {
+    "ticker": "PUB.PA",
+    "published_date": "2025-10-09",
+    "sentiment_score_mean": 0.6917,
+    "nb_articles": 8
+  },
+  {
+    "ticker": "PUB.PA",
+    "published_date": "2025-10-10",
+    "sentiment_score_mean": 0.7149,
+    "nb_articles": 5
+  },
+  {
+    "ticker": "PUB.PA",
+    "published_date": "2025-10-11",
+    "sentiment_score_mean": 0.9436,
+    "nb_articles": 2
+  },
+  {
+    "ticker": "PUB.PA",
+    "published_date": "2025-10-13",
+    "sentiment_score_mean": 0.8383,
+    "nb_articles": 5
+  },
+  {
+    "ticker": "PUB.PA",
+    "published_date": "2025-10-14",
+    "sentiment_score_mean": -0.129,
+    "nb_articles": 11
+  },
+  {
+    "ticker": "PUB.PA",
+    "published_date": "2025-10-15",
+    "sentiment_score_mean": 0.304,
+    "nb_articles": 10
+  },
+  {
+    "ticker": "RI.PA",
+    "published_date": "2025-09-18",
+    "sentiment_score_mean": 0.3879,
+    "nb_articles": 2
+  },
+  {
+    "ticker": "RI.PA",
+    "published_date": "2025-09-19",
+    "sentiment_score_mean": 0.7341,
+    "nb_articles": 1
+  },
+  {
+    "ticker": "RI.PA",
+    "published_date": "2025-09-20",
+    "sentiment_score_mean": 0.2921,
+    "nb_articles": 3
+  },
+  {
+    "ticker": "RI.PA",
+    "published_date": "2025-09-21",
+    "sentiment_score_mean": 0.4475,
+    "nb_articles": 2
+  },
+  {
+    "ticker": "RI.PA",
+    "published_date": "2025-09-22",
+    "sentiment_score_mean": 0.3626,
+    "nb_articles": 7
+  },
+  {
+    "ticker": "RI.PA",
+    "published_date": "2025-09-23",
+    "sentiment_score_mean": 0.4749,
+    "nb_articles": 2
+  },
+  {
+    "ticker": "RI.PA",
+    "published_date": "2025-09-24",
+    "sentiment_score_mean": 0.7208,
+    "nb_articles": 3
+  },
+  {
+    "ticker": "RI.PA",
+    "published_date": "2025-09-25",
+    "sentiment_score_mean": 0.4389,
+    "nb_articles": 6
+  },
+  {
+    "ticker": "RI.PA",
+    "published_date": "2025-09-26",
+    "sentiment_score_mean": 0.5866,
+    "nb_articles": 8
+  },
+  {
+    "ticker": "RI.PA",
+    "published_date": "2025-09-27",
+    "sentiment_score_mean": 0.8795,
+    "nb_articles": 2
+  },
+  {
+    "ticker": "RI.PA",
+    "published_date": "2025-09-28",
+    "sentiment_score_mean": 0.0971,
+    "nb_articles": 5
+  },
+  {
+    "ticker": "RI.PA",
+    "published_date": "2025-09-29",
+    "sentiment_score_mean": 0.9277,
+    "nb_articles": 1
+  },
+  {
+    "ticker": "RI.PA",
+    "published_date": "2025-09-30",
+    "sentiment_score_mean": 0.8704,
+    "nb_articles": 2
+  },
+  {
+    "ticker": "RI.PA",
+    "published_date": "2025-10-01",
+    "sentiment_score_mean": 0.0,
+    "nb_articles": 4
+  },
+  {
+    "ticker": "RI.PA",
+    "published_date": "2025-10-02",
+    "sentiment_score_mean": 0.2309,
+    "nb_articles": 3
+  },
+  {
+    "ticker": "RI.PA",
+    "published_date": "2025-10-03",
+    "sentiment_score_mean": 0.0,
+    "nb_articles": 7
+  },
+  {
+    "ticker": "RI.PA",
+    "published_date": "2025-10-04",
+    "sentiment_score_mean": 0.5446,
+    "nb_articles": 4
+  },
+  {
+    "ticker": "RI.PA",
+    "published_date": "2025-10-05",
+    "sentiment_score_mean": 0.3425,
+    "nb_articles": 5
+  },
+  {
+    "ticker": "RI.PA",
+    "published_date": "2025-10-06",
+    "sentiment_score_mean": 0.3709,
+    "nb_articles": 9
+  },
+  {
+    "ticker": "RI.PA",
+    "published_date": "2025-10-07",
+    "sentiment_score_mean": -0.1287,
+    "nb_articles": 2
+  },
+  {
+    "ticker": "RI.PA",
+    "published_date": "2025-10-08",
+    "sentiment_score_mean": 0.4091,
+    "nb_articles": 4
+  },
+  {
+    "ticker": "RI.PA",
+    "published_date": "2025-10-09",
+    "sentiment_score_mean": 0.4387,
+    "nb_articles": 4
+  },
+  {
+    "ticker": "RI.PA",
+    "published_date": "2025-10-10",
+    "sentiment_score_mean": 0.0,
+    "nb_articles": 4
+  },
+  {
+    "ticker": "RI.PA",
+    "published_date": "2025-10-11",
+    "sentiment_score_mean": 0.7883,
+    "nb_articles": 2
+  },
+  {
+    "ticker": "RI.PA",
+    "published_date": "2025-10-12",
+    "sentiment_score_mean": 0.4523,
+    "nb_articles": 2
+  },
+  {
+    "ticker": "RI.PA",
+    "published_date": "2025-10-13",
+    "sentiment_score_mean": 0.7384,
+    "nb_articles": 1
+  },
+  {
+    "ticker": "RI.PA",
+    "published_date": "2025-10-14",
+    "sentiment_score_mean": 0.2876,
+    "nb_articles": 4
+  },
+  {
+    "ticker": "RMS.PA",
+    "published_date": "2025-09-17",
+    "sentiment_score_mean": 0.9229,
+    "nb_articles": 3
+  },
+  {
+    "ticker": "RMS.PA",
+    "published_date": "2025-09-18",
+    "sentiment_score_mean": 0.5462,
+    "nb_articles": 7
+  },
+  {
+    "ticker": "RMS.PA",
+    "published_date": "2025-09-19",
+    "sentiment_score_mean": 0.6542,
+    "nb_articles": 4
+  },
+  {
+    "ticker": "RMS.PA",
+    "published_date": "2025-09-20",
+    "sentiment_score_mean": 0.9218,
+    "nb_articles": 1
+  },
+  {
+    "ticker": "RMS.PA",
+    "published_date": "2025-09-22",
+    "sentiment_score_mean": 0.3128,
+    "nb_articles": 4
+  },
+  {
+    "ticker": "RMS.PA",
+    "published_date": "2025-09-24",
+    "sentiment_score_mean": 0.0201,
+    "nb_articles": 6
+  },
+  {
+    "ticker": "RMS.PA",
+    "published_date": "2025-09-25",
+    "sentiment_score_mean": 0.8916,
+    "nb_articles": 5
+  },
+  {
+    "ticker": "RMS.PA",
+    "published_date": "2025-09-26",
+    "sentiment_score_mean": 0.6191,
+    "nb_articles": 4
+  },
+  {
+    "ticker": "RMS.PA",
+    "published_date": "2025-09-27",
+    "sentiment_score_mean": 0.934,
+    "nb_articles": 1
+  },
+  {
+    "ticker": "RMS.PA",
+    "published_date": "2025-09-29",
+    "sentiment_score_mean": 0.8613,
+    "nb_articles": 4
+  },
+  {
+    "ticker": "RMS.PA",
+    "published_date": "2025-09-30",
+    "sentiment_score_mean": 0.9141,
+    "nb_articles": 2
+  },
+  {
+    "ticker": "RMS.PA",
+    "published_date": "2025-10-01",
+    "sentiment_score_mean": 0.8517,
+    "nb_articles": 5
+  },
+  {
+    "ticker": "RMS.PA",
+    "published_date": "2025-10-02",
+    "sentiment_score_mean": 0.857,
+    "nb_articles": 3
+  },
+  {
+    "ticker": "RMS.PA",
+    "published_date": "2025-10-03",
+    "sentiment_score_mean": 0.9076,
+    "nb_articles": 4
+  },
+  {
+    "ticker": "RMS.PA",
+    "published_date": "2025-10-04",
+    "sentiment_score_mean": 0.5982,
+    "nb_articles": 3
+  },
+  {
+    "ticker": "RMS.PA",
+    "published_date": "2025-10-05",
+    "sentiment_score_mean": 0.8976,
+    "nb_articles": 1
+  },
+  {
+    "ticker": "RMS.PA",
+    "published_date": "2025-10-06",
+    "sentiment_score_mean": 0.6926,
+    "nb_articles": 6
+  },
+  {
+    "ticker": "RMS.PA",
+    "published_date": "2025-10-07",
+    "sentiment_score_mean": 0.8903,
+    "nb_articles": 11
+  },
+  {
+    "ticker": "RMS.PA",
+    "published_date": "2025-10-08",
+    "sentiment_score_mean": 0.9287,
+    "nb_articles": 1
+  },
+  {
+    "ticker": "RMS.PA",
+    "published_date": "2025-10-09",
+    "sentiment_score_mean": 0.4241,
+    "nb_articles": 2
+  },
+  {
+    "ticker": "RMS.PA",
+    "published_date": "2025-10-10",
+    "sentiment_score_mean": 0.1399,
+    "nb_articles": 2
+  },
+  {
+    "ticker": "RMS.PA",
+    "published_date": "2025-10-13",
+    "sentiment_score_mean": 0.8713,
+    "nb_articles": 5
+  },
+  {
+    "ticker": "RMS.PA",
+    "published_date": "2025-10-14",
+    "sentiment_score_mean": 0.8796,
+    "nb_articles": 4
+  },
+  {
+    "ticker": "RMS.PA",
+    "published_date": "2025-10-15",
+    "sentiment_score_mean": -0.0318,
+    "nb_articles": 10
+  },
+  {
+    "ticker": "RNO.PA",
+    "published_date": "2025-09-17",
+    "sentiment_score_mean": 0.4578,
+    "nb_articles": 10
+  },
+  {
+    "ticker": "RNO.PA",
+    "published_date": "2025-09-18",
+    "sentiment_score_mean": 0.1332,
+    "nb_articles": 12
+  },
+  {
+    "ticker": "RNO.PA",
+    "published_date": "2025-09-19",
+    "sentiment_score_mean": 0.7814,
+    "nb_articles": 4
+  },
+  {
+    "ticker": "RNO.PA",
+    "published_date": "2025-09-20",
+    "sentiment_score_mean": 0.5163,
+    "nb_articles": 6
+  },
+  {
+    "ticker": "RNO.PA",
+    "published_date": "2025-09-22",
+    "sentiment_score_mean": 0.8116,
+    "nb_articles": 6
+  },
+  {
+    "ticker": "RNO.PA",
+    "published_date": "2025-09-23",
+    "sentiment_score_mean": 0.222,
+    "nb_articles": 6
+  },
+  {
+    "ticker": "RNO.PA",
+    "published_date": "2025-09-24",
+    "sentiment_score_mean": 0.8647,
+    "nb_articles": 6
+  },
+  {
+    "ticker": "RNO.PA",
+    "published_date": "2025-09-25",
+    "sentiment_score_mean": 0.1575,
+    "nb_articles": 10
+  },
+  {
+    "ticker": "RNO.PA",
+    "published_date": "2025-09-26",
+    "sentiment_score_mean": -0.5305,
+    "nb_articles": 2
+  },
+  {
+    "ticker": "RNO.PA",
+    "published_date": "2025-09-28",
+    "sentiment_score_mean": 0.622,
+    "nb_articles": 4
+  },
+  {
+    "ticker": "RNO.PA",
+    "published_date": "2025-09-29",
+    "sentiment_score_mean": 0.4049,
+    "nb_articles": 4
+  },
+  {
+    "ticker": "RNO.PA",
+    "published_date": "2025-10-02",
+    "sentiment_score_mean": -0.2886,
+    "nb_articles": 4
+  },
+  {
+    "ticker": "RNO.PA",
+    "published_date": "2025-10-03",
+    "sentiment_score_mean": 0.225,
+    "nb_articles": 14
+  },
+  {
+    "ticker": "RNO.PA",
+    "published_date": "2025-10-04",
+    "sentiment_score_mean": 0.0,
+    "nb_articles": 6
+  },
+  {
+    "ticker": "RNO.PA",
+    "published_date": "2025-10-06",
+    "sentiment_score_mean": 0.1416,
+    "nb_articles": 16
+  },
+  {
+    "ticker": "RNO.PA",
+    "published_date": "2025-10-07",
+    "sentiment_score_mean": 0.3135,
+    "nb_articles": 6
+  },
+  {
+    "ticker": "RNO.PA",
+    "published_date": "2025-10-08",
+    "sentiment_score_mean": 0.1756,
+    "nb_articles": 6
+  },
+  {
+    "ticker": "RNO.PA",
+    "published_date": "2025-10-09",
+    "sentiment_score_mean": 0.7922,
+    "nb_articles": 8
+  },
+  {
+    "ticker": "RNO.PA",
+    "published_date": "2025-10-10",
+    "sentiment_score_mean": 0.2257,
+    "nb_articles": 22
+  },
+  {
+    "ticker": "RNO.PA",
+    "published_date": "2025-10-11",
+    "sentiment_score_mean": 0.9198,
+    "nb_articles": 2
+  },
+  {
+    "ticker": "RNO.PA",
+    "published_date": "2025-10-12",
+    "sentiment_score_mean": 0.622,
+    "nb_articles": 8
+  },
+  {
+    "ticker": "RNO.PA",
+    "published_date": "2025-10-13",
+    "sentiment_score_mean": -0.457,
+    "nb_articles": 8
+  },
+  {
+    "ticker": "RNO.PA",
+    "published_date": "2025-10-14",
+    "sentiment_score_mean": 0.2684,
+    "nb_articles": 6
+  },
+  {
+    "ticker": "RNO.PA",
+    "published_date": "2025-10-15",
+    "sentiment_score_mean": 0.9344,
+    "nb_articles": 4
+  },
+  {
+    "ticker": "SAF.PA",
+    "published_date": "2025-09-17",
+    "sentiment_score_mean": 0.8797,
+    "nb_articles": 2
+  },
+  {
+    "ticker": "SAF.PA",
+    "published_date": "2025-09-18",
+    "sentiment_score_mean": 0.9064,
+    "nb_articles": 10
+  },
+  {
+    "ticker": "SAF.PA",
+    "published_date": "2025-09-19",
+    "sentiment_score_mean": 0.8351,
+    "nb_articles": 12
+  },
+  {
+    "ticker": "SAF.PA",
+    "published_date": "2025-09-20",
+    "sentiment_score_mean": 0.8838,
+    "nb_articles": 4
+  },
+  {
+    "ticker": "SAF.PA",
+    "published_date": "2025-09-21",
+    "sentiment_score_mean": 0.8095,
+    "nb_articles": 6
+  },
+  {
+    "ticker": "SAF.PA",
+    "published_date": "2025-09-22",
+    "sentiment_score_mean": 0.3186,
+    "nb_articles": 6
+  },
+  {
+    "ticker": "SAF.PA",
+    "published_date": "2025-09-23",
+    "sentiment_score_mean": 0.8675,
+    "nb_articles": 6
+  },
+  {
+    "ticker": "SAF.PA",
+    "published_date": "2025-09-24",
+    "sentiment_score_mean": 0.8734,
+    "nb_articles": 8
+  },
+  {
+    "ticker": "SAF.PA",
+    "published_date": "2025-09-25",
+    "sentiment_score_mean": 0.6698,
+    "nb_articles": 2
+  },
+  {
+    "ticker": "SAF.PA",
+    "published_date": "2025-09-26",
+    "sentiment_score_mean": 0.7439,
+    "nb_articles": 14
+  },
+  {
+    "ticker": "SAF.PA",
+    "published_date": "2025-09-27",
+    "sentiment_score_mean": 0.6219,
+    "nb_articles": 2
+  },
+  {
+    "ticker": "SAF.PA",
+    "published_date": "2025-09-29",
+    "sentiment_score_mean": 0.32,
+    "nb_articles": 6
+  },
+  {
+    "ticker": "SAF.PA",
+    "published_date": "2025-09-30",
+    "sentiment_score_mean": 0.4694,
+    "nb_articles": 10
+  },
+  {
+    "ticker": "SAF.PA",
+    "published_date": "2025-10-01",
+    "sentiment_score_mean": 0.7195,
+    "nb_articles": 12
+  },
+  {
+    "ticker": "SAF.PA",
+    "published_date": "2025-10-02",
+    "sentiment_score_mean": 0.8363,
+    "nb_articles": 8
+  },
+  {
+    "ticker": "SAF.PA",
+    "published_date": "2025-10-03",
+    "sentiment_score_mean": 0.5424,
+    "nb_articles": 16
+  },
+  {
+    "ticker": "SAF.PA",
+    "published_date": "2025-10-04",
+    "sentiment_score_mean": 0.9272,
+    "nb_articles": 4
+  },
+  {
+    "ticker": "SAF.PA",
+    "published_date": "2025-10-06",
+    "sentiment_score_mean": 0.8191,
+    "nb_articles": 8
+  },
+  {
+    "ticker": "SAF.PA",
+    "published_date": "2025-10-07",
+    "sentiment_score_mean": 0.8791,
+    "nb_articles": 6
+  },
+  {
+    "ticker": "SAF.PA",
+    "published_date": "2025-10-08",
+    "sentiment_score_mean": 0.1606,
+    "nb_articles": 10
+  },
+  {
+    "ticker": "SAF.PA",
+    "published_date": "2025-10-09",
+    "sentiment_score_mean": 0.4495,
+    "nb_articles": 8
+  },
+  {
+    "ticker": "SAF.PA",
+    "published_date": "2025-10-10",
+    "sentiment_score_mean": 0.6326,
+    "nb_articles": 10
+  },
+  {
+    "ticker": "SAF.PA",
+    "published_date": "2025-10-11",
+    "sentiment_score_mean": 0.6627,
+    "nb_articles": 8
+  },
+  {
+    "ticker": "SAF.PA",
+    "published_date": "2025-10-12",
+    "sentiment_score_mean": 0.7825,
+    "nb_articles": 4
+  },
+  {
+    "ticker": "SAF.PA",
+    "published_date": "2025-10-13",
+    "sentiment_score_mean": 0.4394,
+    "nb_articles": 10
+  },
+  {
+    "ticker": "SAF.PA",
+    "published_date": "2025-10-14",
+    "sentiment_score_mean": 0.9207,
+    "nb_articles": 4
+  },
+  {
+    "ticker": "SAF.PA",
+    "published_date": "2025-10-15",
+    "sentiment_score_mean": -0.3882,
+    "nb_articles": 4
+  },
+  {
+    "ticker": "SAN.PA",
+    "published_date": "2025-09-17",
+    "sentiment_score_mean": 0.3055,
+    "nb_articles": 18
+  },
+  {
+    "ticker": "SAN.PA",
+    "published_date": "2025-09-18",
+    "sentiment_score_mean": 0.1021,
+    "nb_articles": 6
+  },
+  {
+    "ticker": "SAN.PA",
+    "published_date": "2025-09-19",
+    "sentiment_score_mean": -0.9514,
+    "nb_articles": 2
+  },
+  {
+    "ticker": "SAN.PA",
+    "published_date": "2025-09-22",
+    "sentiment_score_mean": 0.1424,
+    "nb_articles": 12
+  },
+  {
+    "ticker": "SAN.PA",
+    "published_date": "2025-09-23",
+    "sentiment_score_mean": 0.6929,
+    "nb_articles": 18
+  },
+  {
+    "ticker": "SAN.PA",
+    "published_date": "2025-09-24",
+    "sentiment_score_mean": 0.4622,
+    "nb_articles": 16
+  },
+  {
+    "ticker": "SAN.PA",
+    "published_date": "2025-09-25",
+    "sentiment_score_mean": 0.1955,
+    "nb_articles": 6
+  },
+  {
+    "ticker": "SAN.PA",
+    "published_date": "2025-09-26",
+    "sentiment_score_mean": 0.5588,
+    "nb_articles": 8
+  },
+  {
+    "ticker": "SAN.PA",
+    "published_date": "2025-09-28",
+    "sentiment_score_mean": 0.695,
+    "nb_articles": 8
+  },
+  {
+    "ticker": "SAN.PA",
+    "published_date": "2025-09-29",
+    "sentiment_score_mean": -0.95,
+    "nb_articles": 2
+  },
+  {
+    "ticker": "SAN.PA",
+    "published_date": "2025-09-30",
+    "sentiment_score_mean": 0.5621,
+    "nb_articles": 6
+  },
+  {
+    "ticker": "SAN.PA",
+    "published_date": "2025-10-01",
+    "sentiment_score_mean": -0.5066,
+    "nb_articles": 10
+  },
+  {
+    "ticker": "SAN.PA",
+    "published_date": "2025-10-02",
+    "sentiment_score_mean": -0.4495,
+    "nb_articles": 4
+  },
+  {
+    "ticker": "SAN.PA",
+    "published_date": "2025-10-03",
+    "sentiment_score_mean": 0.1736,
+    "nb_articles": 16
+  },
+  {
+    "ticker": "SAN.PA",
+    "published_date": "2025-10-04",
+    "sentiment_score_mean": 0.4218,
+    "nb_articles": 4
+  },
+  {
+    "ticker": "SAN.PA",
+    "published_date": "2025-10-05",
+    "sentiment_score_mean": -0.8813,
+    "nb_articles": 2
+  },
+  {
+    "ticker": "SAN.PA",
+    "published_date": "2025-10-06",
+    "sentiment_score_mean": 0.3223,
+    "nb_articles": 8
+  },
+  {
+    "ticker": "SAN.PA",
+    "published_date": "2025-10-07",
+    "sentiment_score_mean": 0.5306,
+    "nb_articles": 10
+  },
+  {
+    "ticker": "SAN.PA",
+    "published_date": "2025-10-08",
+    "sentiment_score_mean": 0.7723,
+    "nb_articles": 6
+  },
+  {
+    "ticker": "SAN.PA",
+    "published_date": "2025-10-09",
+    "sentiment_score_mean": -0.042,
+    "nb_articles": 4
+  },
+  {
+    "ticker": "SAN.PA",
+    "published_date": "2025-10-10",
+    "sentiment_score_mean": 0.9141,
+    "nb_articles": 4
+  },
+  {
+    "ticker": "SAN.PA",
+    "published_date": "2025-10-12",
+    "sentiment_score_mean": 0.0,
+    "nb_articles": 6
+  },
+  {
+    "ticker": "SAN.PA",
+    "published_date": "2025-10-13",
+    "sentiment_score_mean": 0.3563,
+    "nb_articles": 8
+  },
+  {
+    "ticker": "SAN.PA",
+    "published_date": "2025-10-14",
+    "sentiment_score_mean": 0.4604,
+    "nb_articles": 4
+  },
+  {
+    "ticker": "SAN.PA",
+    "published_date": "2025-10-15",
+    "sentiment_score_mean": 0.1809,
+    "nb_articles": 12
+  },
+  {
+    "ticker": "SGO.PA",
+    "published_date": "2025-09-17",
+    "sentiment_score_mean": -0.9551,
+    "nb_articles": 2
+  },
+  {
+    "ticker": "SGO.PA",
+    "published_date": "2025-09-18",
+    "sentiment_score_mean": 0.3084,
+    "nb_articles": 6
+  },
+  {
+    "ticker": "SGO.PA",
+    "published_date": "2025-09-19",
+    "sentiment_score_mean": 0.9391,
+    "nb_articles": 2
+  },
+  {
+    "ticker": "SGO.PA",
+    "published_date": "2025-09-22",
+    "sentiment_score_mean": 0.9153,
+    "nb_articles": 2
+  },
+  {
+    "ticker": "SGO.PA",
+    "published_date": "2025-09-23",
+    "sentiment_score_mean": -0.0674,
+    "nb_articles": 8
+  },
+  {
+    "ticker": "SGO.PA",
+    "published_date": "2025-09-24",
+    "sentiment_score_mean": 0.8407,
+    "nb_articles": 6
+  },
+  {
+    "ticker": "SGO.PA",
+    "published_date": "2025-09-25",
+    "sentiment_score_mean": 0.338,
+    "nb_articles": 6
+  },
+  {
+    "ticker": "SGO.PA",
+    "published_date": "2025-09-26",
+    "sentiment_score_mean": 0.9328,
+    "nb_articles": 4
+  },
+  {
+    "ticker": "SGO.PA",
+    "published_date": "2025-09-29",
+    "sentiment_score_mean": -0.2337,
+    "nb_articles": 8
+  },
+  {
+    "ticker": "SGO.PA",
+    "published_date": "2025-09-30",
+    "sentiment_score_mean": 0.9441,
+    "nb_articles": 2
+  },
+  {
+    "ticker": "SGO.PA",
+    "published_date": "2025-10-01",
+    "sentiment_score_mean": -0.0279,
+    "nb_articles": 4
+  },
+  {
+    "ticker": "SGO.PA",
+    "published_date": "2025-10-02",
+    "sentiment_score_mean": -0.867,
+    "nb_articles": 6
+  },
+  {
+    "ticker": "SGO.PA",
+    "published_date": "2025-10-03",
+    "sentiment_score_mean": 0.9416,
+    "nb_articles": 4
+  },
+  {
+    "ticker": "SGO.PA",
+    "published_date": "2025-10-06",
+    "sentiment_score_mean": 0.1521,
+    "nb_articles": 8
+  },
+  {
+    "ticker": "SGO.PA",
+    "published_date": "2025-10-07",
+    "sentiment_score_mean": 0.777,
+    "nb_articles": 2
+  },
+  {
+    "ticker": "SGO.PA",
+    "published_date": "2025-10-08",
+    "sentiment_score_mean": -0.1337,
+    "nb_articles": 10
+  },
+  {
+    "ticker": "SGO.PA",
+    "published_date": "2025-10-09",
+    "sentiment_score_mean": -0.907,
+    "nb_articles": 2
+  },
+  {
+    "ticker": "SGO.PA",
+    "published_date": "2025-10-10",
+    "sentiment_score_mean": -0.2723,
+    "nb_articles": 6
+  },
+  {
+    "ticker": "SGO.PA",
+    "published_date": "2025-10-13",
+    "sentiment_score_mean": 0.309,
+    "nb_articles": 6
+  },
+  {
+    "ticker": "SGO.PA",
+    "published_date": "2025-10-14",
+    "sentiment_score_mean": -0.9521,
+    "nb_articles": 2
+  },
+  {
+    "ticker": "SGO.PA",
+    "published_date": "2025-10-15",
+    "sentiment_score_mean": -0.899,
+    "nb_articles": 2
+  },
+  {
+    "ticker": "STLAP.PA",
+    "published_date": "2025-09-17",
+    "sentiment_score_mean": 0.0,
+    "nb_articles": 2
+  },
+  {
+    "ticker": "STLAP.PA",
+    "published_date": "2025-09-19",
+    "sentiment_score_mean": -0.1671,
+    "nb_articles": 10
+  },
+  {
+    "ticker": "STLAP.PA",
+    "published_date": "2025-09-20",
+    "sentiment_score_mean": -0.0201,
+    "nb_articles": 6
+  },
+  {
+    "ticker": "STLAP.PA",
+    "published_date": "2025-09-21",
+    "sentiment_score_mean": 0.755,
+    "nb_articles": 4
+  },
+  {
+    "ticker": "STLAP.PA",
+    "published_date": "2025-09-22",
+    "sentiment_score_mean": -0.1904,
+    "nb_articles": 14
+  },
+  {
+    "ticker": "STLAP.PA",
+    "published_date": "2025-09-23",
+    "sentiment_score_mean": 0.0,
+    "nb_articles": 4
+  },
+  {
+    "ticker": "STLAP.PA",
+    "published_date": "2025-09-25",
+    "sentiment_score_mean": 0.0,
+    "nb_articles": 2
+  },
+  {
+    "ticker": "STLAP.PA",
+    "published_date": "2025-09-27",
+    "sentiment_score_mean": 0.1051,
+    "nb_articles": 6
+  },
+  {
+    "ticker": "STLAP.PA",
+    "published_date": "2025-09-29",
+    "sentiment_score_mean": 0.5921,
+    "nb_articles": 12
+  },
+  {
+    "ticker": "STLAP.PA",
+    "published_date": "2025-09-30",
+    "sentiment_score_mean": 0.8883,
+    "nb_articles": 8
+  },
+  {
+    "ticker": "STLAP.PA",
+    "published_date": "2025-10-01",
+    "sentiment_score_mean": 0.0,
+    "nb_articles": 2
+  },
+  {
+    "ticker": "STLAP.PA",
+    "published_date": "2025-10-02",
+    "sentiment_score_mean": -0.9151,
+    "nb_articles": 4
+  },
+  {
+    "ticker": "STLAP.PA",
+    "published_date": "2025-10-03",
+    "sentiment_score_mean": 0.6784,
+    "nb_articles": 8
+  },
+  {
+    "ticker": "STLAP.PA",
+    "published_date": "2025-10-04",
+    "sentiment_score_mean": -0.6765,
+    "nb_articles": 2
+  },
+  {
+    "ticker": "STLAP.PA",
+    "published_date": "2025-10-05",
+    "sentiment_score_mean": 0.0,
+    "nb_articles": 4
+  },
+  {
+    "ticker": "STLAP.PA",
+    "published_date": "2025-10-06",
+    "sentiment_score_mean": -0.1706,
+    "nb_articles": 10
+  },
+  {
+    "ticker": "STLAP.PA",
+    "published_date": "2025-10-07",
+    "sentiment_score_mean": -0.0768,
+    "nb_articles": 6
+  },
+  {
+    "ticker": "STLAP.PA",
+    "published_date": "2025-10-08",
+    "sentiment_score_mean": 0.1448,
+    "nb_articles": 10
+  },
+  {
+    "ticker": "STLAP.PA",
+    "published_date": "2025-10-10",
+    "sentiment_score_mean": 0.0,
+    "nb_articles": 2
+  },
+  {
+    "ticker": "STLAP.PA",
+    "published_date": "2025-10-11",
+    "sentiment_score_mean": 0.9333,
+    "nb_articles": 2
+  },
+  {
+    "ticker": "STLAP.PA",
+    "published_date": "2025-10-13",
+    "sentiment_score_mean": -0.0324,
+    "nb_articles": 10
+  },
+  {
+    "ticker": "STLAP.PA",
+    "published_date": "2025-10-14",
+    "sentiment_score_mean": 0.1224,
+    "nb_articles": 12
+  },
+  {
+    "ticker": "STLAP.PA",
+    "published_date": "2025-10-15",
+    "sentiment_score_mean": 0.3037,
+    "nb_articles": 58
+  },
+  {
+    "ticker": "STMPA.PA",
+    "published_date": "2025-09-17",
+    "sentiment_score_mean": 0.2077,
+    "nb_articles": 14
+  },
+  {
+    "ticker": "STMPA.PA",
+    "published_date": "2025-09-18",
+    "sentiment_score_mean": 0.7517,
+    "nb_articles": 10
+  },
+  {
+    "ticker": "STMPA.PA",
+    "published_date": "2025-09-19",
+    "sentiment_score_mean": 0.2633,
+    "nb_articles": 16
+  },
+  {
+    "ticker": "STMPA.PA",
+    "published_date": "2025-09-20",
+    "sentiment_score_mean": 0.874,
+    "nb_articles": 6
+  },
+  {
+    "ticker": "STMPA.PA",
+    "published_date": "2025-09-21",
+    "sentiment_score_mean": 0.0,
+    "nb_articles": 2
+  },
+  {
+    "ticker": "STMPA.PA",
+    "published_date": "2025-09-22",
+    "sentiment_score_mean": 0.4317,
+    "nb_articles": 22
+  },
+  {
+    "ticker": "STMPA.PA",
+    "published_date": "2025-09-23",
+    "sentiment_score_mean": 0.1377,
+    "nb_articles": 14
+  },
+  {
+    "ticker": "STMPA.PA",
+    "published_date": "2025-09-24",
+    "sentiment_score_mean": 0.8366,
+    "nb_articles": 4
+  },
+  {
+    "ticker": "STMPA.PA",
+    "published_date": "2025-09-25",
+    "sentiment_score_mean": 0.6562,
+    "nb_articles": 10
+  },
+  {
+    "ticker": "STMPA.PA",
+    "published_date": "2025-09-26",
+    "sentiment_score_mean": 0.4674,
+    "nb_articles": 4
+  },
+  {
+    "ticker": "STMPA.PA",
+    "published_date": "2025-09-27",
+    "sentiment_score_mean": 0.8418,
+    "nb_articles": 2
+  },
+  {
+    "ticker": "STMPA.PA",
+    "published_date": "2025-09-28",
+    "sentiment_score_mean": 0.4677,
+    "nb_articles": 4
+  },
+  {
+    "ticker": "STMPA.PA",
+    "published_date": "2025-09-29",
+    "sentiment_score_mean": 0.1061,
+    "nb_articles": 14
+  },
+  {
+    "ticker": "STMPA.PA",
+    "published_date": "2025-09-30",
+    "sentiment_score_mean": 0.8512,
+    "nb_articles": 2
+  },
+  {
+    "ticker": "STMPA.PA",
+    "published_date": "2025-10-01",
+    "sentiment_score_mean": 0.1707,
+    "nb_articles": 14
+  },
+  {
+    "ticker": "STMPA.PA",
+    "published_date": "2025-10-02",
+    "sentiment_score_mean": 0.1826,
+    "nb_articles": 4
+  },
+  {
+    "ticker": "STMPA.PA",
+    "published_date": "2025-10-03",
+    "sentiment_score_mean": 0.6151,
+    "nb_articles": 8
+  },
+  {
+    "ticker": "STMPA.PA",
+    "published_date": "2025-10-06",
+    "sentiment_score_mean": 0.7916,
+    "nb_articles": 6
+  },
+  {
+    "ticker": "STMPA.PA",
+    "published_date": "2025-10-07",
+    "sentiment_score_mean": 0.4377,
+    "nb_articles": 14
+  },
+  {
+    "ticker": "STMPA.PA",
+    "published_date": "2025-10-09",
+    "sentiment_score_mean": -0.5119,
+    "nb_articles": 2
+  },
+  {
+    "ticker": "STMPA.PA",
+    "published_date": "2025-10-10",
+    "sentiment_score_mean": 0.649,
+    "nb_articles": 2
+  },
+  {
+    "ticker": "STMPA.PA",
+    "published_date": "2025-10-11",
+    "sentiment_score_mean": 0.7566,
+    "nb_articles": 2
+  },
+  {
+    "ticker": "STMPA.PA",
+    "published_date": "2025-10-12",
+    "sentiment_score_mean": 0.8814,
+    "nb_articles": 4
+  },
+  {
+    "ticker": "STMPA.PA",
+    "published_date": "2025-10-13",
+    "sentiment_score_mean": 0.7941,
+    "nb_articles": 8
+  },
+  {
+    "ticker": "STMPA.PA",
+    "published_date": "2025-10-14",
+    "sentiment_score_mean": 0.244,
+    "nb_articles": 8
+  },
+  {
+    "ticker": "STMPA.PA",
+    "published_date": "2025-10-15",
+    "sentiment_score_mean": 0.9322,
+    "nb_articles": 4
+  },
+  {
+    "ticker": "SU.PA",
+    "published_date": "2025-09-17",
+    "sentiment_score_mean": 0.0,
+    "nb_articles": 4
+  },
+  {
+    "ticker": "SU.PA",
+    "published_date": "2025-09-18",
+    "sentiment_score_mean": -0.0841,
+    "nb_articles": 8
+  },
+  {
+    "ticker": "SU.PA",
+    "published_date": "2025-09-19",
+    "sentiment_score_mean": 0.3144,
+    "nb_articles": 6
+  },
+  {
+    "ticker": "SU.PA",
+    "published_date": "2025-09-20",
+    "sentiment_score_mean": -0.3081,
+    "nb_articles": 6
+  },
+  {
+    "ticker": "SU.PA",
+    "published_date": "2025-09-21",
+    "sentiment_score_mean": 0.1594,
+    "nb_articles": 4
+  },
+  {
+    "ticker": "SU.PA",
+    "published_date": "2025-09-22",
+    "sentiment_score_mean": 0.5691,
+    "nb_articles": 2
+  },
+  {
+    "ticker": "SU.PA",
+    "published_date": "2025-09-23",
+    "sentiment_score_mean": 0.7557,
+    "nb_articles": 8
+  },
+  {
+    "ticker": "SU.PA",
+    "published_date": "2025-09-24",
+    "sentiment_score_mean": 0.8975,
+    "nb_articles": 8
+  },
+  {
+    "ticker": "SU.PA",
+    "published_date": "2025-09-25",
+    "sentiment_score_mean": 0.0,
+    "nb_articles": 6
+  },
+  {
+    "ticker": "SU.PA",
+    "published_date": "2025-09-26",
+    "sentiment_score_mean": 0.4339,
+    "nb_articles": 6
+  },
+  {
+    "ticker": "SU.PA",
+    "published_date": "2025-09-27",
+    "sentiment_score_mean": 0.8627,
+    "nb_articles": 2
+  },
+  {
+    "ticker": "SU.PA",
+    "published_date": "2025-09-28",
+    "sentiment_score_mean": 0.7329,
+    "nb_articles": 2
+  },
+  {
+    "ticker": "SU.PA",
+    "published_date": "2025-09-29",
+    "sentiment_score_mean": 0.894,
+    "nb_articles": 2
+  },
+  {
+    "ticker": "SU.PA",
+    "published_date": "2025-09-30",
+    "sentiment_score_mean": 0.6547,
+    "nb_articles": 12
+  },
+  {
+    "ticker": "SU.PA",
+    "published_date": "2025-10-01",
+    "sentiment_score_mean": 0.3569,
+    "nb_articles": 10
+  },
+  {
+    "ticker": "SU.PA",
+    "published_date": "2025-10-02",
+    "sentiment_score_mean": 0.3857,
+    "nb_articles": 8
+  },
+  {
+    "ticker": "SU.PA",
+    "published_date": "2025-10-03",
+    "sentiment_score_mean": 0.6564,
+    "nb_articles": 10
+  },
+  {
+    "ticker": "SU.PA",
+    "published_date": "2025-10-04",
+    "sentiment_score_mean": 0.0755,
+    "nb_articles": 8
+  },
+  {
+    "ticker": "SU.PA",
+    "published_date": "2025-10-05",
+    "sentiment_score_mean": 0.7718,
+    "nb_articles": 2
+  },
+  {
+    "ticker": "SU.PA",
+    "published_date": "2025-10-07",
+    "sentiment_score_mean": 0.2376,
+    "nb_articles": 20
+  },
+  {
+    "ticker": "SU.PA",
+    "published_date": "2025-10-08",
+    "sentiment_score_mean": 0.2139,
+    "nb_articles": 14
+  },
+  {
+    "ticker": "SU.PA",
+    "published_date": "2025-10-09",
+    "sentiment_score_mean": 0.265,
+    "nb_articles": 18
+  },
+  {
+    "ticker": "SU.PA",
+    "published_date": "2025-10-10",
+    "sentiment_score_mean": 0.039,
+    "nb_articles": 6
+  },
+  {
+    "ticker": "SU.PA",
+    "published_date": "2025-10-12",
+    "sentiment_score_mean": 0.9194,
+    "nb_articles": 2
+  },
+  {
+    "ticker": "SU.PA",
+    "published_date": "2025-10-13",
+    "sentiment_score_mean": -0.3694,
+    "nb_articles": 8
+  },
+  {
+    "ticker": "SU.PA",
+    "published_date": "2025-10-14",
+    "sentiment_score_mean": 0.2519,
+    "nb_articles": 8
+  },
+  {
+    "ticker": "SU.PA",
+    "published_date": "2025-10-15",
+    "sentiment_score_mean": 0.5846,
+    "nb_articles": 8
+  },
+  {
+    "ticker": "SU.PA",
+    "published_date": "2025-10-16",
+    "sentiment_score_mean": 0.8552,
+    "nb_articles": 2
+  },
+  {
+    "ticker": "TEP.PA",
+    "published_date": "2025-10-07",
+    "sentiment_score_mean": 0.0,
+    "nb_articles": 2
+  },
+  {
+    "ticker": "TEP.PA",
+    "published_date": "2025-10-09",
+    "sentiment_score_mean": 0.9368,
+    "nb_articles": 2
+  },
+  {
+    "ticker": "TTE.PA",
+    "published_date": "2025-09-17",
+    "sentiment_score_mean": -0.4738,
+    "nb_articles": 12
+  },
+  {
+    "ticker": "TTE.PA",
+    "published_date": "2025-09-18",
+    "sentiment_score_mean": -0.5997,
+    "nb_articles": 6
+  },
+  {
+    "ticker": "TTE.PA",
+    "published_date": "2025-09-19",
+    "sentiment_score_mean": -0.062,
+    "nb_articles": 12
+  },
+  {
+    "ticker": "TTE.PA",
+    "published_date": "2025-09-20",
+    "sentiment_score_mean": -0.928,
+    "nb_articles": 2
+  },
+  {
+    "ticker": "TTE.PA",
+    "published_date": "2025-09-21",
+    "sentiment_score_mean": 0.8858,
+    "nb_articles": 2
+  },
+  {
+    "ticker": "TTE.PA",
+    "published_date": "2025-09-22",
+    "sentiment_score_mean": -0.1997,
+    "nb_articles": 6
+  },
+  {
+    "ticker": "TTE.PA",
+    "published_date": "2025-09-23",
+    "sentiment_score_mean": -0.557,
+    "nb_articles": 6
+  },
+  {
+    "ticker": "TTE.PA",
+    "published_date": "2025-09-24",
+    "sentiment_score_mean": -0.2281,
+    "nb_articles": 22
+  },
+  {
+    "ticker": "TTE.PA",
+    "published_date": "2025-09-25",
+    "sentiment_score_mean": 0.3696,
+    "nb_articles": 8
+  },
+  {
+    "ticker": "TTE.PA",
+    "published_date": "2025-09-26",
+    "sentiment_score_mean": 0.0,
+    "nb_articles": 2
+  },
+  {
+    "ticker": "TTE.PA",
+    "published_date": "2025-09-28",
+    "sentiment_score_mean": 0.0,
+    "nb_articles": 2
+  },
+  {
+    "ticker": "TTE.PA",
+    "published_date": "2025-09-29",
+    "sentiment_score_mean": -0.1436,
+    "nb_articles": 14
+  },
+  {
+    "ticker": "TTE.PA",
+    "published_date": "2025-09-30",
+    "sentiment_score_mean": -0.0418,
+    "nb_articles": 14
+  },
+  {
+    "ticker": "TTE.PA",
+    "published_date": "2025-10-01",
+    "sentiment_score_mean": 0.2332,
+    "nb_articles": 14
+  },
+  {
+    "ticker": "TTE.PA",
+    "published_date": "2025-10-02",
+    "sentiment_score_mean": 0.2085,
+    "nb_articles": 6
+  },
+  {
+    "ticker": "TTE.PA",
+    "published_date": "2025-10-03",
+    "sentiment_score_mean": 0.0038,
+    "nb_articles": 6
+  },
+  {
+    "ticker": "TTE.PA",
+    "published_date": "2025-10-04",
+    "sentiment_score_mean": 0.0,
+    "nb_articles": 4
+  },
+  {
+    "ticker": "TTE.PA",
+    "published_date": "2025-10-05",
+    "sentiment_score_mean": 0.3006,
+    "nb_articles": 6
+  },
+  {
+    "ticker": "TTE.PA",
+    "published_date": "2025-10-06",
+    "sentiment_score_mean": -0.07,
+    "nb_articles": 8
+  },
+  {
+    "ticker": "TTE.PA",
+    "published_date": "2025-10-07",
+    "sentiment_score_mean": -0.4771,
+    "nb_articles": 4
+  },
+  {
+    "ticker": "TTE.PA",
+    "published_date": "2025-10-08",
+    "sentiment_score_mean": -0.9408,
+    "nb_articles": 4
+  },
+  {
+    "ticker": "TTE.PA",
+    "published_date": "2025-10-09",
+    "sentiment_score_mean": 0.384,
+    "nb_articles": 8
+  },
+  {
+    "ticker": "TTE.PA",
+    "published_date": "2025-10-10",
+    "sentiment_score_mean": 0.4639,
+    "nb_articles": 4
+  },
+  {
+    "ticker": "TTE.PA",
+    "published_date": "2025-10-11",
+    "sentiment_score_mean": 0.0,
+    "nb_articles": 2
+  },
+  {
+    "ticker": "TTE.PA",
+    "published_date": "2025-10-13",
+    "sentiment_score_mean": 0.3584,
+    "nb_articles": 8
+  },
+  {
+    "ticker": "TTE.PA",
+    "published_date": "2025-10-14",
+    "sentiment_score_mean": -0.0918,
+    "nb_articles": 4
+  },
+  {
+    "ticker": "TTE.PA",
+    "published_date": "2025-10-15",
+    "sentiment_score_mean": -0.1524,
+    "nb_articles": 14
+  },
+  {
+    "ticker": "URW.PA",
+    "published_date": "2025-09-17",
+    "sentiment_score_mean": -0.8781,
+    "nb_articles": 2
+  },
+  {
+    "ticker": "URW.PA",
+    "published_date": "2025-09-30",
+    "sentiment_score_mean": -0.858,
+    "nb_articles": 2
+  },
+  {
+    "ticker": "URW.PA",
+    "published_date": "2025-10-02",
+    "sentiment_score_mean": 0.9502,
+    "nb_articles": 2
+  },
+  {
+    "ticker": "URW.PA",
+    "published_date": "2025-10-15",
+    "sentiment_score_mean": 0.766,
+    "nb_articles": 2
+  },
+  {
+    "ticker": "VIE.PA",
+    "published_date": "2025-09-17",
+    "sentiment_score_mean": 0.8378,
+    "nb_articles": 6
+  },
+  {
+    "ticker": "VIE.PA",
+    "published_date": "2025-09-18",
+    "sentiment_score_mean": 0.6365,
+    "nb_articles": 8
+  },
+  {
+    "ticker": "VIE.PA",
+    "published_date": "2025-09-19",
+    "sentiment_score_mean": 0.5592,
+    "nb_articles": 6
+  },
+  {
+    "ticker": "VIE.PA",
+    "published_date": "2025-09-22",
+    "sentiment_score_mean": 0.9417,
+    "nb_articles": 2
+  },
+  {
+    "ticker": "VIE.PA",
+    "published_date": "2025-09-23",
+    "sentiment_score_mean": -0.7604,
+    "nb_articles": 2
+  },
+  {
+    "ticker": "VIE.PA",
+    "published_date": "2025-09-24",
+    "sentiment_score_mean": -0.9471,
+    "nb_articles": 2
+  },
+  {
+    "ticker": "VIE.PA",
+    "published_date": "2025-09-25",
+    "sentiment_score_mean": 0.9309,
+    "nb_articles": 2
+  },
+  {
+    "ticker": "VIE.PA",
+    "published_date": "2025-09-26",
+    "sentiment_score_mean": 0.3464,
+    "nb_articles": 6
+  },
+  {
+    "ticker": "VIE.PA",
+    "published_date": "2025-09-29",
+    "sentiment_score_mean": 0.5919,
+    "nb_articles": 2
+  },
+  {
+    "ticker": "VIE.PA",
+    "published_date": "2025-09-30",
+    "sentiment_score_mean": 0.8881,
+    "nb_articles": 2
+  },
+  {
+    "ticker": "VIE.PA",
+    "published_date": "2025-10-02",
+    "sentiment_score_mean": -0.9123,
+    "nb_articles": 2
+  },
+  {
+    "ticker": "VIE.PA",
+    "published_date": "2025-10-03",
+    "sentiment_score_mean": -0.5781,
+    "nb_articles": 6
+  },
+  {
+    "ticker": "VIE.PA",
+    "published_date": "2025-10-04",
+    "sentiment_score_mean": 0.0,
+    "nb_articles": 2
+  },
+  {
+    "ticker": "VIE.PA",
+    "published_date": "2025-10-06",
+    "sentiment_score_mean": 0.14,
+    "nb_articles": 10
+  },
+  {
+    "ticker": "VIE.PA",
+    "published_date": "2025-10-07",
+    "sentiment_score_mean": 0.8186,
+    "nb_articles": 6
+  },
+  {
+    "ticker": "VIE.PA",
+    "published_date": "2025-10-09",
+    "sentiment_score_mean": 0.8576,
+    "nb_articles": 6
+  },
+  {
+    "ticker": "VIE.PA",
+    "published_date": "2025-10-10",
+    "sentiment_score_mean": 0.9271,
+    "nb_articles": 2
+  },
+  {
+    "ticker": "VIE.PA",
+    "published_date": "2025-10-13",
+    "sentiment_score_mean": -0.1892,
+    "nb_articles": 8
+  },
+  {
+    "ticker": "VIE.PA",
+    "published_date": "2025-10-15",
+    "sentiment_score_mean": 0.9479,
+    "nb_articles": 2
+  },
+  {
+    "ticker": "VIV.PA",
+    "published_date": "2025-09-17",
+    "sentiment_score_mean": -0.9361,
+    "nb_articles": 4
+  },
+  {
+    "ticker": "VIV.PA",
+    "published_date": "2025-09-19",
+    "sentiment_score_mean": 0.5442,
+    "nb_articles": 6
+  },
+  {
+    "ticker": "VIV.PA",
+    "published_date": "2025-09-22",
+    "sentiment_score_mean": 0.5129,
+    "nb_articles": 4
+  },
+  {
+    "ticker": "VIV.PA",
+    "published_date": "2025-09-27",
+    "sentiment_score_mean": 0.4071,
+    "nb_articles": 4
+  },
+  {
+    "ticker": "VIV.PA",
+    "published_date": "2025-09-29",
+    "sentiment_score_mean": 0.744,
+    "nb_articles": 2
+  },
+  {
+    "ticker": "VIV.PA",
+    "published_date": "2025-09-30",
+    "sentiment_score_mean": 0.0125,
+    "nb_articles": 4
+  },
+  {
+    "ticker": "VIV.PA",
+    "published_date": "2025-10-01",
+    "sentiment_score_mean": 0.9202,
+    "nb_articles": 2
+  },
+  {
+    "ticker": "VIV.PA",
+    "published_date": "2025-10-03",
+    "sentiment_score_mean": 0.9402,
+    "nb_articles": 2
+  },
+  {
+    "ticker": "VIV.PA",
+    "published_date": "2025-10-06",
+    "sentiment_score_mean": 0.8094,
+    "nb_articles": 6
+  },
+  {
+    "ticker": "VIV.PA",
+    "published_date": "2025-10-08",
+    "sentiment_score_mean": 0.4459,
+    "nb_articles": 4
+  },
+  {
+    "ticker": "VIV.PA",
+    "published_date": "2025-10-10",
+    "sentiment_score_mean": 0.92,
+    "nb_articles": 2
+  },
+  {
+    "ticker": "VIV.PA",
+    "published_date": "2025-10-15",
+    "sentiment_score_mean": 0.0,
+    "nb_articles": 2
+  },
+  {
+    "ticker": "WLN.PA",
+    "published_date": "2025-09-17",
+    "sentiment_score_mean": 0.8825,
+    "nb_articles": 2
+  },
+  {
+    "ticker": "WLN.PA",
+    "published_date": "2025-09-18",
+    "sentiment_score_mean": 0.5763,
+    "nb_articles": 8
+  },
+  {
+    "ticker": "WLN.PA",
+    "published_date": "2025-09-19",
+    "sentiment_score_mean": -0.9419,
+    "nb_articles": 2
+  },
+  {
+    "ticker": "WLN.PA",
+    "published_date": "2025-09-23",
+    "sentiment_score_mean": 0.9169,
+    "nb_articles": 2
+  },
+  {
+    "ticker": "WLN.PA",
+    "published_date": "2025-09-24",
+    "sentiment_score_mean": 0.8246,
+    "nb_articles": 8
+  },
+  {
+    "ticker": "WLN.PA",
+    "published_date": "2025-09-25",
+    "sentiment_score_mean": 0.9243,
+    "nb_articles": 2
+  },
+  {
+    "ticker": "WLN.PA",
+    "published_date": "2025-09-30",
+    "sentiment_score_mean": 0.0,
+    "nb_articles": 2
+  },
+  {
+    "ticker": "WLN.PA",
+    "published_date": "2025-10-01",
+    "sentiment_score_mean": 0.9244,
+    "nb_articles": 2
+  },
+  {
+    "ticker": "WLN.PA",
+    "published_date": "2025-10-03",
+    "sentiment_score_mean": 0.8176,
+    "nb_articles": 2
+  },
+  {
+    "ticker": "WLN.PA",
+    "published_date": "2025-10-07",
+    "sentiment_score_mean": 0.7306,
+    "nb_articles": 2
+  },
+  {
+    "ticker": "WLN.PA",
+    "published_date": "2025-10-09",
+    "sentiment_score_mean": 0.9169,
+    "nb_articles": 2
+  }
+]

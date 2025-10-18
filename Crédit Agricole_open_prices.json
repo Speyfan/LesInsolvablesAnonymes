@@ -1,0 +1,99 @@
+{
+    "symbol": "Cr\u00e9dit Agricole",
+    "start_date": "2025-09-15",
+    "end_date": "2025-10-16",
+    "open_prices": [
+        {
+            "date": "2025-09-15",
+            "open_price": 16.58
+        },
+        {
+            "date": "2025-09-16",
+            "open_price": 16.73
+        },
+        {
+            "date": "2025-09-17",
+            "open_price": 16.5
+        },
+        {
+            "date": "2025-09-18",
+            "open_price": 16.36
+        },
+        {
+            "date": "2025-09-19",
+            "open_price": 16.49
+        },
+        {
+            "date": "2025-09-22",
+            "open_price": 16.56
+        },
+        {
+            "date": "2025-09-23",
+            "open_price": 16.7
+        },
+        {
+            "date": "2025-09-24",
+            "open_price": 16.75
+        },
+        {
+            "date": "2025-09-25",
+            "open_price": 16.57
+        },
+        {
+            "date": "2025-09-26",
+            "open_price": 16.6
+        },
+        {
+            "date": "2025-09-29",
+            "open_price": 16.92
+        },
+        {
+            "date": "2025-09-30",
+            "open_price": 16.93
+        },
+        {
+            "date": "2025-10-01",
+            "open_price": 16.77
+        },
+        {
+            "date": "2025-10-02",
+            "open_price": 17.1
+        },
+        {
+            "date": "2025-10-03",
+            "open_price": 17.05
+        },
+        {
+            "date": "2025-10-06",
+            "open_price": 16.69
+        },
+        {
+            "date": "2025-10-07",
+            "open_price": 16.3
+        },
+        {
+            "date": "2025-10-08",
+            "open_price": 16.33
+        },
+        {
+            "date": "2025-10-09",
+            "open_price": 16.52
+        },
+        {
+            "date": "2025-10-10",
+            "open_price": 16.67
+        },
+        {
+            "date": "2025-10-13",
+            "open_price": 16.53
+        },
+        {
+            "date": "2025-10-14",
+            "open_price": 16.34
+        },
+        {
+            "date": "2025-10-15",
+            "open_price": 16.92
+        }
+    ]
+}

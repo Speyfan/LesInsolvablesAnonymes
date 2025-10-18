@@ -1,0 +1,1190 @@
+[
+  {
+    "ticker": "ACA.PA",
+    "mois": "2025-10",
+    "sentiment_moyen": -0.1134,
+    "nb_articles": 42,
+    "article_plus_positif": {
+      "title": "Credit Agricole price target lowered by EUR 1 at Morgan Stanley",
+      "description": null,
+      "sentiment": 0.9169,
+      "url": "https://thefly.com/permalinks/entry.php/id4210161/CRARY-Credit-Agricole-price-target-lowered-by-EUR--at-Morgan-Stanley"
+    },
+    "article_plus_negatif": {
+      "title": "Truist Financial Corporation $TFC Position Increased by PFG Investments LLC",
+      "description": null,
+      "sentiment": -0.9541,
+      "url": "https://www.etfdailynews.com/2025/10/04/truist-financial-corporation-tfc-position-increased-by-pfg-investments-llc/"
+    },
+    "article_random": {
+      "title": "Robeco Institutional Asset Management B.V. Acquires 5,218 Shares of TechnipFMC plc $FTI",
+      "description": null,
+      "sentiment": -0.9516,
+      "url": "https://www.etfdailynews.com/2025/10/07/robeco-institutional-asset-management-b-v-acquires-5218-shares-of-technipfmc-plc-fti/"
+    },
+    "mots_cles_frequents": [
+      "french",
+      "agricole",
+      "credit",
+      "takaichi",
+      "stocks",
+      "just",
+      "hours",
+      "says",
+      "quits",
+      "political"
+    ]
+  },
+  {
+    "ticker": "AIR.PA",
+    "mois": "2025-10",
+    "sentiment_moyen": 0.0285,
+    "nb_articles": 37,
+    "article_plus_positif": {
+      "title": "Another Low Cost, Long Haul Airline, PLAY, Bites The Dust",
+      "description": null,
+      "sentiment": 0.9431,
+      "url": "https://www.forbes.com/sites/michaelgoldstein/2025/10/08/another-low-cost-long-haul-airline-play-bites-the-dust/"
+    },
+    "article_plus_negatif": {
+      "title": "Boeing's 737 Momentum Fuels Delivery Surge, Embraer Stays On Track",
+      "description": null,
+      "sentiment": -0.953,
+      "url": "https://finance.yahoo.com/news/boeings-737-momentum-fuels-delivery-175352487.html"
+    },
+    "article_random": {
+      "title": "Spirit Airlines slashes fleet, will get rid of more than 100 planes in latest bankruptcy cuts",
+      "description": null,
+      "sentiment": 0,
+      "url": "https://thepointsguy.com/news/spirit-airlines-slashes-fleet-bankruptcy-cuts/"
+    },
+    "mots_cles_frequents": [
+      "boeing",
+      "airbus",
+      "most",
+      "airlines",
+      "airline",
+      "delivered",
+      "history",
+      "flights",
+      "planes",
+      "ousts"
+    ]
+  },
+  {
+    "ticker": "BN.PA",
+    "mois": "2025-10",
+    "sentiment_moyen": 0.3563,
+    "nb_articles": 40,
+    "article_plus_positif": {
+      "title": "Danone: Information on the total number of voting rights and shares",
+      "description": null,
+      "sentiment": 0.9543,
+      "url": "https://www.globenewswire.com/news-release/2025/10/07/3162818/0/en/Danone-Information-on-the-total-number-of-voting-rights-and-shares.html"
+    },
+    "article_plus_negatif": {
+      "title": "Fortified Dairy Products Market Size to Worth USD 222.82 Billion by 2034, Driven by Health-Conscious Consumers and Plant-Based Options",
+      "description": null,
+      "sentiment": -0.9466,
+      "url": "https://www.globenewswire.com/news-release/2025/10/08/3163458/0/en/Fortified-Dairy-Products-Market-Size-to-Worth-USD-222-82-Billion-by-2034-Driven-by-Health-Conscious-Consumers-and-Plant-Based-Options.html"
+    },
+    "article_random": {
+      "title": "Major food and beverage company agrees to make changes after being accused of misleading customers — here's what's happening",
+      "description": null,
+      "sentiment": 0.8645,
+      "url": "https://www.yahoo.com/news/articles/major-food-beverage-company-agrees-213000495.html"
+    },
+    "mots_cles_frequents": [
+      "market",
+      "danone",
+      "dairy",
+      "foods",
+      "lifeway",
+      "forecast",
+      "trends",
+      "billion",
+      "food",
+      "coffee"
+    ]
+  },
+  {
+    "ticker": "BNP.PA",
+    "mois": "2025-10",
+    "sentiment_moyen": 0.3562,
+    "nb_articles": 38,
+    "article_plus_positif": {
+      "title": "BNP Paribas Exane gets more bearish on Tenaris, downgrades shares",
+      "description": null,
+      "sentiment": 0.9169,
+      "url": "https://thefly.com/permalinks/entry.php/id4211184/TS-BNP-Paribas-Exane-gets-more-bearish-on-Tenaris-downgrades-shares"
+    },
+    "article_plus_negatif": {
+      "title": "BNP Paribas Exane Issues Positive Forecast for T-Mobile US (NASDAQ:TMUS) Stock Price",
+      "description": null,
+      "sentiment": -0.9499,
+      "url": "https://www.etfdailynews.com/2025/10/07/bnp-paribas-exane-issues-positive-forecast-for-t-mobile-us-nasdaqtmus-stock-price/"
+    },
+    "article_random": {
+      "title": "AvalonBay Communities (NYSE:AVB) Cut to “Neutral” at BNP Paribas Exane",
+      "description": null,
+      "sentiment": 0,
+      "url": "https://www.etfdailynews.com/2025/10/01/avalonbay-communities-nyseavb-cut-to-neutral-at-bnp-paribas-exane/"
+    },
+    "mots_cles_frequents": [
+      "paribas",
+      "exane",
+      "just",
+      "here",
+      "upgraded",
+      "with",
+      "hsbc",
+      "nasdaq",
+      "nyse",
+      "downgraded"
+    ]
+  },
+  {
+    "ticker": "CA.PA",
+    "mois": "2025-10",
+    "sentiment_moyen": 0.2124,
+    "nb_articles": 13,
+    "article_plus_positif": {
+      "title": "AI in the Middle East Adoption Trends, Readiness, and Risk Landscape Analysis Report 2025",
+      "description": null,
+      "sentiment": 0.9384,
+      "url": "https://www.globenewswire.com/news-release/2025/10/10/3164741/28124/en/AI-in-the-Middle-East-Adoption-Trends-Readiness-and-Risk-Landscape-Analysis-Report-2025.html"
+    },
+    "article_plus_negatif": {
+      "title": "Salsify AI Transforms PXM Ops for Digital Shelf & Agentic Commerce",
+      "description": null,
+      "sentiment": -0.6211,
+      "url": "https://www.globenewswire.com/news-release/2025/10/15/3167047/0/en/Salsify-AI-Transforms-PXM-Ops-for-Digital-Shelf-Agentic-Commerce.html"
+    },
+    "article_random": {
+      "title": "Hackers claim to have plundered Red Hat’s GitHub repos",
+      "description": null,
+      "sentiment": 0,
+      "url": "https://www.helpnetsecurity.com/2025/10/02/hackers-red-hat-github-breached-customer-data-stolen/"
+    },
+    "mots_cles_frequents": [
+      "israel",
+      "carrefour",
+      "claim",
+      "name",
+      "disappears",
+      "arab",
+      "stores",
+      "boycotters",
+      "victory",
+      "with"
+    ]
+  },
+  {
+    "ticker": "CAP.PA",
+    "mois": "2025-10",
+    "sentiment_moyen": 0.2247,
+    "nb_articles": 35,
+    "article_plus_positif": {
+      "title": "Gurobi to Bring Decision Intelligence Summit to Vienna",
+      "description": null,
+      "sentiment": 0.9469,
+      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/gurobi-to-bring-decision-intelligence-summit-to-vienna"
+    },
+    "article_plus_negatif": {
+      "title": "Digital Thread Market Projected to Reach USD 52.69 Billion by 2032 Driven by Industry 4.0 Adoption | Research by SNS Insider",
+      "description": null,
+      "sentiment": -0.9338,
+      "url": "https://www.globenewswire.com/news-release/2025/10/15/3167175/0/en/Digital-Thread-Market-Projected-to-Reach-USD-52-69-Billion-by-2032-Driven-by-Industry-4-0-Adoption-Research-by-SNS-Insider.html"
+    },
+    "article_random": {
+      "title": "AI's getting better at faking crowds. Here's why that's cause for concern",
+      "description": null,
+      "sentiment": 0.496,
+      "url": "https://www.npr.org/2025/10/03/nx-s1-5528974/will-smith-crowd-ai"
+    },
+    "mots_cles_frequents": [
+      "digital",
+      "euro",
+      "market",
+      "capgemini",
+      "billion",
+      "services",
+      "picks",
+      "startup",
+      "prevent",
+      "insider"
+    ]
+  },
+  {
+    "ticker": "CS.PA",
+    "mois": "2025-10",
+    "sentiment_moyen": 0.3751,
+    "nb_articles": 40,
+    "article_plus_positif": {
+      "title": "Symposium on Advisory Opinion AO-32/25 on the Climate Emergency and Human Rights: Indigenous Peoples, Consultation, and Climate Governance",
+      "description": null,
+      "sentiment": 0.9461,
+      "url": "http://opiniojuris.org/2025/10/03/symposium-on-advisory-opinion-ao-32-25-on-the-climate-emergency-and-human-rights-indigenous-peoples-consultation-and-climate-governance/"
+    },
+    "article_plus_negatif": {
+      "title": "BNP Paribas closes acquisition of HSBC’s operations in Germany",
+      "description": null,
+      "sentiment": -0.9311,
+      "url": "https://www.privatebankerinternational.com/news/bnp-paribas-acquires-hsbcs-germany/"
+    },
+    "article_random": {
+      "title": "Insurtech accelerator backed by insurance giants picks first 10 startups",
+      "description": null,
+      "sentiment": 0.5291,
+      "url": "https://www.irishtimes.com/business/2025/10/10/insurtech-accelerator-backed-by-insurance-giants-picks-first-10-startups/"
+    },
+    "mots_cles_frequents": [
+      "liverpool",
+      "with",
+      "insurance",
+      "slot",
+      "global",
+      "market",
+      "reinsurance",
+      "arne",
+      "decision",
+      "health"
+    ]
+  },
+  {
+    "ticker": "DG.PA",
+    "mois": "2025-10",
+    "sentiment_moyen": 0.708,
+    "nb_articles": 108,
+    "article_plus_positif": {
+      "title": "Disclosure of transactions in on shares from September 29th to October 03rd,2025",
+      "description": null,
+      "sentiment": 0.9521,
+      "url": "https://www.globenewswire.com/news-release/2025/10/08/3163568/0/en/Disclosure-of-transactions-in-on-shares-from-September-29th-to-October-03rd-2025.html"
+    },
+    "article_plus_negatif": {
+      "title": "VINCI Airports – Traffic as of September 30, 2025",
+      "description": null,
+      "sentiment": -0.9506,
+      "url": "https://www.globenewswire.com/news-release/2025/10/15/3167328/0/en/VINCI-Airports-Traffic-as-of-September-30-2025.html"
+    },
+    "article_random": {
+      "title": "Paramount Pictures Sets Josh Goldstine as Global Marketing and Distribution President",
+      "description": null,
+      "sentiment": 0.945,
+      "url": "https://www.thewrap.com/paramount-pictures-josh-goldstine-global-marketing-distribution-president/"
+    },
+    "mots_cles_frequents": [
+      "vinci",
+      "with",
+      "best",
+      "online",
+      "september",
+      "disclosure",
+      "shares",
+      "october",
+      "casino",
+      "bonus"
+    ]
+  },
+  {
+    "ticker": "EL.PA",
+    "mois": "2025-10",
+    "sentiment_moyen": 0.3748,
+    "nb_articles": 28,
+    "article_plus_positif": {
+      "title": "Meta AI Data Will Be Used For Targeted Advertising From December",
+      "description": null,
+      "sentiment": 0.9477,
+      "url": "https://www.uploadvr.com/meta-ai-data-will-be-used-for-targeted-advertising/"
+    },
+    "article_plus_negatif": {
+      "title": "Stocks Set to Open Higher on Fed Rate-Cut Hopes and Earnings Optimism",
+      "description": null,
+      "sentiment": -0.9469,
+      "url": "https://www.barchart.com/story/news/35249136/stocks-set-to-open-higher-on-fed-rate-cut-optimism"
+    },
+    "article_random": {
+      "title": "EssilorLuxottica: Third-Quarter 2025 Revenue Conference Call Invitation",
+      "description": null,
+      "sentiment": 0.8568,
+      "url": "https://www.globenewswire.com/news-release/2025/10/06/3161937/0/it/EssilorLuxottica-Third-Quarter-2025-Revenue-Conference-Call-Invitation.html"
+    },
+    "mots_cles_frequents": [
+      "essilorluxottica",
+      "meta",
+      "glasses",
+      "nikon",
+      "smart",
+      "data",
+      "trump",
+      "tariffs",
+      "third",
+      "quarter"
+    ]
+  },
+  {
+    "ticker": "EN.PA",
+    "mois": "2025-10",
+    "sentiment_moyen": 0.374,
+    "nb_articles": 28,
+    "article_plus_positif": {
+      "title": "Offsite Construction Industry Business Report 2025-2030: Higher ROI and Faster Project Timelines Generate Investment Interest in Modular Construction Startups",
+      "description": null,
+      "sentiment": 0.9405,
+      "url": "https://www.globenewswire.com/news-release/2025/10/02/3160178/28124/en/Offsite-Construction-Industry-Business-Report-2025-2030-Higher-ROI-and-Faster-Project-Timelines-Generate-Investment-Interest-in-Modular-Construction-Startups.html"
+    },
+    "article_plus_negatif": {
+      "title": "French telecoms operators submit joint plan for four-to-three merger",
+      "description": null,
+      "sentiment": -0.9279,
+      "url": "https://biztoc.com/x/22511776b4d4716b"
+    },
+    "article_random": {
+      "title": "Altice France/SFR rejects €17bn takeover bid",
+      "description": null,
+      "sentiment": 0.7657,
+      "url": "https://www.telecomtv.com/content/access-evolution/altice-france-sfr-rejects-17bn-takeover-bid-54071/"
+    },
+    "mots_cles_frequents": [
+      "altice",
+      "bouygues",
+      "orange",
+      "joint",
+      "france",
+      "offer",
+      "french",
+      "group",
+      "telecom",
+      "free"
+    ]
+  },
+  {
+    "ticker": "ENGI.PA",
+    "mois": "2025-10",
+    "sentiment_moyen": 0.2027,
+    "nb_articles": 31,
+    "article_plus_positif": {
+      "title": "Water and Sewer Line and Related Structures Construction Industry Report 2019-2024, 2024-2029F, 2034F, Profiles of MasTec, Artera Services, Michels Corp, KLJ Paraflex, Charter Oak Utility Constructors",
+      "description": null,
+      "sentiment": 0.9479,
+      "url": "https://www.globenewswire.com/news-release/2025/10/15/3167221/28124/en/Water-and-Sewer-Line-and-Related-Structures-Construction-Industry-Report-2019-2024-2024-2029F-2034F-Profiles-of-MasTec-Artera-Services-Michels-Corp-KLJ-Paraflex-Charter-Oak-Utility.html"
+    },
+    "article_plus_negatif": {
+      "title": "Sidetrade: Revenue for the First Nine Months of 2025 up 13% at Constant Exchange Rates",
+      "description": null,
+      "sentiment": -0.9521,
+      "url": "https://www.globenewswire.com/news-release/2025/10/14/3166495/0/en/Sidetrade-Revenue-for-the-First-Nine-Months-of-2025-up-13-at-Constant-Exchange-Rates.html"
+    },
+    "article_random": {
+      "title": "Hungary buys gas from France's Engie, diversifying supply from Russia",
+      "description": null,
+      "sentiment": 0.7688,
+      "url": "https://biztoc.com/x/b597fcadd35fc46f"
+    },
+    "mots_cles_frequents": [
+      "engie",
+      "market",
+      "data",
+      "leak",
+      "major",
+      "report",
+      "shinyhunters",
+      "alleged",
+      "qantas",
+      "vietnam"
+    ]
+  },
+  {
+    "ticker": "ERF.PA",
+    "mois": "2025-10",
+    "sentiment_moyen": 0.076,
+    "nb_articles": 4,
+    "article_plus_positif": {
+      "title": "Purchase of own shares",
+      "description": null,
+      "sentiment": 0.9197,
+      "url": "https://www.globenewswire.com/news-release/2025/10/13/3165672/0/en/Purchase-of-own-shares.html"
+    },
+    "article_plus_negatif": {
+      "title": "Nickel Market Size to Cross USD 84.49 Billion by 2034",
+      "description": null,
+      "sentiment": -0.933,
+      "url": "https://www.globenewswire.com/news-release/2025/10/15/3166862/0/en/Nickel-Market-Size-to-Cross-USD-84-49-Billion-by-2034.html"
+    },
+    "article_random": {
+      "title": "Forte Minerals Appoints Patrick Evans as Non-Executive Chairman and Announces the Resignation of Long-Standing Director Doug Turnbull",
+      "description": null,
+      "sentiment": -0.6,
+      "url": "https://www.globenewswire.com/news-release/2025/10/14/3165942/0/en/Forte-Minerals-Appoints-Patrick-Evans-as-Non-Executive-Chairman-and-Announces-the-Resignation-of-Long-Standing-Director-Doug-Turnbull.html"
+    },
+    "mots_cles_frequents": [
+      "purchase",
+      "shares",
+      "forte",
+      "minerals",
+      "appoints",
+      "patrick",
+      "evans",
+      "executive",
+      "chairman",
+      "announces"
+    ]
+  },
+  {
+    "ticker": "GLE.PA",
+    "mois": "2025-10",
+    "sentiment_moyen": 0.2624,
+    "nb_articles": 104,
+    "article_plus_positif": {
+      "title": "Coface SA: Disclosure of total number of voting rights and number of shares in the capital as at September 30, 2025",
+      "description": null,
+      "sentiment": 0.9564,
+      "url": "https://www.globenewswire.com/news-release/2025/10/01/3159772/0/en/Coface-SA-Disclosure-of-total-number-of-voting-rights-and-number-of-shares-in-the-capital-as-at-September-30-2025.html"
+    },
+    "article_plus_negatif": {
+      "title": "Short Interest in Verallia Société Anonyme (OTCMKTS:VRLAF) Grows By 114.3%",
+      "description": null,
+      "sentiment": -0.9406,
+      "url": "https://www.etfdailynews.com/2025/10/05/short-interest-in-verallia-societe-anonyme-otcmktsvrlaf-grows-by-114-3/"
+    },
+    "article_random": {
+      "title": "EDF Weighs Edison IPO To Boost Nuclear Expansion Funding",
+      "description": null,
+      "sentiment": -0.5573,
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/EDF-Weighs-Edison-IPO-To-Boost-Nuclear-Expansion-Funding.html"
+    },
+    "mots_cles_frequents": [
+      "number",
+      "shares",
+      "société",
+      "france",
+      "total",
+      "voting",
+      "rights",
+      "disclosure",
+      "with",
+      "otcmkts"
+    ]
+  },
+  {
+    "ticker": "HO.PA",
+    "mois": "2025-10",
+    "sentiment_moyen": 0.2556,
+    "nb_articles": 86,
+    "article_plus_positif": {
+      "title": "Saudi Arabia Defense Market Report 2025-2034: AI, Quantum Tech, and Hypersonic Weapons Driving Revenues",
+      "description": null,
+      "sentiment": 0.9467,
+      "url": "https://www.globenewswire.com/news-release/2025/10/14/3166324/28124/en/Saudi-Arabia-Defense-Market-Report-2025-2034-AI-Quantum-Tech-and-Hypersonic-Weapons-Driving-Revenues.html"
+    },
+    "article_plus_negatif": {
+      "title": "Thales S.A. (OTCMKTS:THLLY) Short Interest Update",
+      "description": null,
+      "sentiment": -0.9478,
+      "url": "https://www.etfdailynews.com/2025/10/02/thales-s-a-otcmktsthlly-short-interest-update/"
+    },
+    "article_random": {
+      "title": "Aircraft Lighting Market Forecast Report 2025-2033, with Profiles of RTX, Astronics, Diehl Stiftung, Honeywell, Thales, Luminator Aerospace, Oxley, STG Aerospace, Aveo Engineering and Cobalt Aerospace",
+      "description": null,
+      "sentiment": 0.9429,
+      "url": "https://www.globenewswire.com/news-release/2025/10/08/3163118/28124/en/Aircraft-Lighting-Market-Forecast-Report-2025-2033-with-Profiles-of-RTX-Astronics-Diehl-Stiftung-Honeywell-Thales-Luminator-Aerospace-Oxley-STG-Aerospace-Aveo-Engineering-and-Cobal.html"
+    },
+    "mots_cles_frequents": [
+      "market",
+      "thales",
+      "report",
+      "quantum",
+      "europe",
+      "with",
+      "forecast",
+      "analysis",
+      "transit",
+      "cards"
+    ]
+  },
+  {
+    "ticker": "KER.PA",
+    "mois": "2025-10",
+    "sentiment_moyen": 0.0826,
+    "nb_articles": 47,
+    "article_plus_positif": {
+      "title": "North America Luxury Goods Forecast Report 2025: A $197.08 Billion Market by 2033, Driven by Social Media, E-Commerce Growth, and Strong Demand Across Key Cities in the U.S. and Canada",
+      "description": null,
+      "sentiment": 0.9392,
+      "url": "https://www.globenewswire.com/news-release/2025/10/14/3166488/28124/en/North-America-Luxury-Goods-Forecast-Report-2025-A-197-08-Billion-Market-by-2033-Driven-by-Social-Media-E-Commerce-Growth-and-Strong-Demand-Across-Key-Cities-in-the-U-S-and-Canada.html"
+    },
+    "article_plus_negatif": {
+      "title": "The Formula Fueling Uniqlo’s Record-Breaking Profits",
+      "description": null,
+      "sentiment": -0.958,
+      "url": "https://hypebeast.com/2025/10/uniqlo-record-breaing-profits-collaborations-jw-anderson-lemaire-clare-waight-keller-kaws-info"
+    },
+    "article_random": {
+      "title": "Scattered LAPSUS$ Hunters Claim Salesforce Breach, 1B Records, 39 Firms Listed",
+      "description": null,
+      "sentiment": 0.8896,
+      "url": "https://hackread.com/scattered-lapsus-hunters-salesforce-breach/"
+    },
+    "mots_cles_frequents": [
+      "luxury",
+      "gucci",
+      "loewe",
+      "fines",
+      "chloe",
+      "kering",
+      "fixing",
+      "resale",
+      "prices",
+      "lvmh"
+    ]
+  },
+  {
+    "ticker": "MC.PA",
+    "mois": "2025-10",
+    "sentiment_moyen": 0.0759,
+    "nb_articles": 66,
+    "article_plus_positif": {
+      "title": "LVMH Shares Surge After Surprise Return to Sales Growth",
+      "description": null,
+      "sentiment": 0.9496,
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_8bfc5c7c-a683-4637-8082-c4996c5ecd4d"
+    },
+    "article_plus_negatif": {
+      "title": "The Formula Fueling Uniqlo’s Record-Breaking Profits",
+      "description": null,
+      "sentiment": -0.958,
+      "url": "https://hypebeast.com/2025/10/uniqlo-record-breaing-profits-collaborations-jw-anderson-lemaire-clare-waight-keller-kaws-info"
+    },
+    "article_random": {
+      "title": "LVMH, Other Luxury Companies Are Still Cashing In on the U.S. Market",
+      "description": null,
+      "sentiment": -0.9335,
+      "url": "https://www.investopedia.com/lvmh-other-luxury-companies-are-still-cashing-in-on-the-u-s-market-11830491"
+    },
+    "mots_cles_frequents": [
+      "lvmh",
+      "earnings",
+      "market",
+      "stock",
+      "bank",
+      "gucci",
+      "loewe",
+      "today",
+      "nasdaq",
+      "rate"
+    ]
+  },
+  {
+    "ticker": "ML.PA",
+    "mois": "2025-10",
+    "sentiment_moyen": 0.6482,
+    "nb_articles": 49,
+    "article_plus_positif": {
+      "title": "Michelin cuts 2025 guidance ahead of Q3 sales update",
+      "description": null,
+      "sentiment": 0.9496,
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_2a22355d-948f-4e65-aa26-0f2945a2f175"
+    },
+    "article_plus_negatif": {
+      "title": "Exclusive interview: JW Marriott Hotel Tokyo is officially open with a top-tier location and one of the city's best new pools",
+      "description": null,
+      "sentiment": -0.7776,
+      "url": "https://thepointsguy.com/news/jw-marriott-tokyo-open-now/"
+    },
+    "article_random": {
+      "title": "5 Ways To Upgrade S’mores – Including Savory S’mores!",
+      "description": null,
+      "sentiment": 0.8699,
+      "url": "https://www.younghouselove.com/savory-smores-ideas/"
+    },
+    "mots_cles_frequents": [
+      "michelin",
+      "with",
+      "apple",
+      "restaurants",
+      "guide",
+      "knife",
+      "edge",
+      "stars",
+      "october",
+      "restaurant"
+    ]
+  },
+  {
+    "ticker": "OR.PA",
+    "mois": "2025-10",
+    "sentiment_moyen": 0.6338,
+    "nb_articles": 27,
+    "article_plus_positif": {
+      "title": "Disclosure of total number of voting rights and number of shares in the capital at September 30, 2025",
+      "description": null,
+      "sentiment": 0.9462,
+      "url": "https://www.globenewswire.com/news-release/2025/10/07/3162513/0/en/Disclosure-of-total-number-of-voting-rights-and-number-of-shares-in-the-capital-at-September-30-2025.html"
+    },
+    "article_plus_negatif": {
+      "title": "LOreal India posts 22.6 pc rise in profit to ₹597.5 cr in FY25",
+      "description": null,
+      "sentiment": -0.9537,
+      "url": "https://www.livemint.com/companies/company-results/loreal-india-posts-22-6-pc-rise-in-profit-to-rs-597-5-cr-in-fy25-11759498126072.html"
+    },
+    "article_random": {
+      "title": "Bethenny Frankel talks walking Paris Fashion Week runway in feathered, ab-baring dress: ‘How I feel comes first’",
+      "description": null,
+      "sentiment": 0.9137,
+      "url": "https://pagesix.com/2025/10/01/style/bethenny-frankel-talks-walking-loreal-paris-fashion-week-runway/"
+    },
+    "mots_cles_frequents": [
+      "prime",
+      "paris",
+      "bethenny",
+      "frankel",
+      "october",
+      "deals",
+      "more",
+      "oréal",
+      "worth",
+      "fashion"
+    ]
+  },
+  {
+    "ticker": "ORA.PA",
+    "mois": "2025-10",
+    "sentiment_moyen": 0.5739,
+    "nb_articles": 53,
+    "article_plus_positif": {
+      "title": "Someone Digitally Removed The Orange From Donald Trump's Face, And The Before And After Is Going Viral",
+      "description": null,
+      "sentiment": 0.9497,
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_bb2131b9-1e24-40fc-b5e9-7eece9ac6b00"
+    },
+    "article_plus_negatif": {
+      "title": "Herman Miller Gaming Introduces New 'Ignite' and 'Nova' Colorways for the Embody Gaming Chair",
+      "description": null,
+      "sentiment": -0.8182,
+      "url": "https://hypebeast.com/2025/10/herman-miller-gaming-introduces-new-ignite-and-nova-colorways-for-the-embody-gaming-chair"
+    },
+    "article_random": {
+      "title": "AstroAI B8 3000A 12V Car Battery Jump Starter (Orange) $18",
+      "description": null,
+      "sentiment": 0.8418,
+      "url": "https://slickdeals.net/f/18700513-astroai-b8-3000a-car-battery-jump-starter-18-amazon"
+    },
+    "mots_cles_frequents": [
+      "orange",
+      "your",
+      "cosmic",
+      "apple",
+      "iphone",
+      "ultra",
+      "week",
+      "galaxy",
+      "black",
+      "prime"
+    ]
+  },
+  {
+    "ticker": "PUB.PA",
+    "mois": "2025-10",
+    "sentiment_moyen": 0.5204,
+    "nb_articles": 67,
+    "article_plus_positif": {
+      "title": "Media Buying Briefing: AI’s impact on search forces agencies to rewrite the marketing script",
+      "description": null,
+      "sentiment": 0.9487,
+      "url": "http://digiday.com/media-buying/media-buying-briefing-ais-impact-on-search-forces-agencies-to-rewrite-the-marketing-script/"
+    },
+    "article_plus_negatif": {
+      "title": "AI Momentum Spurs Another 2025 Forecast Upgrade for Publicis",
+      "description": null,
+      "sentiment": -0.9507,
+      "url": "https://www.adweek.com/agencies/ai-momentum-spurs-another-2025-forecast-upgrade-for-publicis/"
+    },
+    "article_random": {
+      "title": "Publicis Raises Growth Outlook on Strong Ads and AI Demand",
+      "description": null,
+      "sentiment": 0.593,
+      "url": "https://biztoc.com/x/ac6721f49c623bc8"
+    },
+    "mots_cles_frequents": [
+      "publicis",
+      "marketing",
+      "agency",
+      "market",
+      "revenue",
+      "growth",
+      "agencies",
+      "forecast",
+      "media",
+      "global"
+    ]
+  },
+  {
+    "ticker": "RI.PA",
+    "mois": "2025-10",
+    "sentiment_moyen": 0.2805,
+    "nb_articles": 55,
+    "article_plus_positif": {
+      "title": "Marlon Humphrey and Patrick Ricard -- but not Lamar Jackson -- back on practice field for Ravens",
+      "description": null,
+      "sentiment": 0.9496,
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_d3f6e3d2-6733-42e1-91c9-25e3ab96f5c2"
+    },
+    "article_plus_negatif": {
+      "title": "Sazerac bets on India as bourbon maker seeks growth outside US",
+      "description": null,
+      "sentiment": -0.8915,
+      "url": "https://www.livemint.com/companies/news/sazerac-bets-on-india-as-bourbon-maker-seeks-growth-outside-us-11760426757423.html"
+    },
+    "article_random": {
+      "title": "Ravens QB Lamar Jackson absent from the portion of practice open to reporters",
+      "description": null,
+      "sentiment": 0,
+      "url": "https://sports.yahoo.com/article/ravens-qb-lamar-jackson-absent-181356473.html"
+    },
+    "mots_cles_frequents": [
+      "ravens",
+      "lamar",
+      "jackson",
+      "practice",
+      "injury",
+      "week",
+      "texans",
+      "hamilton",
+      "hamstring",
+      "ricard"
+    ]
+  },
+  {
+    "ticker": "RNO.PA",
+    "mois": "2025-10",
+    "sentiment_moyen": 0.2455,
+    "nb_articles": 110,
+    "article_plus_positif": {
+      "title": "JA on F1 podcast: Meet the man set to lead a top manufacturer’s F1 challenge",
+      "description": null,
+      "sentiment": 0.9466,
+      "url": "https://www.autosport.com/f1/news/ja-on-f1-podcast-meet-the-man-set-to-lead-a-top-manufacturers-f1-challenge/10767695/"
+    },
+    "article_plus_negatif": {
+      "title": "EVs Take A Record 98.9% Share In Norway – Tesla Model Y Dominates",
+      "description": null,
+      "sentiment": -0.9448,
+      "url": "https://cleantechnica.com/2025/10/08/evs-take-a-record-98-9-share-in-norway-tesla-model-y-dominates/"
+    },
+    "article_random": {
+      "title": "1983 DeLorean DMC-12 5-Speed",
+      "description": null,
+      "sentiment": 0.9323,
+      "url": "https://bringatrailer.com/listing/1983-delorean-dmc-12-42/"
+    },
+    "mots_cles_frequents": [
+      "renault",
+      "dieselgate",
+      "carmakers",
+      "with",
+      "data",
+      "customers",
+      "dacia",
+      "breach",
+      "massive",
+      "lawsuit"
+    ]
+  },
+  {
+    "ticker": "SAF.PA",
+    "mois": "2025-10",
+    "sentiment_moyen": 0.5895,
+    "nb_articles": 112,
+    "article_plus_positif": {
+      "title": "PEACEMAKER: James Gunn Confirms The Quantum Unfolding Chamber Is \"Non-Human\" - Is He Teasing Brainiac?",
+      "description": null,
+      "sentiment": 0.9302,
+      "url": "https://comicbookmovie.com/tv/dc/peacemaker/peacemaker-james-gunn-confirms-the-quantum-unfolding-chamber-is-non-human---is-he-teasing-brainiac-a224140"
+    },
+    "article_plus_negatif": {
+      "title": "SUPERMAN Now Available On 4K Ultra HD & Blu-ray; Come Check Out Our Exclusive Gift Unboxing!",
+      "description": null,
+      "sentiment": -0.7764,
+      "url": "https://comicbookmovie.com/superman/superman-now-available-on-4k-ultra-hd-blu-ray-come-check-out-our-exclusive-gift-unboxing-a224299"
+    },
+    "article_random": {
+      "title": "Lanterns: everything we know so far about the DC Universe's Green Lantern TV show",
+      "description": null,
+      "sentiment": 0.9246,
+      "url": "https://www.techradar.com/streaming/hbo-max/lanterns-hub"
+    },
+    "mots_cles_frequents": [
+      "gunn",
+      "peacemaker",
+      "james",
+      "season",
+      "finale",
+      "with",
+      "boeing",
+      "says",
+      "reveals",
+      "show"
+    ]
+  },
+  {
+    "ticker": "SAN.PA",
+    "mois": "2025-10",
+    "sentiment_moyen": 0.1909,
+    "nb_articles": 98,
+    "article_plus_positif": {
+      "title": "Health Care Roundup: Market Talk",
+      "description": null,
+      "sentiment": 0.9485,
+      "url": "https://biztoc.com/x/e267e31f029f8c30"
+    },
+    "article_plus_negatif": {
+      "title": "Why Apogee, A Rival To Regeneron And Sanofi, Rocketed 34% And Broke Out",
+      "description": null,
+      "sentiment": -0.944,
+      "url": "https://biztoc.com/x/48c6f2b5cf7e137d"
+    },
+    "article_random": {
+      "title": "Farther Finance Advisors LLC Has $276,000 Stock Holdings in Sanofi $SNY",
+      "description": null,
+      "sentiment": 0,
+      "url": "https://www.etfdailynews.com/2025/10/01/farther-finance-advisors-llc-has-276000-stock-holdings-in-sanofi-sny/"
+    },
+    "mots_cles_frequents": [
+      "sanofi",
+      "factbox",
+      "wilson",
+      "jets",
+      "mets",
+      "shares",
+      "sold",
+      "phase",
+      "keith",
+      "hernandez"
+    ]
+  },
+  {
+    "ticker": "SGO.PA",
+    "mois": "2025-10",
+    "sentiment_moyen": -0.104,
+    "nb_articles": 52,
+    "article_plus_positif": {
+      "title": "Peru Construction Materials Market Forecast Report 2025-2034: $166 Million Competitive Landscape Shaped by Global Leaders Sika, Bostik, and Saint-Gobain",
+      "description": null,
+      "sentiment": 0.949,
+      "url": "https://www.globenewswire.com/news-release/2025/10/03/3160896/28124/en/Peru-Construction-Materials-Market-Forecast-Report-2025-2034-166-Million-Competitive-Landscape-Shaped-by-Global-Leaders-Sika-Bostik-and-Saint-Gobain.html"
+    },
+    "article_plus_negatif": {
+      "title": "Sidetrade: Revenue for the First Nine Months of 2025 up 13% at Constant Exchange Rates",
+      "description": null,
+      "sentiment": -0.9521,
+      "url": "https://www.globenewswire.com/news-release/2025/10/14/3166495/0/en/Sidetrade-Revenue-for-the-First-Nine-Months-of-2025-up-13-at-Constant-Exchange-Rates.html"
+    },
+    "article_random": {
+      "title": "Building Materials Market Size to Worth USD 2.17 Trillion by 2034",
+      "description": null,
+      "sentiment": -0.9294,
+      "url": "https://www.globenewswire.com/news-release/2025/10/01/3159267/0/en/Building-Materials-Market-Size-to-Worth-USD-2-17-Trillion-by-2034.html"
+    },
+    "mots_cles_frequents": [
+      "market",
+      "saint",
+      "gobain",
+      "billion",
+      "report",
+      "size",
+      "building",
+      "materials",
+      "worth",
+      "profitability"
+    ]
+  },
+  {
+    "ticker": "STLAP.PA",
+    "mois": "2025-10",
+    "sentiment_moyen": 0.1563,
+    "nb_articles": 130,
+    "article_plus_positif": {
+      "title": "Stellantis delays strategic plan as CEO faces US, EU regulatory hurdles",
+      "description": null,
+      "sentiment": 0.9496,
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_9569371d-7870-49ce-94d0-7923d70b3593"
+    },
+    "article_plus_negatif": {
+      "title": "Stellantis Stock Surges as Jeep Maker's U.S. Sales Rise For First Time in Two Years",
+      "description": null,
+      "sentiment": -0.9507,
+      "url": "https://www.investopedia.com/stellantis-stock-surges-as-jeep-maker-us-sales-rise-for-first-time-in-two-years-11822907"
+    },
+    "article_random": {
+      "title": "Typhoon Matmo hits southern China during peak holiday season",
+      "description": null,
+      "sentiment": 0,
+      "url": "https://biztoc.com/x/030c5548d2cc9e90"
+    },
+    "mots_cles_frequents": [
+      "stellantis",
+      "billion",
+      "plan",
+      "trump",
+      "dodge",
+      "investment",
+      "jeep",
+      "with",
+      "america",
+      "more"
+    ]
+  },
+  {
+    "ticker": "STMPA.PA",
+    "mois": "2025-10",
+    "sentiment_moyen": 0.4772,
+    "nb_articles": 76,
+    "article_plus_positif": {
+      "title": "These were the bestselling cameras in Japan in September: Where would Sony be without those ZV cameras :)",
+      "description": null,
+      "sentiment": 0.9505,
+      "url": "https://www.sonyalpharumors.com/these-were-the-bestselling-cameras-in-japan-in-september-where-would-sony-be-without-those-zv-cameras/"
+    },
+    "article_plus_negatif": {
+      "title": "Signaturefd LLC Boosts Stock Position in STMicroelectronics N.V. $STM",
+      "description": null,
+      "sentiment": -0.9487,
+      "url": "https://www.etfdailynews.com/2025/10/01/signaturefd-llc-boosts-stock-position-in-stmicroelectronics-n-v-stm/"
+    },
+    "article_random": {
+      "title": "Canon’s RF 85mm f/1.4: The Sweet Spot Between Power and Practicality",
+      "description": null,
+      "sentiment": 0.7566,
+      "url": "https://fstoppers.com/reviews/canons-rf-85mm-f14-sweet-spot-between-power-and-practicality-713770"
+    },
+    "mots_cles_frequents": [
+      "stmicroelectronics",
+      "canon",
+      "next",
+      "cameras",
+      "stock",
+      "announces",
+      "solutions",
+      "ducati",
+      "what",
+      "launch"
+    ]
+  },
+  {
+    "ticker": "SU.PA",
+    "mois": "2025-10",
+    "sentiment_moyen": 0.2855,
+    "nb_articles": 124,
+    "article_plus_positif": {
+      "title": "Brompton’s versatile Electric G folding e-bike is now available in the US",
+      "description": null,
+      "sentiment": 0.9284,
+      "url": "https://www.theverge.com/news/789491/bromptons-versatile-electric-g-folding-e-bike-is-now-available-in-the-us"
+    },
+    "article_plus_negatif": {
+      "title": "Tesla stock pops after 3rd-quarter deliveries beat Wall Street's estimates",
+      "description": null,
+      "sentiment": -0.9531,
+      "url": "https://www.businessinsider.com/tesla-stock-price-q3-deliveries-evs-tax-credit-tsla-2025-10"
+    },
+    "article_random": {
+      "title": "Specialized S-Works Levo 4 Electric Mountain Bike Review: The Best Electric Mountain Bike",
+      "description": null,
+      "sentiment": 0.9194,
+      "url": "https://www.wired.com/review/specialized-s-works-levo-4/"
+    },
+    "mots_cles_frequents": [
+      "electric",
+      "tesla",
+      "affordable",
+      "with",
+      "sales",
+      "says",
+      "could",
+      "bike",
+      "review",
+      "best"
+    ]
+  },
+  {
+    "ticker": "TTE.PA",
+    "mois": "2025-10",
+    "sentiment_moyen": 0.0588,
+    "nb_articles": 92,
+    "article_plus_positif": {
+      "title": "It's Time To Change The Narrative On Sustainability Through Integrated Reporting 2.0",
+      "description": null,
+      "sentiment": 0.9476,
+      "url": "https://www.forbes.com/sites/bobeccles/2025/10/15/its-time-to-change-the-narrative-on-sustainability-through-integrated-reporting-20/"
+    },
+    "article_plus_negatif": {
+      "title": "TotalEnergies Anticipates Q3 Earnings Boost on Production Surge",
+      "description": null,
+      "sentiment": -0.958,
+      "url": "https://finance.yahoo.com/news/totalenergies-anticipates-q3-earnings-boost-110000207.html"
+    },
+    "article_random": {
+      "title": "Tanker Diversions From Sanctioned Chinese Terminal May Cause Congestion at Other Ports",
+      "description": null,
+      "sentiment": 0,
+      "url": "https://gcaptain.com/tanker-diversions-from-sanctioned-chinese-terminal-may-cause-congestion-at-other-ports/"
+    },
+    "mots_cles_frequents": [
+      "totalenergies",
+      "energy",
+      "sponsored",
+      "iraq",
+      "agreement",
+      "project",
+      "shares",
+      "oilfield",
+      "boost",
+      "over"
+    ]
+  },
+  {
+    "ticker": "URW.PA",
+    "mois": "2025-10",
+    "sentiment_moyen": 0.8581,
+    "nb_articles": 4,
+    "article_plus_positif": {
+      "title": "URW SE - Information on total number of voting rights and shares in the share capital as at September 30, 2025",
+      "description": null,
+      "sentiment": 0.9502,
+      "url": "https://www.globenewswire.com/news-release/2025/10/02/3160587/0/en/URW-SE-Information-on-total-number-of-voting-rights-and-shares-in-the-share-capital-as-at-September-30-2025.html"
+    },
+    "article_plus_negatif": {
+      "title": "Federal Realty Buys Maryland Retail Plaza for $187M",
+      "description": null,
+      "sentiment": 0.766,
+      "url": "http://commercialobserver.com/2025/10/federal-realty-annapolis-town-center-maryland-retail/"
+    },
+    "article_random": {
+      "title": "Federal Realty Buys Maryland Retail Plaza for $187M",
+      "description": null,
+      "sentiment": 0.766,
+      "url": "http://commercialobserver.com/2025/10/federal-realty-annapolis-town-center-maryland-retail/"
+    },
+    "mots_cles_frequents": [
+      "information",
+      "total",
+      "number",
+      "voting",
+      "rights",
+      "shares",
+      "share",
+      "capital",
+      "september",
+      "federal"
+    ]
+  },
+  {
+    "ticker": "VIE.PA",
+    "mois": "2025-10",
+    "sentiment_moyen": 0.1909,
+    "nb_articles": 44,
+    "article_plus_positif": {
+      "title": "Veolia North America names new CEO",
+      "description": null,
+      "sentiment": 0.9496,
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_fcd34ec2-431f-43ae-b14e-30dcbcc785a9"
+    },
+    "article_plus_negatif": {
+      "title": "TotalEnergies, Veolia Partner To Drive Low-Carbon Future",
+      "description": null,
+      "sentiment": -0.9428,
+      "url": "https://biztoc.com/x/31c576a8be2a5d50"
+    },
+    "article_random": {
+      "title": "Procurement & Supply Chain Portfolio | 2025 Editions Now Live",
+      "description": null,
+      "sentiment": 0.9206,
+      "url": "https://www.globenewswire.com/news-release/2025/10/09/3164375/0/en/Procurement-Supply-Chain-Portfolio-2025-Editions-Now-Live.html"
+    },
+    "mots_cles_frequents": [
+      "market",
+      "veolia",
+      "recycling",
+      "water",
+      "totalenergies",
+      "drive",
+      "industry",
+      "report",
+      "billion",
+      "partner"
+    ]
+  },
+  {
+    "ticker": "VIV.PA",
+    "mois": "2025-10",
+    "sentiment_moyen": 0.6778,
+    "nb_articles": 18,
+    "article_plus_positif": {
+      "title": "How To Invest Like A Billionaire—At A Discount",
+      "description": null,
+      "sentiment": 0.9402,
+      "url": "https://www.forbes.com/sites/baldwin/2025/10/03/how-to-invest-like-a-billionaire-at-a-discount/"
+    },
+    "article_plus_negatif": {
+      "title": "Bernard Osta promoted to Vestiaire Collective CEO",
+      "description": null,
+      "sentiment": 0,
+      "url": "https://www.just-style.com/news/bernard-osta-ceo-vestiaire-collective/"
+    },
+    "article_random": {
+      "title": "Whither Syria’s Druze?",
+      "description": null,
+      "sentiment": 0.8136,
+      "url": "https://www.hoover.org/research/whither-syrias-druze"
+    },
+    "mots_cles_frequents": [
+      "bernard",
+      "osta",
+      "vestiaire",
+      "collective",
+      "studios",
+      "over",
+      "names",
+      "chief",
+      "executive",
+      "officer"
+    ]
+  },
+  {
+    "ticker": "WLN.PA",
+    "mois": "2025-10",
+    "sentiment_moyen": 0.8474,
+    "nb_articles": 8,
+    "article_plus_positif": {
+      "title": "Worldline appoints new head of financial services",
+      "description": null,
+      "sentiment": 0.9244,
+      "url": "https://www.finextra.com/pressarticle/107305/worldline-appoints-new-head-of-financial-services"
+    },
+    "article_plus_negatif": {
+      "title": "aioworldline 0.3.0",
+      "description": null,
+      "sentiment": 0.7306,
+      "url": "https://pypi.org/project/aioworldline/0.3.0/"
+    },
+    "article_random": {
+      "title": "Worldline just downgraded at Morgan Stanley, here's why",
+      "description": null,
+      "sentiment": 0.9169,
+      "url": "https://thefly.com/permalinks/entry.php/id4210309/WRDLY-Worldline-just-downgraded-at-Morgan-Stanley-heres-why"
+    },
+    "mots_cles_frequents": [
+      "worldline",
+      "appoints",
+      "head",
+      "financial",
+      "services",
+      "aioworldline",
+      "just",
+      "downgraded",
+      "morgan",
+      "stanley"
+    ]
+  }
+]

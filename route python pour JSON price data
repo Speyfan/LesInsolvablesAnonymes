@@ -1,0 +1,88 @@
+# à installer : pip install yfinance fastapi uvicorn pandas --quiet
+
+import yfinance as yf
+import pandas as pd
+import json
+from fastapi import FastAPI, Query, HTTPException
+from fastapi.responses import JSONResponse, FileResponse
+from datetime import datetime
+from typing import List
+import os
+
+app = FastAPI(title="CAC40 Open Prices API")
+
+# --- Liste des symboles CAC40 ---
+cac40_symbols = {
+    "Air Liquide": "AI.PA",
+    "Airbus": "AIR.PA",
+    "ArcelorMittal": "MT.AS",
+    "AXA": "CS.PA",
+    "BNP Paribas": "BNP.PA",
+    "Bouygues": "EN.PA",
+    "Capgemini": "CAP.PA",
+    "Carrefour": "CA.PA",
+    "Crédit Agricole": "ACA.PA",
+    "Danone": "BN.PA",
+    "Dassault Systèmes": "DSY.PA",
+    "Engie": "ENGI.PA",
+    "EssilorLuxottica": "EL.PA",
+    "Eurofins Scientific": "ERF.PA",
+    "Hermès": "RMS.PA",
+    "Kering": "KER.PA",
+    "Legrand": "LR.PA",
+    "L'Oréal": "OR.PA",
+    "LVMH": "MC.PA",
+    "Michelin": "ML.PA",
+    "Orange": "ORA.PA",
+    "Pernod Ricard": "RI.PA",
+    "Renault": "RNO.PA",
+    "Safran": "SAF.PA",
+    "Saint-Gobain": "SGO.PA",
+    "Sanofi": "SAN.PA",
+    "Schneider Electric": "SU.PA",
+    "Société Générale": "GLE.PA",
+    "STMicroelectronics": "STM.PA",
+    "Teleperformance": "TEP.PA",
+    "Thales": "HO.PA",
+    "TotalEnergies": "TTE.PA",
+    "Unibail-Rodamco-Westfield": "URW.AS",
+    "Veolia": "VIE.PA",
+    "Vinci": "DG.PA",
+    "Vivendi": "VIV.PA"
+}
+
+# --- Route pour récupérer les prix d'ouverture ---
+@app.get("/get_open_prices")
+def get_open_prices(
+    stocks: str = Query(..., description="Liste des actions séparées par des virgules"),
+    start: str = Query(..., description="Date de début AAAA-MM-JJ"),
+    end: str = Query(..., description="Date de fin AAAA-MM-JJ")
+):
+    stock_names = [s.strip() for s in stocks.split(",")]
+    results_all = {}
+
+    for stock_name in stock_names:
+        symbol = cac40_symbols.get(stock_name)
+        if not symbol:
+            results_all[stock_name] = {"error": "Action non trouvée"}
+            continue
+
+        try:
+            data = yf.download(symbol, start=start, end=end)
+            if data.empty:
+                results_all[stock_name] = {"error": "Aucune donnée trouvée pour cette période"}
+                continue
+
+            results_all[stock_name] = [
+                {"date": str(date.date()), "open_price": round(float(row["Open"]), 2)}
+                for date, row in data.iterrows()
+            ]
+
+        except Exception as e:
+            results_all[stock_name] = {"error": str(e)}
+
+    return JSONResponse(content={
+        "start_date": start,
+        "end_date": end,
+        "data": results_all
+    })
